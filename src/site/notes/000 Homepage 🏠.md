@@ -4,5 +4,5 @@
 
 
 [[010 PTBT🧐\|010 PTBT🧐]]
-[[Dự án/Obsidian/030 Obsidian 🟣\|030 Obsidian 🟣]]
-[[Dự án/Ngoại ngữ/040 Học tiếng Hàn 🇰🇷\|040 Học tiếng Hàn 🇰🇷]]
+[[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
+[[Dự án/Ngoại ngữ/030 Học tiếng Hàn 🇰🇷\|030 Học tiếng Hàn 🇰🇷]]
