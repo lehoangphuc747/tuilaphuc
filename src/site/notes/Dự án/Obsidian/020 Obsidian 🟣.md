@@ -7,6 +7,7 @@
 [[000 Homepage 🏠\|000 Homepage 🏠]]
 [[010 PTBT🧐\|010 PTBT🧐]]
 ___
+# [Hướng dẫn của Obsidian](https://publish.obsidian.md/help-vi/)
 # [[Dự án/Obsidian/Plugins\|Plugins]]
 
 # [[Dự án/Obsidian/Một số câu lệnh Obsidian\|Một số câu lệnh Obsidian]]
