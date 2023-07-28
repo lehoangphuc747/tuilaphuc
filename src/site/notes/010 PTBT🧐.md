@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-ptbt/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/010-ptbt/","pinned":true}
 ---
 
 
