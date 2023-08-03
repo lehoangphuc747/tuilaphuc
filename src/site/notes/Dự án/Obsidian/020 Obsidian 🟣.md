@@ -21,3 +21,5 @@ ___
 [[Dự án/Obsidian/Annotator - Read, Highlights, Notes PDF\|Annotator - Read, Highlights, Notes PDF]]
 
 [[Dự án/Obsidian/Annotator - Read, Highlights, Notes PDF\|Annotator - Read, Highlights, Notes PDF]]
+
+[Thêm comment](https://github.com/lehoangphuc747/hocanki/blob/main/src/site/_includes/components/user/notes/footer/001-comment.njk)
