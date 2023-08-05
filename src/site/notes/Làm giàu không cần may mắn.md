@@ -7,7 +7,8 @@
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
 ## 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-seek-wealth-not-money-or-status/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -19,7 +20,8 @@ Người phỏng vấn: SỰ KHÁC BIỆT CỦA TÀI SẢN, TIỀN VÀ ĐỊA V
 Naval: Tất cả chúng ta đều muốn giải quyết vấn đề tiền nong của bản thân. Ai cũng hiểu và muốn mình giàu có, nhưng không phải ai cũng có một khung sườn để làm theo, hay những nguyên tắc để dựa vào. Đấy là lý do tôi thực hiện buổi nói chuyện này.
 
 ### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wealth-is-assets-that-earn-while-you-sleep/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -37,7 +39,8 @@ Tóm lại, tài sản là những thứ và hoạt động kinh doanh mà giúp
 
 
 ### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wealth-buys-your-freedom/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -55,7 +58,8 @@ Có một tin vui là trò chơi tạo tài sản một trò chơi có tổng d�
   
 
 ### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money-is-how-we-transfer-wealth/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -72,7 +76,8 @@ Tóm lại, tiền bạc là các chúng ta biểu thị lượng giá trị ng�
 </div></div>
 
 ### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/status-is-your-rank-in-the-social-hierarchy/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -96,7 +101,8 @@ Tài sản là một trò chơi tổng dương tất cả đều có thể cùng
 </div></div>
   
 ### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/status-is-a-very-old-game/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -113,7 +119,8 @@ Săn bắn hái lượm là một xã hội dựa trên địa vị. Bắt đầ
 </div></div>
   
 ### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/people-creating-wealth-will-always-be-attacked-by-people-playing-status-games/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -134,55 +141,39 @@ Những người chơi trò chơi địa vị sẽ lợi dụng bạn để tạ
 
 
 
-2\. MAKE ABUNDANCE FOR THE WORLD  
+## 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-make-abundance-for-the-world/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 Hãy tạo sự dư thừa cho thế giới
 ------------------------------------------------------------------
 
 Tài sản không phải là việc lấy của người này chia cho người kia mà là có được nhờ tạo ra sự dư thừa cho thế giới.
 
-### Ethical wealth creation makes abundance for the world  
-Việc làm ăn kiếm tiền chân chính là việc tạo ra sự dư thừa cho thế giới
+### [[Ethical wealth creation makes abundance for the world\|Ethical wealth creation makes abundance for the world]]
 
-Naval: Người ta hay nói gian thương đúng không? (Lời người dịch (ND): Hãy nhớ lại bao nhiêu địa chủ Việt Nam trong mọi thể loại truyện dân gian, hay thời kỳ cải cách ruộng đất xem họ được miêu tả như thế nào). Nguồn gốc là từ tâm niệm đồng tiền là tiên là phật là quỷ là thần. Người ta nghĩ ngân hàng cướp của. Thật ra nó đúng, không sai. Vấn đề ở đây đi sâu hơn thế.
+### [[Everyone can be rich\|Everyone can be rich]]
 
-Lịch sử thế giới, theo một nghĩa nào đó là mối quan hệ chủ tớ, kẻ thống trị và bị trị hay nói cách khác là thú săn mồi và con mồi. Con mồi là những người tạo ra. Thú săn mồi là những kẻ cướp đoạt, lấy của cải của những người tạo ra. Người làm việc, chế tạo là những người đổ mồ hôi sôi nước mắt để tạo ra những món hàng.
+</div></div>
 
-Và những kẻ cướp đoạt ào đến với kiếm, súng, gươm, thuế, tư bản thân tộc, cộng sản hay bất kỳ phương cách nào chúng nghĩ ra được. Có rất nhiều cách để làm phường trộm cắp.
+## 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-free-markets-are-intrinsic-to-humans/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-Ngay cả trong môi trường tự nhiên xem có bao nhiêu loại ký sinh? Hay ngay trong cơ thể bạn với 7749 thể loại giun? Cuộc đời có cho và nhận nhưng có vẻ những kẻ chỉ muốn nhận lúc nào cũng nhiều hơn. Đấy là điều tự nhiên của bất kỳ hệ thống nào có cơ chế phức tạp.
 
-Điều tôi muốn tập trung ở đây là và thật sự tạo ra của cải. Lặp lại ở đây ta không kiếm tiền. Ta cũng không lấy của người khác. Ở đây ta tạo ra sự dư thừa.
 
-Dĩ nhiên là lượng công việc không có giới hạn. Lẫn khả năng tạo của cải của con người không có giới hạn. Nếu không ta vẫn còn gào rú trong hang, tìm cách đánh lửa, chia củi và khi thoảng là thịt thú.
 
-Tất cả những của cải trong xã hội văn minh loài con người phải được tạo ra. Nó phải được tạo ra từ đâu đó. Nhờ bàn tay công sức khối óc của người tạo nên nó mà thành hình. Kết hợp với những kiến thức được khám phá, những thuật lý được phát minh. Ý tưởng cho rằng tài sản là thứ cướp đoạt là thủ đoạn đê tiện của bọn chơi trò chơi địa vị.
-
-### Everyone can be rich  
-Ai cũng có thể giàu được
-
-Naval: Thực tế mà nói ai cũng có khả năng trở nên giàu có. Nhưng ta phải hiểu là giàu có dựa trên lượng của cải trong xã hội so với quá khứ, chứ không phải dựa trên lượng của cải khi so với người khác. Hãy quan sát người dân ở những nước phát triển. Về cơ bản tất cả đều là hầu tước, bá tước so với hai trăm năm trước.
-
-Ví dụ, hai thế kỷ trước không ai có kháng sinh. Không điện. Không xe hơi hay mô tô. Không ai có iPhone. Tất cả những phát minh ấy làm ta giàu có hơn với tư cách là loài người.
-
-Tôi thà làm người nghèo ở những nước phát triển hơn là làm vua thời trung cổ vì nhờ những hoạt động tạo ra của cải.
-
-Động cơ của thuật lý là khoa học. Chúng có mục đích là tạo ra thặng dư, dư thừa. Do vậy tôi nghĩ ai rồi cũng sẽ giàu.
-
-Tôi có giả định như thế này. Giả sử ai cũng có kiến thức của một kỹ sư phần mềm và phần cứng giỏi. Ai cũng có thể lập trình, lắp ráp người máy, xây dựng hệ thống mạng. Tưởng tượng thế nhé. Chỉ trong 20 năm thôi. Có khi là mười năm nếu ta lạc quan, thì ta sẽ có người máy cùng máy móc, phần mềm, phần cứng làm mọi thứ cho ta. Từ đó, tất cả chúng ta sẽ sống trong một sự dư thừa khổng lồ.
-
-Do đó về cơ bản ta sẽ được nghỉ hưu non, vì không còn bất kì điều gì làm ta phải động tay chân nữa. Y tá máy, bệnh viện được AI quan trắc, xe tự hành, nông trại tự hành, năng lượng sạch,...
-
-Ở thời điểm thiên đường ấy, ta có thể dùng những khám phá thuật lý để đạt những gì ta muốn. Nếu có ai làm việc, thì đấy là cách họ sáng tạo, hoặc họ muốn đóng góp, chế tạo, xây dựng.
-
-Tôi tin tư bản là hệ thống tốt nhất chúng ta hiện có. Nhưng cũng như những hệ thống khác, nó có điểm yếu và điểm chưa được. Nó sẽ bị lệch pha bởi việc định giá sai bởi yếu tố bên ngoài (Người dịch: Té nước theo mưa với xăng và Tết), bởi sản lượng không được như mong đợi do tham nhũng hay độc quyền.
-
-3\. FREE MARKETS ARE INTRINSIC TO HUMANS  
 Thị trường tự do nằm trong bản chất loài người
 -----------------------------------------------------------------------------------------
 
 Chúng ta là loài động vật duy nhất có khả năng hợp tác với nhau bất chấp ranh giới sinh học của bản thể loài người, vì con người có thể quan trắc tín dụng và nợ trong những giao dịch tự nguyện.
 
-### Free markets are intrinsic to the human species  
+### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 Thị trường tự do nằm trong bản chất loài người
 
 Naval: Về cơ bản, Chủ nghĩa Tư bản (Thị trường Tự do) nằm trong gen của chúng ta. Chúng ta không nghiên cứu, tìm hiểu hay khám phá ra hệ thống kinh tế tư bản. Nó luôn hiện diện trong từng hoạt động giao dịch trao đổi từ thời cổ đại.
@@ -203,7 +194,14 @@ Tuy nhiên, nếu bạn không ăn đừng đạp đổ. Trò chơi tạo tài s
 
 Trò chơi tài sản này, nếu được chơi một cách tử tế thì sẽ mang tới những giá trị tốt đẹp cho toàn thể xã hội loài người. Nó đã và đang giúp xã hội loài người càng lúc càng giàu có hơn và đến một lúc nào đó, chúng ta sẽ tích lũy đủ ở mức làm theo năng lực hưởng theo nhu cầu mà không cần một bên trung gian nào đứng ra chia giùm.
 
-### Too many takers and not enough makers will plunge a society into ruin  
+</div></div>
+  
+### 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/too-many-takers-and-not-enough-makers-will-plunge-a-society-into-ruin/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 Quá ít người cho và quá nhiều người nhận sẽ khiến xã hội suy thoái
 
 Người phỏng vấn: Nhưng ở đây, mong muốn làm giàu không chỉ xuất hiện ở cá nhân. Có những tổ chức, đoàn thể, chính phủ cũng luôn có nhu cầu làm giàu. Ít nhất là trông có vẻ như vậy.
@@ -225,6 +223,13 @@ Do đó nếu quá nhiều kí sinh mà không cộng sinh, chắc chắn sẽ d
 Quay lại chủ đề chính, ta đang nói về việc kiến tạo tài sản một cách chân chính, không phải dùng con đường độc quyền hay tư bản thân tộc hoặc thao túng giá cả.
 
 Tóm lại, nếu xã hội không có ai chơi trò tài sản, hay trò tài sản không được phép chơi, bị người người nhà nhà khinh mạt, thì xã hội sẽ bị đổ nát và ta sẽ bước những bước đi lùi dần về quá khứ và lụi tàn.
+
+</div></div>
+  
+
+
+</div></div>
+
 
 4\. Making money isn’t about luck  
 Làm giàu không cần may mắn
