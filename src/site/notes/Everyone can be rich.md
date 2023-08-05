@@ -4,7 +4,7 @@
 
 # Everyone can be rich
 Ai cũng có thể giàu được
-
+---
 Naval: Thực tế mà nói ai cũng có khả năng trở nên giàu có. Nhưng ta phải hiểu là giàu có dựa trên lượng của cải trong xã hội so với quá khứ, chứ không phải dựa trên lượng của cải khi so với người khác. Hãy quan sát người dân ở những nước phát triển. Về cơ bản tất cả đều là hầu tước, bá tước so với hai trăm năm trước.
 
 Ví dụ, hai thế kỷ trước không ai có kháng sinh. Không điện. Không xe hơi hay mô tô. Không ai có iPhone. Tất cả những phát minh ấy làm ta giàu có hơn với tư cách là loài người.
