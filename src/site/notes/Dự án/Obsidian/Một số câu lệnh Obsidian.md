@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/du-an/obsidian/mot-so-cau-lenh-obsidian/"}
+{"dg-publish":true,"permalink":"/du-an/obsidian/mot-so-cau-lenh-obsidian/","dgPassFrontmatter":true}
 ---
 
 [[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
