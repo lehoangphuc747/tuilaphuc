@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/lam-giau-khong-can-may-man/"}
 ---
 
-# LÀM GIÀU KHÔNG CẦN MAY MẮN
 
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
