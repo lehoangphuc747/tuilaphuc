@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/wealth-is-assets-that-earn-while-you-sleep/"}
 ---
 
+# Wealth is assets that earn while you sleep
 Tài sản là thứ kiếm tiền cho bạn khi bạn ngủ
 
 Người phỏng vấn: Hãy cho tôi biết sự khác biệt giữa tài sản, tiền và địa vị.
