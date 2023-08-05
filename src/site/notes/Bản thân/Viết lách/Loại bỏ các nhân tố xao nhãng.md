@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ban-than/viet-lach/loai-bo-cac-nhan-to-xao-nhang/"}
+{"dg-publish":true,"permalink":"/ban-than/viet-lach/loai-bo-cac-nhan-to-xao-nhang/","dgPassFrontmatter":true}
 ---
 
 #focus 
