@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/du-an/obsidian/020-obsidian/","pinned":true}
+{"dg-publish":true,"dg-pinned":true,"permalink":"/du-an/obsidian/020-obsidian/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 #obsidian
