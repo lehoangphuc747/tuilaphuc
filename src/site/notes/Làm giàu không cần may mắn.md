@@ -27,7 +27,7 @@ Naval: Tất cả chúng ta đều muốn giải quyết vấn đề tiền non
 
 # Wealth is assets that earn while you sleep
 Tài sản là thứ kiếm tiền cho bạn khi bạn ngủ
-
+---
 Người phỏng vấn: Hãy cho tôi biết sự khác biệt giữa tài sản, tiền và địa vị.
 
 Naval: Tài sản là thứ bạn muốn. Lý do là vì tài sản có thể kiếm tiền cho bạn khi bạn ngủ. Có thể gọi tài sản là nhà máy bạn sở hữu, là những con bot đào bitcoin, là những người máy sản xuất hàng hóa ngày đêm. Tài sản còn có thể định nghĩa là phần mềm mà chạy 24/24, phục vụ khách hàng. Hay hiểu theo nghĩa truyền thống hơn là tiền trong ngân hàng ta để lấy lãi, hoặc dùng đầu tư cho những hoạt động kinh doanh.
@@ -46,7 +46,7 @@ Tóm lại, tài sản là những thứ và hoạt động kinh doanh mà giúp
 
 # Wealth buys your freedom
 Tài sản là thứ giúp bạn có tự do
-
+---
 Naval: Đến đây chắc bạn sẽ tự hỏi vì sao lại muốn có tài sản mà không phải giàu có hay địa vị. Đơn giản là vì tài sản sẽ mua cho bạn tự do. Tự do ấy là thay vì bạn sẽ dậy lúc 7 giờ sáng rồi lật đật đến công ty. Rằng bạn sẽ không chỉ dành phần lớn thời gian nhiều năng lượng và tích cực trong đời chỉ để làm việc những công việc bạn không cảm thấy hài lòng chỉ vì đồng lương.
 
 Tóm lại tài sản là tự do. Ngoài tự do tài chính như kiểu mua nhà, mua xe, mua điện thoại, nó còn cho ta tự do về cá nhân để thực sự sống theo cách mình muốn. Đấy chính là cái tự do tối thượng.
@@ -65,7 +65,7 @@ Có một tin vui là trò chơi tạo tài sản một trò chơi có tổng d�
 
 # Money is how we transfer wealth
 Tiền bạc là cách chúng ta chuyển giao tài sản
-
+---
 Naval: Tiền bạc là cách ta chuyển giao tài sản. Tiền bạc là tín dụng xã hội. Đấy là cách chúng ta mượn, ghi tín dụng và ghi nợ cho thời gian của người khác.
 
 Nếu tôi làm tốt việc của mình và tạo ra giá trị thì xã hội sẽ thưởng cho tôi và nói: "Cảm ơn. Chúng tôi nợ bạn và sẽ trả bạn trong tương lai cho những gì bạn đã làm hôm nay. Hay ghi giấy nợ để bạn có thể dùng và gọi đấy là tiền".
@@ -84,7 +84,7 @@ Tóm lại, tiền bạc là các chúng ta biểu thị lượng giá trị ng�
 
 # Status is your rank in the social hierarchy
 Địa vị là chỗ đứng của bạn trong thứ bậc xã hội
-
+---
 Naval: Người ta chơi hai trò chơi lớn trong đời. Thứ nhất là trò chơi tiền bạc. Tiền không mua được hạnh phúc. Nhưng nó giúp bạn giải quyết mọi vấn đề liên quan đến tiền nong để bạn có thời gian và khả năng tập trung suy nghĩ những vấn đề không giải quyết được bằng tiền. Đấy là lý do người ta muốn kiếm tiền.
 
 Dẫu vậy rất nhiều người tin rằng họ không thể làm được. Do đó, ăn không được thì đạp đổ. Chính vì vậy họ sẽ tấn công những người cố gắng tạo ra tài sản. "Tiền là tai, tiền là quỷ, tiền là yêu".
@@ -110,7 +110,7 @@ Tài sản là một trò chơi tổng dương tất cả đều có thể cùng
 
 # Status is a very old game
 Địa vị là một trò chơi rất cũ
-
+---
 Naval: Địa vị, so với tài sản, là một trò chơi có tổng bằng không, có kẻ thắng người thua. Anh lên thì tôi xuống. Đấy là một trò chơi rất cũ. Chúng ta chơi nó từ thời tiền sử. Đấy là cấu trúc xã hội. Ai là số 1, ai là con đầu đàn? Ai đứng thứ 2, sẽ thay thế đầu đàn trong tương lai? Ai là thứ 3? Để thứ 3 lên thứ 2 thì thứ 2 phải đi chỗ khác. Đấy là lý do gọi địa vị là một trò chơi có tổng bằng không.
 
 Chính trị cũng là một ví dụ khác. Thể thao cũng tương tự vậy. Để có người thắng thì có kẻ thua. Trò chơi địa vị có tầm quan trọng để ta có thể biết ai sẽ nắm quyền. Tuy nhiên cơ bản là bạn bị buộc phải chơi.
@@ -129,7 +129,7 @@ Săn bắn hái lượm là một xã hội dựa trên địa vị. Bắt đầ
 
 # People creating wealth will always be attacked by people playing status games
 Người chơi trò chơi tài sản sẽ luôn bị tấn công bởi người chơi trò chơi địa vị
-
+---
 Naval: Sẽ luôn có cuộc cạnh tranh ngầm giữa người tạo tài sản và người leo địa vị.
 
 Tôi khuyến khích và chủ trương chơi trò chơi tài sản hơn. Lý do là vì khi chơi trò địa vị, để ta đi lên thì ta phải đạp người xuống. Do vậy, khi ta bị ám ảnh về địa vị thì ta sẽ bị ảnh hưởng tiêu cực, trở nên hung hăng giận dữ. Vì bạn phải đánh nhau, dùng chiêu trò để chiếm chỗ của người ta.
@@ -163,7 +163,7 @@ Tài sản không phải là việc lấy của người này chia cho người 
 
 # Ethical wealth creation makes abundance for the world
 Việc làm ăn kiếm tiền chân chính là việc tạo ra sự dư thừa cho thế giới
-
+---
 Naval: Người ta hay nói gian thương đúng không? (Lời người dịch (ND): Hãy nhớ lại bao nhiêu địa chủ Việt Nam trong mọi thể loại truyện dân gian, hay thời kỳ cải cách ruộng đất xem họ được miêu tả như thế nào). Nguồn gốc là từ tâm niệm đồng tiền là tiên là phật là quỷ là thần. Người ta nghĩ ngân hàng cướp của. Thật ra nó đúng, không sai. Vấn đề ở đây đi sâu hơn thế.
 
 Lịch sử thế giới, theo một nghĩa nào đó là mối quan hệ chủ tớ, kẻ thống trị và bị trị hay nói cách khác là thú săn mồi và con mồi. Con mồi là những người tạo ra. Thú săn mồi là những kẻ cướp đoạt, lấy của cải của những người tạo ra. Người làm việc, chế tạo là những người đổ mồ hôi sôi nước mắt để tạo ra những món hàng.
@@ -189,7 +189,7 @@ Tất cả những của cải trong xã hội văn minh loài con người ph�
 
 # Everyone can be rich
 Ai cũng có thể giàu được
-
+---
 Naval: Thực tế mà nói ai cũng có khả năng trở nên giàu có. Nhưng ta phải hiểu là giàu có dựa trên lượng của cải trong xã hội so với quá khứ, chứ không phải dựa trên lượng của cải khi so với người khác. Hãy quan sát người dân ở những nước phát triển. Về cơ bản tất cả đều là hầu tước, bá tước so với hai trăm năm trước.
 
 Ví dụ, hai thế kỷ trước không ai có kháng sinh. Không điện. Không xe hơi hay mô tô. Không ai có iPhone. Tất cả những phát minh ấy làm ta giàu có hơn với tư cách là loài người.
@@ -219,8 +219,7 @@ Tôi tin tư bản là hệ thống tốt nhất chúng ta hiện có. Nhưng c�
 
 # 3. Free Markets are intrinsic to humans
 Thị trường tự do nằm trong bản chất loài người
------------------------------------------------------------------------------------------
-
+---
 Chúng ta là loài động vật duy nhất có khả năng hợp tác với nhau bất chấp ranh giới sinh học của bản thể loài người, vì con người có thể quan trắc tín dụng và nợ trong những giao dịch tự nguyện.
 
 ### 
@@ -231,7 +230,7 @@ Chúng ta là loài động vật duy nhất có khả năng hợp tác với nh
 
 # Free markets are intrinsic to the human species
 Thị trường tự do nằm trong bản chất loài người
-
+---
 Naval: Về cơ bản, Chủ nghĩa Tư bản (Thị trường Tự do) nằm trong gen của chúng ta. Chúng ta không nghiên cứu, tìm hiểu hay khám phá ra hệ thống kinh tế tư bản. Nó luôn hiện diện trong từng hoạt động giao dịch trao đổi từ thời cổ đại.
 
 Khi bạn và tôi trao đổi thông tin, thì đấy là mối quan hệ có qua có lại. Tôi gửi bạn thông tin bạn cần. Bạn cung cấp thông tin tôi cần. Hoạt động này dựa trên cơ sở thuận mua vừa bán. Nếu chúng ta không đạt được thỏa thuận, bạn sẽ tìm người khác để thực hiện việc trao đổi này. Do đó, hiện tượng trao đổi này cùng khả năng quan trắc tín dụng và nợ nần biến con người thành loài động vật xã hội vô cùng linh hoạt.
@@ -260,7 +259,7 @@ Trò chơi tài sản này, nếu được chơi một cách tử tế thì sẽ
 
 # Too many takers and not enough makers will plunge a society into ruin
 Quá ít người cho và quá nhiều người nhận sẽ khiến xã hội suy thoái
-
+---
 Người phỏng vấn: Nhưng ở đây, mong muốn làm giàu không chỉ xuất hiện ở cá nhân. Có những tổ chức, đoàn thể, chính phủ cũng luôn có nhu cầu làm giàu. Ít nhất là trông có vẻ như vậy.
 
 Naval: Đúng là nó trông như vậy thật. Vì những tổ chức đoàn thể chính phủ ấy thật ra đang chơi trò địa vị. Trong quá trình chơi trò địa vị ấy, họ phải đạp đổ cách tạo tài sản để càng ít người sở hữu tài sản càng tốt. Mục đích chính là kéo mọi người xuống để họ có thể đi lên.
@@ -288,74 +287,7 @@ Tóm lại, nếu xã hội không có ai chơi trò tài sản, hay trò tài s
 </div></div>
 
 
-4\. Making money isn’t about luck  
-Làm giàu không cần may mắn
---------------------------------------------------------------
-
-Làm giàu không cần may mắn. Bản chất của việc làm giàu là trở thành loại người có khả năng làm giàu.
-
-### Making money isn’t about luck  
-Làm giàu không cần đến may mắn
-
-Chúng ta luôn muốn trở nên giàu có. Và con đường đúng đắn là ta sẽ muốn đạt được điều đó trong đời mà không dựa vào may mắn. Nhiều người muốn giàu có cần may mắn. Rất nhiều may mắn nữa là đằng khác. Nhưng sự thật là may mắn liên quan đến việc bạn là ai, và kiểu người của bạn có phải là kiểu người tạo ra tiền hay không.
-
-Giả sử tôi phá sản, mất công ty, bay hơi 2 tỷ Mỹ kim ($) trong tài khoản nhưng tôi đang ở một quốc gia nói tiếng Anh bất kỳ thì tôi đoan chắc rằng chỉ trong 5, 10 hay bất quá 20 năm tôi sẽ giàu có trở lại. Vì dù mất hết tài sản, nhưng vốn sống, kỹ năng và kiến thức tôi có, tôi tập cho bản thân, vẫn còn đó. Và tôi tin rằng ai cũng sẽ có khả năng đạt trình độ này.
-
-Trong 14,000,605 dòng thời gian Dr. Strange thấy, bạn muốn trở nên giàu có trong tối thiểu 14,000,604 trường hợp bao gồm khi phe ta thắng. Ta phải loại bỏ yếu tố may mắn trong giàu có đi, vì nếu bạn chỉ dựa vào đấy thì cao lắm là 50 hay 100/14,000,605 dòng thời gian bạn được toại nguyện mà thôi.
-
-Để hiểu rõ hơn về may mắn. Tôi sẽ liệt kê 4 loại. Bạn có thể tham khảo chi tiết hơn ở đây:
-
-Luck and the Entrepreneur – part 1: The four kinds of luck: [https://pmarchive.com/luck\_and\_the\_entrepreneur.html](https://www.google.com/url?q=https://pmarchive.com/luck_and_the_entrepreneur.html&sa=D&source=editors&ust=1691043692761109&usg=AOvVaw3I7RUo1rZG7-eaLSX5AigX)
-
-#### May mắn loại 1: Blind luck - Ăn hên
-
-Như tên gọi. Đây là thứ may mắn thường được định nghĩa nhất. Một điều gì đấy nằm ngoài tầm kiểm soát của tôi xảy ra và tôi hưởng ké lợi ích từ nó.
-
-#### May mắn loại 2: Hustling - Chăm chỉ
-
-Sẽ có may mắn và cơ hội đến với những người chăm chỉ, tích cực, có sức chịu đựng cao. Bạn có thể hiểu rộng ra là đây là bạn chủ động tạo ra cơ hội cho mình, xào xáo, tạo năng lượng chủ động làm việc này việc kia mà bạn nghĩ có ích lợi cho mình thì cơ hội sẽ mở ra.
-
-Cốt lõi ở đây của loại may mắn này là giống như bạn xáo bài liên tục. Chắc chắn 1 lúc nào đó con bài đầu tiên bạn bốc sẽ là con Heo, con Xì,… Đủ số lần xáo bài thì may mắn sẽ đến. Đây chỉ là vấn đề toán học xác suất.
-
-Bạn có thể thấy rõ điều này ở các Youtuber. Không phải chất lượng, mà là số lượng, mới là thứ quyết định người ta có chủ động theo dõi bạn hay không. Pewdiepie, người có nhiều Subscribe  nhất Youtube và anh ta đã sản xuất 10,000 Video trong hơn 10 năm anh làm Youtube. Kiên trì và kiên tâm sẽ được đền đáp.
-
-#### May mắn loại 3: Preparation - Sẵn sàng (Chuẩn bị kỹ lưỡng đón đầu cơ hội)
-
-May mắn loại này là nằm ở khả năng bạn thấy cơ hội. Nếu bạn là chuyên gia trong một lĩnh vực nào đó, có kiến thức độ cứng và chuyên môn cao, bạn sẽ để ý và phát hiện những đột phá mang tính cách mang trước người khác. Hoặc đánh giá đúng ý nghĩa của đột phá đó. Bạn sẽ trở nên nhạy cảm với may mắn thông qua kỹ năng, kiến thức và công việc.
-
-#### May mắn loại 4: Unique character – Thu hút may mắn nhờ những đặc trưng riêng của bạn
-
-Đây là loại lạ nhất, khó kiếm nhất. Nhưng đây là loại tôi muốn bạn hướng chú ý vào chúng. Ở đây đặc trưng riêng có thể hiểu là bạn có một cá tính riêng nổi bật, một thương hiệu cá nhân tốt, tư duy đặc trưng,… Có những thứ này, may mắn sẽ tự tìm đến bạn và bạn cũng không cần phải tìm kiếm may mắn nữa
-
-Ví dụ, bạn là thợ lặn nước sâu giỏi nhất thế giới. Giỏi đến mức mà không ai dám nhận những phi vụ bạn có thể làm. Rồi bằng ăn hên, có người phát hiện một con tàu đắm chứa đầy kho báu. Nhưng họ không có khả năng lấy nó. Đoán xem họ sẽ tìm đến ai để đảm bảo tỷ lệ thu hồi là 100%?
-
-Bạn sẽ là người nhận công việc đó. May mắn của họ bạn đã được hưởng theo. Dĩ nhiên sẽ có ăn chia. Có thể bạn 1 họ 9. Nhưng con tàu ấy nằm những chỗ hiểm hóc, nước dữ và không ai dám nhận. Trước đó cũng ba bốn vụ tai nạn mà họ phải đền bù. 2/8 rồi 3/7 trước khi là 4/6. Bạn biết bạn có quyền đòi 5/5, nhưng tham quá là không tốt. Họ tìm thấy tàu đắm là ăn hên nhưng bạn được hưởng 4 phần ấy không hề là may mắn.
-
-Bạn đã tự tạo ra may mắn cho mình. Bạn đã tự đặt mình vào một vị trí có thể tận dụng mọi may mắn ngang qua. Hoặc thu hút may mắn của người khác. Nói làm giàu không cần may mắn nghĩa là vậy đấy: “Sẽ không có hên xui trong việc làm giàu, nhưng bạn chắc chắn sẽ giàu".
-
-### In 1,000 parallel universes, you want to be wealthy in 999 of them  
-Trong 1000 vũ trụ song song, bạn phải quyết tâm để trở nên giàu có trong cả thảy 999 vũ trụ ấy.
-
-Người phỏng vấn: Anh có thể làm rõ hơn về quan điểm giàu trong 14,000,604 dòng thời gian không? Nghe rất là ngầu nhưng nhiều người sẽ bảo rằng đây cũng chỉ là một lời lừa phỉnh đậm chất self-help thôi.
-
-Naval: Tôi cho rằng đấy là điều khả thi. Dĩ nhiên ta có những khó khăn. Mỗi người mỗi cảnh. Nhưng tôi tin là nếu một thằng nhóc nghèo từ Ấn Độ là tôi có thể làm được thì bạn cũng làm được. Dĩ nhiên tôi có đủ tứ chi, có khả năng đọc hiểu, tâm lý bình thường cùng học vấn nhất định. Đấy là những điều tối thiểu. Nhưng nếu bạn nghe tôi nói (hoặc đọc những dòng này – người dịch) thì bạn đã có những yếu tố cần thiết. Đấy là một cơ thể bình thường với một đầu óc bình thường.
-
-Bạn phải hiểu rằng quá trình trở nên giàu có sẽ luôn có trục trặc và chông gai. Tôi đã mất tài sản nhiều lần trước khi đạt được thành công hôm nay.
-
-Lần thứ nhất bay hơi trên sàn chứng khoán. Lần thứ hai tôi bị đối tác lừa. Lần thứ ba là lần tôi tạo được một khoản tài sản gọi là có thì tôi mới giữ được nó.
-
-Và đấy mới chỉ là bắt đầu. Làm giàu không phải trúng xổ số. Tài sản của bạn sẽ tích lũy theo kiểu kiến tha lâu mới đầy tổ và theo nguyên tắc quả cầu tuyết – những khoản tài sản đầu tiên bao giờ cũng khó khăn nhất. Bạn phải luôn thường xuyên tạo ra tài sản cho mình thông qua việc làm ăn, thu hút cơ hội và đầu tư. Rất ít khi việc làm giàu cho kết quả trong ngày.
-
-### Wealth stacks up one chip at a time, not all at once  
-Tài sản là thứ tích lũy từ từ, mỗi ngày một ít
-
-Như tôi đã nói, tài sản của tôi không tăng ào ào lên sau 1 đêm. Hay trong 1 năm. Nó lớn lên từ từ. Tôi đầu tư, tôi khám phá những lựa chọn tôi có, mở rộng kinh doanh,… Tài sản cứ thế tăng dần lên.
-
-Quay trở lại ví dụ về những Youtuber. Bạn có thể thấy rằng họ không bao giờ kiếm được 1,000,000 Subscribers chỉ bằng 1 video. Đấy là quá trình cải thiện từng ngày ở tất cả các mặt: Tạo nội dung, hình ảnh, chỉnh sửa video, cải thiện giọng nói, quay phim,…
-
-Ta đang nói về việc tạo ra số tài sản đủ lớn để bạn có thể nghỉ hưu sớm. Không phải nghỉ hưu để du lịch vòng quanh thế giới, ăn không ngồi rồi. Tự do tôi đang nói đến là việc: bạn không có ông chủ nào cả, bạn không bị bắt buộc đến nơi làm việc đúng giờ và chỉ được tan làm khi hết giờ, không phải làm những loại công việc bạn không muốn làm, dậy lúc nào cũng được, ngủ lúc nào cũng được,… Bạn hoàn toàn làm chủ bản thân bạn, thời gian của bạn và hành động của bạn.
-
-Nhờ có Internet mà cơ hội kiếm tiền trở nên dồi dào hơn. Về phần tôi thì tôi có quá nhiều cách kiếm tiền và làm giàu nhưng tôi lại không có đủ thời gian. Thế nên ta có thế thấy là cơ hội là có cho tất cả mọi người. Quan trọng là ban có nắm bắt được hay không.
+[[4. Making money isn’t about luck\|4. Making money isn’t about luck]]
 
 5\. MAKE LUCK YOUR DESTINY  
 Biến may mắn thành định mệnh
