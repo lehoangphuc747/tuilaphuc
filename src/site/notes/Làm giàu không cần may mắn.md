@@ -5,30 +5,28 @@
 
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
-## 1. Seek Wealth, Not Money or Status
+# 1. Seek Wealth, Not Money or Status
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-seek-wealth-not-money-or-status/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# 1. Seek Wealth, Not Money or Status
 Hãy tìm tài sản, đừng tìm tiền hay địa vị
---------------------------------------------------------------------------------
 
 Người phỏng vấn: SỰ KHÁC BIỆT CỦA TÀI SẢN, TIỀN VÀ ĐỊA VỊ.
 
 Naval: Tất cả chúng ta đều muốn giải quyết vấn đề tiền nong của bản thân. Ai cũng hiểu và muốn mình giàu có, nhưng không phải ai cũng có một khung sườn để làm theo, hay những nguyên tắc để dựa vào. Đấy là lý do tôi thực hiện buổi nói chuyện này.
 
-### 
+### Wealth is 1. Seek Wealth, Not Money or Status
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wealth-is-assets-that-earn-while-you-sleep/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Wealth is assets that earn while you sleep
 Tài sản là thứ kiếm tiền cho bạn khi bạn ngủ
----
+
 Người phỏng vấn: Hãy cho tôi biết sự khác biệt giữa tài sản, tiền và địa vị.
 
 Naval: Tài sản là thứ bạn muốn. Lý do là vì tài sản có thể kiếm tiền cho bạn khi bạn ngủ. Có thể gọi tài sản là nhà máy bạn sở hữu, là những con bot đào bitcoin, là những người máy sản xuất hàng hóa ngày đêm. Tài sản còn có thể định nghĩa là phần mềm mà chạy 24/24, phục vụ khách hàng. Hay hiểu theo nghĩa truyền thống hơn là tiền trong ngân hàng ta để lấy lãi, hoặc dùng đầu tư cho những hoạt động kinh doanh.
@@ -39,7 +37,8 @@ Tóm lại, tài sản là những thứ và hoạt động kinh doanh mà giúp
 
 </div></div>
 
-### 
+### Wealth buys your freedom
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wealth-buys-your-freedom/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -58,7 +57,8 @@ Có một tin vui là trò chơi tạo tài sản một trò chơi có tổng d�
 
 </div></div>
   
-### 
+### Money is how we transfer wealth
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money-is-how-we-transfer-wealth/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -77,7 +77,8 @@ Tóm lại, tiền bạc là các chúng ta biểu thị lượng giá trị ng�
 
 </div></div>
 
-### 
+### Status is your rank in the social hierarchy
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/status-is-your-rank-in-the-social-hierarchy/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -103,7 +104,8 @@ Tài sản là một trò chơi tổng dương tất cả đều có thể cùng
 
 </div></div>
   
-### 
+### Status is a very old game
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/status-is-a-very-old-game/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -122,7 +124,8 @@ Săn bắn hái lượm là một xã hội dựa trên địa vị. Bắt đầ
 
 </div></div>
   
-### 
+### People creating wealth will always be attacked by people playing status games
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/people-creating-wealth-will-always-be-attacked-by-people-playing-status-games/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -144,7 +147,7 @@ Những người chơi trò chơi địa vị sẽ lợi dụng bạn để tạ
 
 </div></div>
 
-## 2. Make Abundance for the World
+# 2. Make Abundance for the World
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-make-abundance-for-the-world/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -213,7 +216,7 @@ Tôi tin tư bản là hệ thống tốt nhất chúng ta hiện có. Nhưng c�
 
 </div></div>
 
-## 3. Free Markets are intrinsic to humans
+# 3. Free Markets are intrinsic to humans
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-free-markets-are-intrinsic-to-humans/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -289,7 +292,7 @@ Tóm lại, nếu xã hội không có ai chơi trò tài sản, hay trò tài s
 
 </div></div>
 
-## 4. Making money isn't about luck
+# 4. Making money isn't about luck
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/4-making-money-isn-t-about-luck/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
