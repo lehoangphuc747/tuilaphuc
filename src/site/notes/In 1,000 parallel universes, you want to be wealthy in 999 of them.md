@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/in-1-000-parallel-universes-you-want-to-be-wealthy-in-999-of-them/"}
+{"dg-publish":true,"permalink":"/in-1-000-parallel-universes-you-want-to-be-wealthy-in-999-of-them/","dgPassFrontmatter":true}
 ---
 
 # In 1,000 parallel universes, you want to be wealthy in 999 of them
