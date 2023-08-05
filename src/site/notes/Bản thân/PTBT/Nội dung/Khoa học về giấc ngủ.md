@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ban-than/ptbt/noi-dung/khoa-hoc-ve-giac-ngu/"}
+{"dg-publish":true,"permalink":"/ban-than/ptbt/noi-dung/khoa-hoc-ve-giac-ngu/","dgPassFrontmatter":true}
 ---
 
 #sleep #health 
