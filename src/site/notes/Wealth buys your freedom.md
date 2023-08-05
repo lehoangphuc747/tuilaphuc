@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/wealth-buys-your-freedom/"}
 ---
 
+# Wealth buys your freedom
 Tài sản là thứ giúp bạn có tự do
 
 Naval: Đến đây chắc bạn sẽ tự hỏi vì sao lại muốn có tài sản mà không phải giàu có hay địa vị. Đơn giản là vì tài sản sẽ mua cho bạn tự do. Tự do ấy là thay vì bạn sẽ dậy lúc 7 giờ sáng rồi lật đật đến công ty. Rằng bạn sẽ không chỉ dành phần lớn thời gian nhiều năng lượng và tích cực trong đời chỉ để làm việc những công việc bạn không cảm thấy hài lòng chỉ vì đồng lương.
