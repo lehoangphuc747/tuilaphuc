@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/too-many-takers-and-not-enough-makers-will-plunge-a-society-into-ruin/"}
 ---
 
+# Too many takers and not enough makers will plunge a society into ruin
 Quá ít người cho và quá nhiều người nhận sẽ khiến xã hội suy thoái
 
 Người phỏng vấn: Nhưng ở đây, mong muốn làm giàu không chỉ xuất hiện ở cá nhân. Có những tổ chức, đoàn thể, chính phủ cũng luôn có nhu cầu làm giàu. Ít nhất là trông có vẻ như vậy.
