@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/in-1-000-parallel-universes-you-want-to-be-wealthy-in-999-of-them/","dgPassFrontmatter":true}
 ---
 
-# In 1,000 parallel universes, you want to be wealthy in 999 of them
+In 1,000 parallel universes, you want to be wealthy in 999 of them
 Trong 1000 vũ trụ song song, bạn phải quyết tâm để trở nên giàu có trong cả thảy 999 vũ trụ ấy.
 ---
 Người phỏng vấn: Anh có thể làm rõ hơn về quan điểm giàu trong 14,000,604 dòng thời gian không? Nghe rất là ngầu nhưng nhiều người sẽ bảo rằng đây cũng chỉ là một lời lừa phỉnh đậm chất self-help thôi.
