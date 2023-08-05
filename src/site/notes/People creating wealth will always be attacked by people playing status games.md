@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people-creating-wealth-will-always-be-attacked-by-people-playing-status-games/"}
+{"dg-publish":true,"permalink":"/people-creating-wealth-will-always-be-attacked-by-people-playing-status-games/","dgPassFrontmatter":true}
 ---
 
 # People creating wealth will always be attacked by people playing status games
