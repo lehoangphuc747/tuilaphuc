@@ -4,7 +4,7 @@
 
 # Status is your rank in the social hierarchy
 Địa vị là chỗ đứng của bạn trong thứ bậc xã hội
-
+---
 Naval: Người ta chơi hai trò chơi lớn trong đời. Thứ nhất là trò chơi tiền bạc. Tiền không mua được hạnh phúc. Nhưng nó giúp bạn giải quyết mọi vấn đề liên quan đến tiền nong để bạn có thời gian và khả năng tập trung suy nghĩ những vấn đề không giải quyết được bằng tiền. Đấy là lý do người ta muốn kiếm tiền.
 
 Dẫu vậy rất nhiều người tin rằng họ không thể làm được. Do đó, ăn không được thì đạp đổ. Chính vì vậy họ sẽ tấn công những người cố gắng tạo ra tài sản. "Tiền là tai, tiền là quỷ, tiền là yêu".
