@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/money-is-how-we-transfer-wealth/","dgPassFrontmatter":true}
 ---
 
-# Money is how we transfer wealth
 Tiền bạc là cách chúng ta chuyển giao tài sản
----
+
 Naval: Tiền bạc là cách ta chuyển giao tài sản. Tiền bạc là tín dụng xã hội. Đấy là cách chúng ta mượn, ghi tín dụng và ghi nợ cho thời gian của người khác.
 
 Nếu tôi làm tốt việc của mình và tạo ra giá trị thì xã hội sẽ thưởng cho tôi và nói: "Cảm ơn. Chúng tôi nợ bạn và sẽ trả bạn trong tương lai cho những gì bạn đã làm hôm nay. Hay ghi giấy nợ để bạn có thể dùng và gọi đấy là tiền".
