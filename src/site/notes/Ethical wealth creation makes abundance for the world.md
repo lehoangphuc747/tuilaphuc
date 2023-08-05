@@ -4,7 +4,7 @@
 
 # Ethical wealth creation makes abundance for the world
 Việc làm ăn kiếm tiền chân chính là việc tạo ra sự dư thừa cho thế giới
-
+---
 Naval: Người ta hay nói gian thương đúng không? (Lời người dịch (ND): Hãy nhớ lại bao nhiêu địa chủ Việt Nam trong mọi thể loại truyện dân gian, hay thời kỳ cải cách ruộng đất xem họ được miêu tả như thế nào). Nguồn gốc là từ tâm niệm đồng tiền là tiên là phật là quỷ là thần. Người ta nghĩ ngân hàng cướp của. Thật ra nó đúng, không sai. Vấn đề ở đây đi sâu hơn thế.
 
 Lịch sử thế giới, theo một nghĩa nào đó là mối quan hệ chủ tớ, kẻ thống trị và bị trị hay nói cách khác là thú săn mồi và con mồi. Con mồi là những người tạo ra. Thú săn mồi là những kẻ cướp đoạt, lấy của cải của những người tạo ra. Người làm việc, chế tạo là những người đổ mồ hôi sôi nước mắt để tạo ra những món hàng.
