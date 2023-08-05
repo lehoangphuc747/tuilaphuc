@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/making-money-isn-t-about-luck/","dgPassFrontmatter":true}
 ---
 
-# Making money isn't about luck
+Making money isn't about luck
 Làm giàu không cần đến may mắn
 ---
 Chúng ta luôn muốn trở nên giàu có. Và con đường đúng đắn là ta sẽ muốn đạt được điều đó trong đời mà không dựa vào may mắn. Nhiều người muốn giàu có cần may mắn. Rất nhiều may mắn nữa là đằng khác. Nhưng sự thật là may mắn liên quan đến việc bạn là ai, và kiểu người của bạn có phải là kiểu người tạo ra tiền hay không.
