@@ -5,7 +5,8 @@
 
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
-## 
+## 1. Seek Wealth, Not Money or Status
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-seek-wealth-not-money-or-status/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -143,7 +144,8 @@ Những người chơi trò chơi địa vị sẽ lợi dụng bạn để tạ
 
 </div></div>
 
-## 
+## 2. Make Abundance for the World
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-make-abundance-for-the-world/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -211,7 +213,8 @@ Tôi tin tư bản là hệ thống tốt nhất chúng ta hiện có. Nhưng c�
 
 </div></div>
 
-## 
+## 3. Free Markets are intrinsic to humans
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-free-markets-are-intrinsic-to-humans/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -286,7 +289,8 @@ Tóm lại, nếu xã hội không có ai chơi trò tài sản, hay trò tài s
 
 </div></div>
 
-## 
+## 4. Making money isn't about luck
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/4-making-money-isn-t-about-luck/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
