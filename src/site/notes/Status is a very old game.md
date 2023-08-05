@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/status-is-a-very-old-game/"}
+{"dg-publish":true,"permalink":"/status-is-a-very-old-game/","dgPassFrontmatter":true}
 ---
 
 # Status is a very old game
