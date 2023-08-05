@@ -293,7 +293,6 @@ Tóm lại, nếu xã hội không có ai chơi trò tài sản, hay trò tài s
 
 
 Làm giàu không cần may mắn
----
 
 Làm giàu không cần may mắn. Bản chất của việc làm giàu là trở thành loại người có khả năng làm giàu.
 
