@@ -292,7 +292,6 @@ Tóm lại, nếu xã hội không có ai chơi trò tài sản, hay trò tài s
 
 
 
-# Making money isn’t about luck
 Làm giàu không cần may mắn
 ---
 
