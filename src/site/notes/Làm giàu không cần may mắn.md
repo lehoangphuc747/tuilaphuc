@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lam-giau-khong-can-may-man/"}
+{"dg-publish":true,"permalink":"/lam-giau-khong-can-may-man/","dgPassFrontmatter":true}
 ---
 
 
