@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-markets-are-intrinsic-to-the-human-species/"}
+{"dg-publish":true,"permalink":"/free-markets-are-intrinsic-to-the-human-species/","dgPassFrontmatter":true}
 ---
 
 # Free markets are intrinsic to the human species
