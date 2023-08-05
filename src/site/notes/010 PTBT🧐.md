@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-ptbt/","pinned":true}
+{"dg-publish":true,"dg-pinned":true,"permalink":"/010-ptbt/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
