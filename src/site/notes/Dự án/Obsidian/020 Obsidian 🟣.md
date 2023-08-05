@@ -14,7 +14,9 @@ ___
 
 # [[Phân loại sau/Anki Bridge - Cách Sync giữa Obsidian và Anki\|Anki Bridge - Cách Sync giữa Obsidian và Anki]]
 
+[michaellee/stille: 🌗 Stille — An Obsidian plugin that helps you focus on your writing, a section at a time. (github.com)](https://github.com/michaellee/stille)
 
+[st3v3nmw/obsidian-spaced-repetition: Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md (github.com)](https://github.com/st3v3nmw/obsidian-spaced-repetition)
 
 [[Đọc Pdf trong Obsidian\|Đọc Pdf trong Obsidian]]
 
