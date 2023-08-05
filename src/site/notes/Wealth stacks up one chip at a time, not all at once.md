@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth-stacks-up-one-chip-at-a-time-not-all-at-once/"}
+{"dg-publish":true,"permalink":"/wealth-stacks-up-one-chip-at-a-time-not-all-at-once/","dgPassFrontmatter":true}
 ---
 
 Wealth stacks up one chip at a time, not all at once
