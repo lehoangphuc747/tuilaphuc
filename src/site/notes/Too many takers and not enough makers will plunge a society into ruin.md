@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/too-many-takers-and-not-enough-makers-will-plunge-a-society-into-ruin/"}
+{"dg-publish":true,"permalink":"/too-many-takers-and-not-enough-makers-will-plunge-a-society-into-ruin/","dgPassFrontmatter":true}
 ---
 
 # Too many takers and not enough makers will plunge a society into ruin
