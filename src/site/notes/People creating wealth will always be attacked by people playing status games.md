@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/people-creating-wealth-will-always-be-attacked-by-people-playing-status-games/","dgPassFrontmatter":true}
 ---
 
-# People creating wealth will always be attacked by people playing status games
 Người chơi trò chơi tài sản sẽ luôn bị tấn công bởi người chơi trò chơi địa vị
----
+
 Naval: Sẽ luôn có cuộc cạnh tranh ngầm giữa người tạo tài sản và người leo địa vị.
 
 Tôi khuyến khích và chủ trương chơi trò chơi tài sản hơn. Lý do là vì khi chơi trò địa vị, để ta đi lên thì ta phải đạp người xuống. Do vậy, khi ta bị ám ảnh về địa vị thì ta sẽ bị ảnh hưởng tiêu cực, trở nên hung hăng giận dữ. Vì bạn phải đánh nhau, dùng chiêu trò để chiếm chỗ của người ta.
