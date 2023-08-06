@@ -4,6 +4,7 @@
 
 ## <center>Mad Bear</center>
 
+<img src="https://i.imgur.com/8jWLVWM.png" alt="madbear-icon" style="width: 15px;" width="25">
 
 
 ### In 10 seconds:
