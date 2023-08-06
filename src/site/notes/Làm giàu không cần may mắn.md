@@ -5,9 +5,9 @@
 
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
-# [[1. Seek Wealth, Not Money or Status\|1. Seek Wealth, Not Money or Status]]
-# [[2. Make Abundance for the World\|2. Make Abundance for the World]]
-# [[3. Free Markets are intrinsic to humans\|3. Free Markets are intrinsic to humans]]
+# [[1. Seek wealth, not money or status\|1. Seek wealth, not money or status]]
+# [[2. Make abundance for the world\|2. Make abundance for the world]]
+# [[3. Free markets are intrinsic to humans\|3. Free markets are intrinsic to humans]]
 # [[4. Making money isn’t about luck\|4. Making money isn’t about luck]]
 
 5\. MAKE LUCK YOUR DESTINY  
