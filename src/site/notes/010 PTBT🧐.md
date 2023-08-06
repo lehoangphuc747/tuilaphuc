@@ -40,7 +40,7 @@ ___
 
 
 
-[[Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
+[[Articals/Trần Đức Nhân/Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
 
 </div></div>
 
