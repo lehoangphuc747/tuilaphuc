@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money-is-how-we-transfer-wealth/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/money-is-how-we-transfer-wealth/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Money is how we transfer wealth
