@@ -4,7 +4,7 @@
 
 # Too many takers and not enough makers will plunge a society into ruin
 Quá ít người cho và quá nhiều người nhận sẽ khiến xã hội suy thoái
----
+
 Người phỏng vấn: Nhưng ở đây, mong muốn làm giàu không chỉ xuất hiện ở cá nhân. Có những tổ chức, đoàn thể, chính phủ cũng luôn có nhu cầu làm giàu. Ít nhất là trông có vẻ như vậy.
 
 Naval: Đúng là nó trông như vậy thật. Vì những tổ chức đoàn thể chính phủ ấy thật ra đang chơi trò địa vị. Trong quá trình chơi trò địa vị ấy, họ phải đạp đổ cách tạo tài sản để càng ít người sở hữu tài sản càng tốt. Mục đích chính là kéo mọi người xuống để họ có thể đi lên.
