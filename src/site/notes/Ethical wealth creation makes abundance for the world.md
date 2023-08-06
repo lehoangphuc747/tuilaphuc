@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ethical-wealth-creation-makes-abundance-for-the-world/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/ethical-wealth-creation-makes-abundance-for-the-world/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Ethical wealth creation makes abundance for the world
