@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/status-is-a-very-old-game/","dgPassFrontmatter":true}
 ---
 
+# Status is a very old game
 Địa vị là một trò chơi rất cũ
 
 Naval: Địa vị, so với tài sản, là một trò chơi có tổng bằng không, có kẻ thắng người thua. Anh lên thì tôi xuống. Đấy là một trò chơi rất cũ. Chúng ta chơi nó từ thời tiền sử. Đấy là cấu trúc xã hội. Ai là số 1, ai là con đầu đàn? Ai đứng thứ 2, sẽ thay thế đầu đàn trong tương lai? Ai là thứ 3? Để thứ 3 lên thứ 2 thì thứ 2 phải đi chỗ khác. Đấy là lý do gọi địa vị là một trò chơi có tổng bằng không.
