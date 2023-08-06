@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people-creating-wealth-will-always-be-attacked-by-people-playing-status-games/","dgPassFrontmatter":true}
 ---
 
+# People creating wealth will always be attacked by people playing status games
 Người chơi trò chơi tài sản sẽ luôn bị tấn công bởi người chơi trò chơi địa vị
 
 Naval: Sẽ luôn có cuộc cạnh tranh ngầm giữa người tạo tài sản và người leo địa vị.
