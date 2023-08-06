@@ -12,6 +12,7 @@
 [[THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1\|❌❌❌]]
 
 [VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH?](https://www.facebook.com/groups/263482322604568/posts/266235018995965/)
+[[VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|❌❌❌]]
 
 ## Khác
 [[Articals/Trần Đức Nhân/TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN\|TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN]]
