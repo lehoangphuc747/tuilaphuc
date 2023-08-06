@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/status-is-your-rank-in-the-social-hierarchy/","dgPassFrontmatter":true}
 ---
 
+# Status is your rank in the social hierarchy
 Địa vị là chỗ đứng của bạn trong thứ bậc xã hội
 
 Naval: Người ta chơi hai trò chơi lớn trong đời. Thứ nhất là trò chơi tiền bạc. Tiền không mua được hạnh phúc. Nhưng nó giúp bạn giải quyết mọi vấn đề liên quan đến tiền nong để bạn có thời gian và khả năng tập trung suy nghĩ những vấn đề không giải quyết được bằng tiền. Đấy là lý do người ta muốn kiếm tiền.
