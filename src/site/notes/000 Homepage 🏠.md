@@ -2,8 +2,7 @@
 {"banner":"![im finally happy.jpg](/img/user/Z_Attachment/im%20finally%20happy.jpg)","banner_y":0.42,"banner_lock":false,"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-## <center> <img src="https://imgur.com/z4O9wMx" alt="madbear-icon" style="width: 30px;"> Mad Bear <img src="https://imgur.com/z4O9wMx" alt="madbear-icon" style="width: 30px;"> </center>
-
+## <center> Mad Bear </center>
 
 
 
