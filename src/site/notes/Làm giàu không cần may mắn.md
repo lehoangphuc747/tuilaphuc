@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lam-giau-khong-can-may-man/","dgPassFrontmatter":true}
 ---
 
-
+[[000 Homepage 🏠\| 🏠 Homepage]]
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
 # [[1. Seek wealth, not money or status\|1. Seek wealth, not money or status]]
