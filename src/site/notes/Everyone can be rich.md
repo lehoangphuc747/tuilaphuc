@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/everyone-can-be-rich/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/everyone-can-be-rich/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Everyone can be rich
