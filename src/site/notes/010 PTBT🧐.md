@@ -34,6 +34,24 @@ ___
 </div></div>
 
 
+# Articals
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
+
+</div></div>
+
 
 # [[Bản thân/PTBT/Ngoại ngữ\|Ngoại ngữ]]
 - [[Dự án/Ngoại ngữ/030 Học tiếng Hàn 🇰🇷\|030 Học tiếng Hàn 🇰🇷]] #korean
@@ -59,7 +77,8 @@ ___
 
 
 
-[[Software Engineering Anxiety\|Software Engineering Anxiety]] 
+[[Software Engineering Anxiety\|Software Engineering Anxiety]] ^dd3e02
+
 
 </div></div>
 
