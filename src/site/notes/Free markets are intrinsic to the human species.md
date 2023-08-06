@@ -4,7 +4,7 @@
 
 # Free markets are intrinsic to the human species
 Thị trường tự do nằm trong bản chất loài người
----
+
 Naval: Về cơ bản, Chủ nghĩa Tư bản (Thị trường Tự do) nằm trong gen của chúng ta. Chúng ta không nghiên cứu, tìm hiểu hay khám phá ra hệ thống kinh tế tư bản. Nó luôn hiện diện trong từng hoạt động giao dịch trao đổi từ thời cổ đại.
 
 Khi bạn và tôi trao đổi thông tin, thì đấy là mối quan hệ có qua có lại. Tôi gửi bạn thông tin bạn cần. Bạn cung cấp thông tin tôi cần. Hoạt động này dựa trên cơ sở thuận mua vừa bán. Nếu chúng ta không đạt được thỏa thuận, bạn sẽ tìm người khác để thực hiện việc trao đổi này. Do đó, hiện tượng trao đổi này cùng khả năng quan trắc tín dụng và nợ nần biến con người thành loài động vật xã hội vô cùng linh hoạt.
