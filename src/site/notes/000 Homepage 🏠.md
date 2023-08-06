@@ -5,9 +5,9 @@
 ## <center>nha lạc</center>
 
 ___
-# mình là ai?
+### mình là ai?
 
-## In 10 seconds:
+### In 10 seconds:
 - Born in 2001
 - ISFJ
 - Da Lat University
