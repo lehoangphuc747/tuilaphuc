@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/status-is-your-rank-in-the-social-hierarchy/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/status-is-your-rank-in-the-social-hierarchy/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Status is your rank in the social hierarchy
