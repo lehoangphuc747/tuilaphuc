@@ -4,6 +4,7 @@
 
 ### <center> xin chào mọi người!!!</center>
 # <center>mình là Hoàng Phúc</center>
+<img src="https://i.imgur.com/jRHb0hx.png" width="50">
 
 ___
 # mình là ai?
