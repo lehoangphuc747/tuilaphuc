@@ -13,7 +13,7 @@
 
 [[Bản thân/PTBT/Nội dung/Khoa học về giấc ngủ\|Khoa học về giấc ngủ]] #health #sleep 
 [[Bản thân/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]] #focus 
-[[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]  
+[[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
 
 </div></div>
  
