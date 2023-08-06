@@ -9,8 +9,7 @@
 # [[2. Make abundance for the world\|2. Make abundance for the world]]
 # [[3. Free markets are intrinsic to humans\|3. Free markets are intrinsic to humans]]
 # [[4. Making money isn’t about luck\|4. Making money isn’t about luck]]
-
-# [[5. MAKE LUCK YOUR DESTINY\|5. MAKE LUCK YOUR DESTINY]]
+# [[5. Make luck your destiny\|5. Make luck your destiny]]
 
 
 6\. You won’t get rich renting out your time  
