@@ -26,8 +26,6 @@
 
 
 
-[[010 PTBT🧐\|010 PTBT🧐]]
-___
 [[Bản thân/PTBT/Books/50 cách giải Stress mà không cần ăn uống\|50 cách giải Stress mà không cần ăn uống]] 
 [[Làm giàu không cần may mắn\|Làm giàu không cần may mắn]] 
 
