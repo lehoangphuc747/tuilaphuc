@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/making-money-isn-t-about-luck/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/making-money-isn-t-about-luck/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Making money isn't about luck
