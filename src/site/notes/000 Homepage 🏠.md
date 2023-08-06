@@ -2,7 +2,7 @@
 {"banner":"![im finally happy.jpg](/img/user/Z_Attachment/im%20finally%20happy.jpg)","banner_y":0.42,"banner_lock":false,"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-# <center>nha lạc</center>
+## <center>nha lạc</center>
 
 ___
 # mình là ai?
