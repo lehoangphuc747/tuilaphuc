@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth-buys-your-freedom/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/wealth-buys-your-freedom/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Wealth buys your freedom
