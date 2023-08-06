@@ -40,28 +40,7 @@ ___
 
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tran-duc-nhan-tong-hop/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-## Base 1
-[Writing and Reading Hacks [Content] - Google Tài liệu](https://docs.google.com/document/d/1HcFjvvAkGKKhJL1hW6qI-TIgM4ydZoLRJHeHYgv83o0/edit?mode=html&fbclid=IwAR2jODkg-0CPoijBuXIiPBCrXOIl3huhDDrnfr-23cK37512hMO9ZFZrgjM#heading=h.y1wxgd9uksm0)
-
-[👑 GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP?](https://www.facebook.com/groups/263482322604568/posts/265358605750273/)
-[[Articals/Trần Đức Nhân/(Ghi chép 1) LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|❌❌❌]]
-
-[👑 THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1](https://www.facebook.com/groups/263482322604568/posts/267005062252294/)
-[[THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1\|❌❌❌]]
-
-[VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH?](https://www.facebook.com/groups/263482322604568/posts/266235018995965/)
-
-## Khác
-[[Articals/Trần Đức Nhân/TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN\|TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN]]
-
-</div></div>
-
+[[Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
 
 </div></div>
 
