@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth-is-assets-that-earn-while-you-sleep/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/wealth-is-assets-that-earn-while-you-sleep/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ### Wealth is assets that earn while you sleep
