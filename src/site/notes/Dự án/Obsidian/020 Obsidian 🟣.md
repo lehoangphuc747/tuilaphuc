@@ -7,12 +7,14 @@
 [[000 Homepage 🏠\|000 Homepage 🏠]]
 [[010 PTBT🧐\|010 PTBT🧐]]
 ___
-# [Hướng dẫn của Obsidian](https://publish.obsidian.md/help-vi/)
-# [[Dự án/Obsidian/Plugins\|Plugins]]
+[Hướng dẫn của Obsidian](https://publish.obsidian.md/help-vi/)
+[[Dự án/Obsidian/Plugins\|Plugins]]
+
+[[Theme Minimal\|Theme Minimal]]
 
 # [[Dự án/Obsidian/Một số câu lệnh Obsidian\|Một số câu lệnh Obsidian]]
 
-# [[Phân loại sau/Anki Bridge - Cách Sync giữa Obsidian và Anki\|Anki Bridge - Cách Sync giữa Obsidian và Anki]]
+# [[ReadItLater Inbox/Anki Bridge - Cách Sync giữa Obsidian và Anki\|Anki Bridge - Cách Sync giữa Obsidian và Anki]]
 
 [michaellee/stille: 🌗 Stille — An Obsidian plugin that helps you focus on your writing, a section at a time. (github.com)](https://github.com/michaellee/stille)
 
