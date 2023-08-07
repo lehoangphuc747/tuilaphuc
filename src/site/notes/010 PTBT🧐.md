@@ -15,6 +15,7 @@
 [[Bản thân/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]] #focus 
 [[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
 [[Phím tắt 101\|Phím tắt 101]] ^0eb183
+
 [[Phần mềm\|Phần mềm]] ^9e0a73
 
 ---
