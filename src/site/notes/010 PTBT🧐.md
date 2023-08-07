@@ -3,23 +3,14 @@
 ---
 
 
-[[000 Homepage 🏠\|000 Homepage 🏠]]
+[[000 Homepage 🏠\|Homepage 🏠]]
+
+---
 
 # [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]] 
 
 
 # Books
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-[[Bản thân/PTBT/Books/50 cách giải Stress mà không cần ăn uống\|50 cách giải Stress mà không cần ăn uống]] 
-[[Làm giàu không cần may mắn\|Làm giàu không cần may mắn]] 
-
-</div></div>
-
 
 # Articals
 
