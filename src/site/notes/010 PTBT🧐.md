@@ -29,7 +29,6 @@ Những bài viết hay nâng cao kiến thức, giúp [[010 PTBT🧐\|PTBT]] m�
 # [[Bản thân/PTBT/Ngoại ngữ\|Ngoại ngữ]]
 - [[Dự án/Ngoại ngữ/030 Học tiếng Hàn 🇰🇷\|030 Học tiếng Hàn 🇰🇷]] #korean
 - [[Dự án/Ngoại ngữ/Dạy tiếng Hàn 🇰🇷\|Dạy tiếng Hàn 🇰🇷]] #korean
-- [[Bản thân/Viết lách/Dự án Học siêu tốc tiếng Hàn\|Dự án Học siêu tốc tiếng Hàn]] #korean
 
 # Sự thay đổi
 
