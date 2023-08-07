@@ -37,7 +37,7 @@ Những bài viết hay nâng cao kiến thức, giúp [[010 PTBT🧐\|PTBT]] m�
 
 
 [[Bản thân/Viết lách/7 năm một hành trình... một cột mốc mới!!!\|7 năm một hành trình... một cột mốc mới!!!]]
-[[Hoa Lạc Mãn Thiên\|Hoa Lạc Mãn Thiên]]
+[[Bản thân/PTBT/Hoa Lạc Mãn Thiên\|Hoa Lạc Mãn Thiên]]
 [[icon\|icon]] 
 
 </div></div>
