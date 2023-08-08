@@ -19,6 +19,8 @@
 [[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
 [[Dự án/Ngoại ngữ/030 Học tiếng Hàn 🇰🇷\|030 Học tiếng Hàn 🇰🇷]]
 ___
-Động lực
+# Duyên
 
-___
+![](https://i.imgur.com/Ln9nDJJ.png)
+
+![](https://i.imgur.com/dL6i2vX.png)
