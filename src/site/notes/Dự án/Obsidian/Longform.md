@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/du-an/obsidian/longform/","dgPassFrontmatter":true}
 ---
 
+#plugins 
+
 [Open in Obsidian](https://obsidian.md/plugins?id=longform)
 
 Mình chưa có nhu cầu dùng đến nhưng thấy Plugin khá hay ho.
