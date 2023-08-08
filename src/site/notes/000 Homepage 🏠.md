@@ -20,9 +20,8 @@
 [[Dự án/Ngoại ngữ/030 Học tiếng Hàn 🇰🇷\|030 Học tiếng Hàn 🇰🇷]]
 ___
 
+# <center>Duyên</center>
 <center>
-
-# Duyên
 
 > ![](https://i.imgur.com/Ln9nDJJ.png)
 
