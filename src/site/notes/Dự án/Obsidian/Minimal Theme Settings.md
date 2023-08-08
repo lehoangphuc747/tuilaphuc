@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/du-an/obsidian/minimal-theme-settings/","dgPassFrontmatter":true}
 ---
 
+#plugins 
+
 [Open in Obsidian](obsidian://show-plugin?id=obsidian-minimal-settings)
 
 > ![](https://i.imgur.com/4esVXHI.png)
