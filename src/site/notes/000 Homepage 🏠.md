@@ -15,7 +15,7 @@
 - Korean Learning
 - ...
 
-[[PTBT 🔝\|PTBT 🔝]]
+[[PTBT 💎\|PTBT 💎]]
 [[Dự án/Obsidian/Obsidian 🟣\|Obsidian 🟣]]
 [[Dự án/Ngoại ngữ/Học tiếng Hàn 🇰🇷\|Học tiếng Hàn 🇰🇷]]
 ___
