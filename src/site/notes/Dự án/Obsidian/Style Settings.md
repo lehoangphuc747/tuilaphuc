@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/du-an/obsidian/style-settings/","dgPassFrontmatter":true}
+---
+
+[Open in Obsidian](obsidian://show-plugin?id=obsidian-style-settings)
+
+![](https://i.imgur.com/aAloToC.png)
+
+---
+[[Dự án/Obsidian/Plugins\|Plugins]]
+[[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
