@@ -34,14 +34,26 @@ Các Plugins mình sẽ để bên dưới.
 Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghiệm viết lách trong Obsidian của mình.
 
 [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
+{ #6793f5}
+
 
 [[Dự án/Obsidian/Typewriter Scroll\|Typewriter Scroll]] hoặc [[Dự án/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
+{ #008833}
+
 
 [[Dự án/Obsidian/Style Settings\|Style Settings]]
+{ #f47604}
+
 
 [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
+{ #956195}
+
 
 [[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
+{ #4a6961}
+
 
 [[Dự án/Obsidian/Longform\|Longform]]
+{ #376982}
+
 
