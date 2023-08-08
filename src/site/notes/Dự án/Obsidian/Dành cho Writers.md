@@ -29,10 +29,12 @@ Theme nổi tiếng nhất của [[Dự án/Obsidian/020 Obsidian 🟣\|Obsidian
 
 
 # [[Dự án/Obsidian/020 Obsidian 🟣\|Obsidian]] Plugins
-Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghiệm viết lách trong Obsidian.
+Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghiệm viết lách trong Obsidian của mình.
 
 [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 [[Dự án/Obsidian/Typewriter Scroll\|Typewriter Scroll]] hoặc [[Dự án/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
 [[Dự án/Obsidian/Style Settings\|Style Settings]]
-
+[[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
+[[Fullscreen Focus Mode\|Fullscreen Focus Mode]]
+[[Longform\|Longform]]
 
