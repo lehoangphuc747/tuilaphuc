@@ -13,4 +13,4 @@
 
 ---
 [[Dự án/Obsidian/Plugins\|Plugins]]
-[[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
+[[Dự án/Obsidian/Dành cho Writers#^008833\|Dành cho Writers]]
