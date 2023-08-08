@@ -21,6 +21,10 @@
 ___
 # Duyên
 
+<center>
+
 ![](https://i.imgur.com/Ln9nDJJ.png)
 
 ![](https://i.imgur.com/dL6i2vX.png)
+
+</center>
