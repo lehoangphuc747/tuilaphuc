@@ -35,6 +35,6 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 [[Dự án/Obsidian/Typewriter Scroll\|Typewriter Scroll]] hoặc [[Dự án/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
 [[Dự án/Obsidian/Style Settings\|Style Settings]]
 [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
-[[Fullscreen Focus Mode\|Fullscreen Focus Mode]]
-[[Longform\|Longform]]
+[[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
+[[Dự án/Obsidian/Longform\|Longform]]
 
