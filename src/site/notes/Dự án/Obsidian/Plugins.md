@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/du-an/obsidian/plugins/","dgPassFrontmatter":true}
 ---
 
+#plugins 
+
 [[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
 ___
 - AnkiBridge
