@@ -4,7 +4,7 @@
 
 Mình là một người khá thích viết lách.
 
-Trước đây, mình từng tìm hiểu về Typora. 
+Trước đây, mình từng tìm hiểu về [Typora](https://typora.io/). 
 
 Ngay từ lần đầu sử dụng thử, mình đã bị hớp hồn. Vấn đề là khi đó điều kiện tài chính còn hạn hẹp, mình không thể đáp ứng được mức phí Typora đưa ra.
 
