@@ -21,8 +21,8 @@ ___
 - [Ghost Fade Focus](https://github.com/skipadu/obsidian-ghost-fade-focus)
 - [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 - [deathau/sliding-panes-obsidian: Andy Matuschak Mode as a plugin (github.com)](https://github.com/deathau/sliding-panes-obsidian)
-- [[Minimal Theme Settings\|Minimal Theme Settings]]
+- [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
 - [[Dự án/Obsidian/Style Settings\|Style Settings]]
-- [[Hider\|Hider]]
+- [[Dự án/Obsidian/Hider\|Hider]]
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
