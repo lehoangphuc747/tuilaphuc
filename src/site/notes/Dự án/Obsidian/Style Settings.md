@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/du-an/obsidian/style-settings/","dgPassFrontmatter":true}
 ---
 
+#plugins 
+
 [Open in Obsidian](obsidian://show-plugin?id=obsidian-style-settings)
 
 ![](https://i.imgur.com/aAloToC.png)
