@@ -4,7 +4,7 @@
 
 #plugins 
 
-[[Dự án/Obsidian/020 Obsidian 🟣\|020 Obsidian 🟣]]
+[[Dự án/Obsidian/Obsidian 🟣\|Obsidian 🟣]]
 ___
 - AnkiBridge
 - Annotator
