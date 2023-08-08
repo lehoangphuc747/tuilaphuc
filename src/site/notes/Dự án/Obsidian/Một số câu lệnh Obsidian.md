@@ -34,19 +34,19 @@ Tạo Callout:
 
 
 > [!hint] Gợi ý
-> Có cái cl á tin người vkl
+> Chẳng biết gợi ý gì
 
 
 > [!Question] Hỏi gì vậy?
-> Thích thì hỏi
+> Thích thì hỏi thôi 
 
 
 > [!tip] Tip
-> Tip nè
+> Tiền típ nè
 
 
-> [!warning] Cảnh báo nhiều vkl của tụi Hàn Quốc
-> Mệt mỏi ghê cứ rú miết :))))
+> [!warning] SOS giải cứu Hàn Quốc 
+> May quá ở nông thôn chưa bị làm sao cả
 
 
 > [!Fail] Fail
