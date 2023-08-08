@@ -12,7 +12,7 @@ Cơ duyên [chị Hà](https://www.facebook.com/hahtd3)sau đó đã đưa mình
 
 Nhu cầu khi đó, mình không cần đến Obsidian. Mình chuyển sang dùng Docs, rồi lại Word, và cuối cùng là Obsidian.
 
-Trong 3 tuần tìm hiểu, sử dụng và ghi chú, mình thấy thật ngu ngốc sao không sử dụng nó sớm hơn. Obsidian hệ thống hóa kiến thức của mình một cách có hệ thống, dễ truy cập và liên kết với nhau cực kỳ mạnh mẽ.
+Khoảng giữa tháng 7, 3 tuần trước, mình buộc phải tìm hiểu Obsidian để giải quyết vấn đề công việc.  tuần tìm hiểu, sử dụng và ghi chú, mình thấy thật ngu ngốc sao không sử dụng nó sớm hơn. Obsidian hệ thống hóa kiến thức của mình một cách có hệ thống, dễ truy cập và liên kết với nhau cực kỳ mạnh mẽ.
 
 Ngoài ra, Obsidian có thể tạo Website tương tự như Notion.
 
