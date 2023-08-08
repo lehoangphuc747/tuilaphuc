@@ -8,8 +8,8 @@ Trước đây, mình từng tìm hiểu về [Typora](https://typora.io/). Như
 
 ![](https://i.imgur.com/u7GCGKi.png)
 
-
-Nên sau khi tìm hiểu và sử dụng Obsidian nhờ cơ duyên [chị Hà](https://www.facebook.com/hahtd3), mình tối ưu luôn giao diện để viết lách giống như Typora.
+[The Mad Bear](https://themadbear.com/du-an/obsidian/danh-cho-writers/)
+Nên sau khi tìm hiểu và sử dụng Obsidian (3 tuần) nhờ cơ duyên [chị Hà](https://www.facebook.com/hahtd3), mình tối ưu luôn giao diện để viết lách giống như Typora.
 
 Mục tiêu:
 
