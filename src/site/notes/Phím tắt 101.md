@@ -10,6 +10,9 @@ Nâng cao [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]] khi quản lý files
 
 [[Files App\|Files App]]
 
+1 số phím tắt mình thấy hữu dụng nhất.
+Muốn xem tất cả? [Vào đây.](https://files.community/docs/configuring/keyboard-shortcuts)
+
 |                      |                                        |
 | -------------------- | -------------------------------------- |
 | Windows + E          | Open File Explorer                     |
