@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/du-an/obsidian/mot-so-cau-lenh-obsidian/","dgPassFrontmatter":true}
 ---
 
-[[Dự án/Obsidian/Obsidian 🟣\|Obsidian 🟣]]
+[[Dự án/Obsidian/🟣 Obsidian\|🟣 Obsidian]]
 ___
 
 Tạo Heading : # Heading 1, ## Heading 2
