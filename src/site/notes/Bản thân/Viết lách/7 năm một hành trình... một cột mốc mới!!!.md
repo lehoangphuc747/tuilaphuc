@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ban-than/viet-lach/7-nam-mot-hanh-trinh-mot-cot-moc-moi/","dgPassFrontmatter":true}
 ---
 
-[[PTBT\|PTBT]]
+[[PTBT 🔝\|PTBT 🔝]]
 
 7 năm một hành trình...  
 ...và bắt đầu cột mốc mới.  
