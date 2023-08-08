@@ -13,7 +13,7 @@ Nên sau khi tìm hiểu và sử dụng Obsidian nhờ cơ duyên [chị Hà](h
 
 Mục tiêu:
 
-> Tập trung hơn → Viết phê hơn → Viết nhiều hơn → Thích viết lách
+> Tập trung hơn → Phê hơn → Thích viết → Viết nhiều hơn → Yêu viết
 
 Có thể cảm nhận qua Video dưới đây:
 
