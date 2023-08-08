@@ -16,4 +16,4 @@ Theme nổi tiếng nhất của [[Dự án/Obsidian/020 Obsidian 🟣\|Obsidian
 
 ---
 [[Dự án/Obsidian/Obsidian Themes\|Obsidian Themes]]
-[[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
+[[Dự án/Obsidian/Dành cho Writers#^05a324\|Dành cho Writers]]
