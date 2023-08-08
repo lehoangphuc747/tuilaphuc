@@ -43,7 +43,7 @@ Những bài viết hay nâng cao kiến thức, giúp [[💎 PTBT\|💎 PTBT]] 
 
 
 # [[Bản thân/PTBT/Ngoại ngữ\|Ngoại ngữ]]
-- [[Dự án/Ngoại ngữ/Học tiếng Hàn 🇰🇷\|Học tiếng Hàn 🇰🇷]] #korean
+- [[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]] #korean
 - [[Dự án/Ngoại ngữ/Dạy tiếng Hàn 🇰🇷\|Dạy tiếng Hàn 🇰🇷]] #korean
 
 # Sự thay đổi
