@@ -3,7 +3,10 @@
 ---
 
 Mình là một người khá thích viết lách.
-Trước đây, mình từng tìm hiểu về Typora. Ngay từ lần đầu sử dụng thử, mình đã bị hớp hồn. Vấn đề là khi đó điều kiện tài chính còn hạn hẹp, mình không thể đáp ứng được mức phí Typora đưa ra.
+
+Trước đây, mình từng tìm hiểu về Typora. 
+
+Ngay từ lần đầu sử dụng thử, mình đã bị hớp hồn. Vấn đề là khi đó điều kiện tài chính còn hạn hẹp, mình không thể đáp ứng được mức phí Typora đưa ra.
 
 Cơ duyên [chị Hà](https://www.facebook.com/hahtd3)sau đó đã đưa mình đến Obsidian, tìm hiểu, thấy phức tạp và lại bỏ bê. 
 
@@ -15,7 +18,7 @@ Ngoài ra, Obsidian có thể tạo Website tương tự như Notion.
 
 Và bây giờ, mình thực hiện bước chuyển đổi Obsidian thành công cụ viết lách của mình.
 
-Các Plugins mình sẽ để ở link bên dưới bình luận.
+Các Plugins mình sẽ để bên dưới.
 
 <iframe width="640" height="350" src="https://www.youtube.com/embed/ePaj1lTzIRY" title="Viết lách trong Obsidian, tại sao không?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
