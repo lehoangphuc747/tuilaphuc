@@ -4,7 +4,7 @@
 
 #theme
 
-Theme nổi tiếng nhất của [[Dự án/Obsidian/020 Obsidian 🟣\|Obsidian]]
+Theme nổi tiếng nhất của [[Dự án/Obsidian/Obsidian 🟣\|Obsidian]]
 
 [TÌm hiểu thêm](https://minimal.guide/Home)
 
