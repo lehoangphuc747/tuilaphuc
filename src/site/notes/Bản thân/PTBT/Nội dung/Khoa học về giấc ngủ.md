@@ -3,7 +3,7 @@
 ---
 
 #sleep #health 
-[[010 PTBT🧐\|010 PTBT🧐]] 
+[[PTBT\|PTBT]] 
 
 # Khoa học về giấc ngủ
 ### Youtube:
