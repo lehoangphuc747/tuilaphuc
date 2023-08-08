@@ -20,7 +20,7 @@ Và bây giờ, mình thực hiện bước chuyển đổi Obsidian thành côn
 
 Các Plugins mình sẽ để bên dưới.
 
-<iframe width="640" height="350" src="https://www.youtube.com/embed/ePaj1lTzIRY" title="Viết lách trong Obsidian, tại sao không?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Qjp7x9MAXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Theme
 { #05a324}
