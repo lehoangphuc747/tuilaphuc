@@ -12,4 +12,4 @@ Cấu hình của mình
 
 ---
 [[Dự án/Obsidian/Plugins\|Plugins]]
-[[Dự án/Obsidian/Dành cho Writers#^0495b2\|Dành cho Writers]]
+[[Dự án/Obsidian/Dành cho Writers#^6793f5\|Dành cho Writers]]
