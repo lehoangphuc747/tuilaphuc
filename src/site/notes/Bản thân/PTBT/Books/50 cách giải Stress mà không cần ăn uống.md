@@ -2,7 +2,7 @@
 {"dg-publish":true,"tag":["stress","books"],"permalink":"/ban-than/ptbt/books/50-cach-giai-stress-ma-khong-can-an-uong/","dgPassFrontmatter":true}
 ---
 
-[[010 PTBT🧐\|010 PTBT🧐]]
+[[PTBT\|PTBT]]
 ___
 
 
