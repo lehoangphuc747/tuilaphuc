@@ -19,7 +19,7 @@ Theme nổi tiếng nhất của [[Dự án/Obsidian/020 Obsidian 🟣\|Obsidian
 
 
 
-# [[Checkbox icons\|Checkbox icons]]
+# [[Dự án/Obsidian/Checkbox icons\|Checkbox icons]]
 
 ---
 [[Dự án/Obsidian/Obsidian Themes\|Obsidian Themes]]
