@@ -12,7 +12,7 @@
 - Da Lat University
 - Wonkwang University
 - Bookaholic
-- Korean Learning
+- Korean Learner
 - ...
 
 [[💎 PTBT\|💎 PTBT]]
