@@ -12,11 +12,13 @@ Cơ duyên [chị Hà](https://www.facebook.com/hahtd3)sau đó đã đưa mình
 
 Nhu cầu khi đó, mình không cần đến Obsidian. Mình chuyển sang dùng Docs, rồi lại Word, và cuối cùng là Obsidian.
 
-Khoảng giữa tháng 7, 3 tuần trước, mình buộc phải tìm hiểu Obsidian để giải quyết vấn đề công việc.  tuần tìm hiểu, sử dụng và ghi chú, mình thấy thật ngu ngốc sao không sử dụng nó sớm hơn. Obsidian hệ thống hóa kiến thức của mình một cách có hệ thống, dễ truy cập và liên kết với nhau cực kỳ mạnh mẽ.
+Khoảng giữa tháng 7, 3 tuần trước, mình buộc phải tìm hiểu Obsidian để giải quyết vấn đề công việc.  Và mình thấy thật ngu ngốc làm sao, đáng ra mình nên tìm hiểu Obsidan nghiêm túc hơn vào lần trước.
 
-Ngoài ra, Obsidian có thể tạo Website tương tự như Notion.
+Obsidian hệ thống hóa kiến thức của mình một cách có hệ thống, dễ truy cập và liên kết với nhau cực kỳ mạnh mẽ. Cách ghi chú nữa, mình chưa có thời gian để tìm hiểu hết.
 
-Và bây giờ, mình thực hiện bước chuyển đổi Obsidian thành công cụ viết lách của mình.
+Ngoài ra, Obsidian có thể tạo Website tương tự như Notion. Là giao diện các bạn đang truy cập.
+
+Và bây giờ, mình thực hiện bước chuyển đổi Obsidian thành công cụ viết lách của mình. Là video ở bên dưới.
 
 Các Plugins mình sẽ để bên dưới.
 
