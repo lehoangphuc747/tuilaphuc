@@ -9,4 +9,4 @@
 
 ---
 [[Dự án/Obsidian/Plugins\|Plugins]]
-[[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
+[[Dự án/Obsidian/Dành cho Writers#^4a6961\|Dành cho Writers]]
