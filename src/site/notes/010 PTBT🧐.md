@@ -7,7 +7,8 @@
 
 ---
 
-# [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]] 
+# Hiệu suất
+[[Bản thân/PTBT/Hiệu suất\|Hiệu suất]] 
 
 
 # [[Bản thân/PTBT/Books/Books\|Books]]
