@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/du-an/obsidian/stille-focus-on-your-writing/","dgPassFrontmatter":true}
 ---
 
+#plugins
+
 [Open in Obsidian](https://obsidian.md/plugins?id=obsidian-stille)
 
 Cấu hình của mình
