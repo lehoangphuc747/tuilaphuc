@@ -15,9 +15,9 @@
 - Korean Learning
 - ...
 
-[[PTBT 💎\|PTBT 💎]]
-[[Dự án/Obsidian/Obsidian 🟣\|Obsidian 🟣]]
-[[Dự án/Ngoại ngữ/Học tiếng Hàn 🇰🇷\|Học tiếng Hàn 🇰🇷]]
+[[💎 PTBT\|💎 PTBT]]
+[[Dự án/Obsidian/🟣 Obsidian\|🟣 Obsidian]]
+[[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
 ___
 
 # <center>Duyên</center>
