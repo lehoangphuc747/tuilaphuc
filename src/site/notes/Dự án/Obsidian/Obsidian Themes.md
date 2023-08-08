@@ -5,4 +5,4 @@
 [[Dự án/Obsidian/Minimal\|Minimal]]
 
 ---
-[[Dự án/Obsidian/020 Obsidian 🟣\|Obsidian]]
+[[Dự án/Obsidian/Obsidian 🟣\|Obsidian]]
