@@ -16,4 +16,4 @@ Mọi người có thể trải nghiệm thử.
 
 ---
 [[Dự án/Obsidian/Plugins\|Plugins]]
-[[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
+[[Dự án/Obsidian/Dành cho Writers#^376982\|Dành cho Writers]]
