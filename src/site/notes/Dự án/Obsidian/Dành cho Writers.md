@@ -4,29 +4,27 @@
 
 Mình là một người khá thích viết lách.
 
-Trước đây, mình từng tìm hiểu về [Typora](https://typora.io/). 
+Trước đây, mình từng tìm hiểu về [Typora](https://typora.io/). Nhưng sau đó bỏ, vì hồi đó còn sinh viên. Mặc dù bây giờ chẳng khác gì :))))
 
-Ngay từ lần đầu sử dụng thử, mình đã bị hớp hồn. Vấn đề là khi đó điều kiện tài chính còn hạn hẹp, mình không thể đáp ứng được mức phí Typora đưa ra.
+![](https://i.imgur.com/u7GCGKi.png)
 
-Cơ duyên [chị Hà](https://www.facebook.com/hahtd3)sau đó đã đưa mình đến Obsidian, tìm hiểu, thấy phức tạp và lại bỏ bê. 
 
-Nhu cầu khi đó, mình không cần đến Obsidian. Mình chuyển sang dùng Docs, rồi lại Word, và cuối cùng là Obsidian.
+Nên sau khi tìm hiểu và sử dụng Obsidian nhờ cơ duyên [chị Hà](https://www.facebook.com/hahtd3), mình tối ưu luôn giao diện để viết lách giống như Typora.
 
-Khoảng giữa tháng 7, 3 tuần trước, mình buộc phải tìm hiểu [[Dự án/Obsidian/🟣 Obsidian\|Obsidian]] để giải quyết vấn đề công việc.  Và mình thấy thật ngu ngốc làm sao, đáng ra mình nên tìm hiểu Obsidan nghiêm túc hơn vào lần trước.
+Mục tiêu:
 
-Obsidian hệ thống hóa kiến thức của mình một cách có hệ thống, dễ truy cập và liên kết với nhau cực kỳ mạnh mẽ. Cách ghi chú nữa, mình chưa có thời gian để tìm hiểu hết.
+> Tập trung hơn → Viết phê hơn → Viết nhiều hơn
 
-Ngoài ra, Obsidian có thể tạo Website tương tự như Notion. Là giao diện các bạn đang truy cập.
-
-Và bây giờ, mình thực hiện bước chuyển đổi Obsidian thành công cụ viết lách của mình. Là video ở bên dưới.
-
-Các Plugins mình sẽ để bên dưới.
+Có thể cảm nhận qua Video dưới đây:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Qjp7x9MAXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # Theme
 { #05a324}
 
+
+Theme sử dụng để tùy biến giao diện:
 
 ## Minimal
 [[Dự án/Obsidian/Minimal\|Xem Theme]]
