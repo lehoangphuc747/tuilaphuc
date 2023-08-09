@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/files-app/","dgPassFrontmatter":true}
+{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Files-App-08-09","telegraph_page_path":"Files-App-08-09","permalink":"/files-app/","dgPassFrontmatter":true}
 ---
 
 [Trang chủ](https://files.community/)
