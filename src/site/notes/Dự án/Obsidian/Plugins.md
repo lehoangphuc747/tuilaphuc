@@ -26,5 +26,8 @@ ___
 - [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
 - [[Dự án/Obsidian/Style Settings\|Style Settings]]
 - [[Dự án/Obsidian/Hider\|Hider]]
+- [[Writing\|Writing]]
+{ #c6d400}
+
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
