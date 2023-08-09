@@ -17,8 +17,15 @@
 - ...
 
 **Quan tâm?**
+<div style="display: flex; flex-direction: column; align-items: left; cursor: pointer;">
+  <a href="https://www.facebook.com/tui.la.phuc747" target="_blank">
+    <button style="font-size: 24px; padding: 10px; margin: 10px 0; background: #4477CE; font-weight: 600; color: var(--text-on-accent); height: 100%; width-max:90%;">FB: Lê Hoàng Phúc</button>
+  </a>
+  <a href="https://www.instagram.com/themadbear.com.fkuins/" target="_blank">
+    <button style="height:45px;font-size: 24px; padding: 10px; margin: 10px 0; background: linear-gradient(to bottom right, #833AB4, #FD1D1D, #FCAF45); font-weight: 600; color: white;">Ins: @themadbear.com.fkuins</button>
+  </a>
+</div>
 
-[<img  src="https://i.imgur.com/CZ7hhJg.png" width="80">](https://www.facebook.com/tui.la.phuc747)  [<img  src="https://i.imgur.com/HNBJNZE.png" width="30">](https://zalo.me/346598402) [<img  src="https://i.imgur.com/9PROKnb.png" width="30">](https://t.me/lehoangphuc747)
 
 ---
 **Muốn đọc gì đó?**
