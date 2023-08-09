@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/articals/tran-duc-nhan/tran-duc-nhan-tong-hop/","dgPassFrontmatter":true}
 ---
 
-Các [[Articals/Articals\|Articals]] mà mình lượm nhặt được của [anh Nhân](https://www.facebook.com/ducnhan89).
+Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [anh Nhân](https://www.facebook.com/ducnhan89).
 
 ## Base 1
 [Writing and Reading Hacks [Content] - Google Tài liệu](https://docs.google.com/document/d/1HcFjvvAkGKKhJL1hW6qI-TIgM4ydZoLRJHeHYgv83o0/edit?mode=html&fbclid=IwAR2jODkg-0CPoijBuXIiPBCrXOIl3huhDDrnfr-23cK37512hMO9ZFZrgjM#heading=h.y1wxgd9uksm0)
