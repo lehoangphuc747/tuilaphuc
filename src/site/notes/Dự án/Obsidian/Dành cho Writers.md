@@ -53,7 +53,7 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 { #4a6961}
 
 
-[[Dự án/Obsidian/Longform\|Longform]]
+[[Dự án/Obsidian/Longform\|Longform]] - vẫn chưa biết dùng làm gì, nhưng thất recommend
 { #376982}
 
 
