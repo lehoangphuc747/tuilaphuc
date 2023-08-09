@@ -15,6 +15,6 @@ ___
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
 
-[[ReadItLater Inbox/Anki Bridge - Cách Sync giữa Obsidian và Anki\|Anki Bridge - Cách Sync giữa Obsidian và Anki]]
+[[Dự án/Obsidian/Anki Bridge - Cách Sync giữa Obsidian và Anki\|Anki Bridge - Cách Sync giữa Obsidian và Anki]]
 
 [obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
