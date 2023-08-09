@@ -57,3 +57,5 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 { #376982}
 
 
+[[Writing\|Writing]]
+{ #fbc4b8}
