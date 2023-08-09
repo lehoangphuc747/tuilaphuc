@@ -59,3 +59,7 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 
 [[Writing\|Writing]]
 { #fbc4b8}
+
+
+[[Telegraph Publish\|Telegraph Publish]]
+{ #9d7658}
