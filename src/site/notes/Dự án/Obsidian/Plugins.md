@@ -26,7 +26,7 @@ ___
 - [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
 - [[Dự án/Obsidian/Style Settings\|Style Settings]]
 - [[Dự án/Obsidian/Hider\|Hider]]
-- [[Writing\|Writing]]
+- [[Dự án/Obsidian/Writing\|Writing]]
 { #c6d400}
 
 - [[Telegraph Publish\|Telegraph Publish]]
