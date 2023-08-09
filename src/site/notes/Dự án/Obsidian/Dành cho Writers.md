@@ -57,7 +57,7 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 { #376982}
 
 
-[[Writing\|Writing]] - Viết tiểu thuyết
+[[Dự án/Obsidian/Writing\|Writing]] - Viết tiểu thuyết
 { #fbc4b8}
 
 
