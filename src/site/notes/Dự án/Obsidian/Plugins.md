@@ -29,5 +29,8 @@ ___
 - [[Writing\|Writing]]
 { #c6d400}
 
+- [[Telegraph Publish\|Telegraph Publish]]
+{ #fb8435}
+
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
