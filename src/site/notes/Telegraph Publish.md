@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-5","telegraph_page_path":"Telegraph-Publish-08-09-5","permalink":"/telegraph-publish/","dgPassFrontmatter":true}
+{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-4","telegraph_page_path":"Telegraph-Publish-08-09-4","permalink":"/telegraph-publish/","dgPassFrontmatter":true}
 ---
 
-[Open in Obsidian](obsidian://show-plugin?id=obsidian-telegraph-publish)
+[Open in Obsidian](https://obsidian.md/plugins?id=obsidian-telegraph-publish)
 
 # Giới thiệu về Telegra.ph
+
+[Xem thử link mình publish bằng Telegra.ph](https://telegra.ph/Telegraph-Publish-08-09-4)
 
 ![](https://i.imgur.com/MJb2pEs.png)
 
