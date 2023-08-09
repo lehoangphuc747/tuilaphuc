@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09","telegraph_page_path":"Telegraph-Publish-08-09","permalink":"/telegraph-publish/","dgPassFrontmatter":true}
+{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-5","telegraph_page_path":"Telegraph-Publish-08-09-5","permalink":"/telegraph-publish/","dgPassFrontmatter":true}
 ---
 
-[Open in Obsidian](https://obsidian.md/plugins?id=obsidian-telegraph-publish)
-Test
+[Open in Obsidian](obsidian://show-plugin?id=obsidian-telegraph-publish)
 
 # Giới thiệu về Telegra.ph
+
+![](https://i.imgur.com/MJb2pEs.png)
 
 Telegra.ph là một dịch vụ blog miễn phí được cung cấp bởi Telegram. Nó được ra mắt vào tháng 11 năm 2016 và cho phép người dùng tạo và xuất bản các bài đăng trên web mà không cần đăng ký tài khoản. Telegra.ph sử dụng định dạng Markdown để định dạng văn bản và hỗ trợ các tính năng như hình ảnh, video, biểu mẫu và liên kết. Người dùng có thể chia sẻ các bài đăng của họ trên Telegram, Twitter, Facebook và các nền tảng khác.
 
