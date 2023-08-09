@@ -57,9 +57,9 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 { #376982}
 
 
-[[Writing\|Writing]]
+[[Writing\|Writing]] - Viết tiểu thuyết
 { #fbc4b8}
 
 
-[[Telegraph Publish\|Telegraph Publish]]
+[[Telegraph Publish\|Telegraph Publish]] - Publish ẩn danh (COCC)
 { #9d7658}
