@@ -17,10 +17,10 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 [[ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC\|OBSIDIAN 🟣]]
 
 [👑 GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP?](https://www.facebook.com/groups/263482322604568/posts/265358605750273/)
-[[Articals/Trần Đức Nhân/(Ghi chép 1) LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|OBSIDIAN 🟣]]
 
 [👑 THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1](https://www.facebook.com/groups/263482322604568/posts/267005062252294/)
-[[Articals/Trần Đức Nhân/THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/THÓI QUEN VÀ TIỂU TIẾT 1 - KHÔNG GIAN CÙNG THỜI GIAN ẢNH HƯỞNG TỚI VIỆC ĐỌC VÀ VIẾT\|OBSIDIAN 🟣]]
 
 ## Base 2
 
@@ -91,4 +91,4 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 
 # Khác
 [[Articals/Trần Đức Nhân/Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn\|Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn]]
-[[Articals/Trần Đức Nhân/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]
+[[Articals/Trần Đức Nhân/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]E
