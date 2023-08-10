@@ -6,4 +6,4 @@ Những bài viết hay nâng cao kiến thức, giúp [[💎 PTBT\|phát triể
 
 [[Articals/Trần Đức Nhân/Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
 
-[[Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
+[[Articals/Lê Huy Khoa - Kanata/Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
