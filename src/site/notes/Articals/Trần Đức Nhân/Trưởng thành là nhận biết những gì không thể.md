@@ -4,10 +4,6 @@
 
 #articles #Trần-Đức-Nhân #life #choice #mature
 
-[[Articals/Trần Đức Nhân/Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
-
-___
-
 Đa số chúng ta khi ở tuổi 20 luôn cho rằng mình có thể làm được mọi thứ bản thân muốn. Trên lý thuyết đúng là như vậy, nhưng những cái có thể đó luôn bị giới hạn trong chiếc vòng kim cô của thời gian.
 
 Khi thời gian bị giới hạn mà vẫn muốn đạt được tất cả thì hệ số cũng sẽ chia đều đúng theo số việc bạn làm. Ví dụ, bạn sẽ đạt được giá trị 10 khi chỉ tập trung làm một việc. Nhưng sẽ chỉ là 2 khi bạn làm 5 việc cùng một lúc.
@@ -47,7 +43,3 @@ Thực tế là những người xuất sắc nhất trong mọi lĩnh vực th�
 Hành trình trưởng thành đích thực không phải là tìm ra thấy nhiều thứ thú vị hơn mà nằm ở việc bạn sẽ có một nhãn quan mới. Với nhãn quan này bạn nhìn thấu và phân biết cái có thể và không thể.
 
 Và xin nhớ cho, những gì bạn không làm cũng sẽ đem lại lợi ích cho bạn nhiều hơn bạn có thể tưởng tượng.
-
----
-
-[[Articals/Trần Đức Nhân/Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
