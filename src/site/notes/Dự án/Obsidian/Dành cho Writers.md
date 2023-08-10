@@ -61,5 +61,5 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 { #fbc4b8}
 
 
-[[Telegraph Publish\|Telegraph Publish]] - Publish ẩn danh (COCC)
+[[Dự án/Obsidian/Telegraph Publish\|Telegraph Publish]] - Publish ẩn danh (COCC)
 { #9d7658}
