@@ -6,8 +6,6 @@
 
 Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [anh Nhân](https://www.facebook.com/ducnhan89).
 
-[Writing and Reading Hacks [Content] - Google Tài liệu](https://docs.google.com/document/d/1HcFjvvAkGKKhJL1hW6qI-TIgM4ydZoLRJHeHYgv83o0/edit?mode=html&fbclid=IwAR2jODkg-0CPoijBuXIiPBCrXOIl3huhDDrnfr-23cK37512hMO9ZFZrgjM#heading=h.y1wxgd9uksm0)
-
 ## Base 1
 
 [👑 VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH?](https://www.facebook.com/groups/263482322604568/posts/266235018995965/)
