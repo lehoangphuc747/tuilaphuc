@@ -1,5 +1,5 @@
 ---
-{"page-title":"Đức Nhân - Trưởng thành là nhận biết những gì không thể","url":"https://www.facebook.com/ducnhan89/posts/pfbid0uTTikUDCeKAHf73yFhma6oaXiCFXkJM9FPFYsMVwWmB4hQmsQLdEHR3CFTT69JPJl","date":"2023-08-02 14:18:20","telegraph_page_url":"https://telegra.ph/Đức-Nhân---Trưởng-thành-là-nhận-biết-những-gì-không-thể-08-09","telegraph_page_path":"Đức-Nhân---Trưởng-thành-là-nhận-biết-những-gì-không-thể-08-09","dg-publish":true,"permalink":"/articals/tran-duc-nhan/duc-nhan-truong-thanh-la-nhan-biet-nhung-gi-khong-the/","dgPassFrontmatter":true}
+{"page-title":"Đức Nhân - Trưởng thành là nhận biết những gì không thể","url":"https://www.facebook.com/ducnhan89/posts/pfbid0uTTikUDCeKAHf73yFhma6oaXiCFXkJM9FPFYsMVwWmB4hQmsQLdEHR3CFTT69JPJl","telegraph_page_url":"https://telegra.ph/Đức-Nhân---Trưởng-thành-là-nhận-biết-những-gì-không-thể-08-09","telegraph_page_path":"Đức-Nhân---Trưởng-thành-là-nhận-biết-những-gì-không-thể-08-09","dg-publish":true,"permalink":"/articals/tran-duc-nhan/duc-nhan-truong-thanh-la-nhan-biet-nhung-gi-khong-the/","dgPassFrontmatter":true}
 ---
 
 #articles #Trần-Đức-Nhân #life #choice #mature
