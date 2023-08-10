@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/articals/tran-duc-nhan/tran-duc-nhan-tong-hop/","dgPassFrontmatter":true}
 ---
 
-#Trần-Đức-Nhân 
+#Trần-Đức-Nhân #articles 
 
 Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [anh Nhân](https://www.facebook.com/ducnhan89).
 
