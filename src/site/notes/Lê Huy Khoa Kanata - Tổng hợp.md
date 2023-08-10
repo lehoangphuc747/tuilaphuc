@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/le-huy-khoa-kanata-tong-hop/","dgPassFrontmatter":true}
 ---
 
-#articles #Lê-Huy-Khoa-Kanata  
+#Lê-Huy-Khoa-Kanata  
 
 Tổng hợp các [[Articals/Articles\|bài viết]] của thầy Lê Huy Khoa Kanata
 
