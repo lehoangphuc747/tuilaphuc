@@ -27,9 +27,10 @@ Thời điểm tốt nhất: Buổi tối sau khi ăn và đi dạo về. Check 
 Thứ ba, Youtube. Chỉ dùng nó để giải trí thông qua nghe nhạc hoặc nghe podcast mới từ Spiderum hay các kênh về phát triển bản thân cũng như tài chính, chẳng hạn Hiếu TV hay Tri kỷ cảm xúc.
 
 Thứ tư, Messenger chỉ nên nhắn vào những thời điểm nhất định. Nhưng như vậy quá chung chung. Để cụ thể hơn, mình chỉ được dùng Messenger sau khi xong các công việc thường nhật và quan trọng. Hoặc khi mình đang trong trạng thái phân tán, tức sáng tạo. Và hạn chế nhắn quá nhiều với người khác nếu như đoạn hội thoại đó không thực sự cần thiết.
+
 Tuy nhiên, có thể đọc lướt qua, nhưng trừ khi tin nhắn đó là khẩn cấp thì không được phép rep tin nhắn đó ngay lập tức. Phải xác định những khoảng thời gian cụ thể, vào những lúc bản thân được phép xao nhãng. Thường là sau khi học xong những khoảng học nặng nề. Ví dụ, sau 3 hoặc 4 pomodoro thì bản thân sẽ được nghỉ ngơi khoảng 15-30 phút. Có thể tranh thủ trả lời tin nhắn trong khoảng thời gian này.
 
-Thứ năm, Zalo là công cụ giao tiếp quan trọng nhất giữa mình và người thân. Mình dùng Zalo để nói chuyện với ba, mẹ, em trai, Hiền cũng như Bác Thi hay cô Giàu. Còn anh hai nữa, quên mất. Để bữa nào nguôi giận, hoặc có thể là viết bài giải tỏa cảm xúc xong gọi cho anh Hai nói chuyện chơi. Tuy nhiên, không chỉ gọi điện, mình sẽ ưu tiên trả lời những tin nhắn từ bạn bè qua Zalo vào nhiều thời điểm trong ngày hơn là Messenger.
+Thứ năm, Zalo là công cụ giao tiếp quan trọng nhất giữa mình và người thân. Mình dùng Zalo để nói chuyện với ba, mẹ, em trai, cũng như Bác Thi hay cô Giàu. Còn anh hai nữa, quên mất. Để bữa nào nguôi giận, hoặc có thể là viết bài giải tỏa cảm xúc xong gọi cho anh Hai nói chuyện chơi. Tuy nhiên, không chỉ gọi điện, mình sẽ ưu tiên trả lời những tin nhắn từ bạn bè qua Zalo vào nhiều thời điểm trong ngày hơn là Messenger.
 
 Thứ tự ưu tiên trả lời tin nhắn: Zalo > Messenger.
 
