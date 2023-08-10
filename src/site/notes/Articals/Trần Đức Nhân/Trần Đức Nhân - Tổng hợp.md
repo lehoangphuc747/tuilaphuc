@@ -11,10 +11,10 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 [[Articals/Trần Đức Nhân/(Ghi chép 1) LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|❌❌❌]]
 
 [👑 THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1](https://www.facebook.com/groups/263482322604568/posts/267005062252294/)
-[[THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1\|❌❌❌]]
+[[Articals/Trần Đức Nhân/THÓI QUEN VÀ NHỮNG TIỂU TIẾT - 1\|❌❌❌]]
 
 [VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH?](https://www.facebook.com/groups/263482322604568/posts/266235018995965/)
-[[VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|❌❌❌]]
+[[Articals/Trần Đức Nhân/VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|❌❌❌]]
 
 ## Khác
 [[Articals/Trần Đức Nhân/TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN\|TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN]]
