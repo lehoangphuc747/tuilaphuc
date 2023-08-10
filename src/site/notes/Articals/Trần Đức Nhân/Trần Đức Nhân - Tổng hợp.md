@@ -18,3 +18,4 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 
 ## Khác
 [[Articals/Trần Đức Nhân/TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN\|TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN]]
+[[Articals/Trần Đức Nhân/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]
