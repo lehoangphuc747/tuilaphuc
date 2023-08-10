@@ -23,7 +23,7 @@ Riêng với nhóm công ty:
 
 → Khó tăng lương.
 
-![[Công ty Hàn Quốc thường ít tăng lương.mp4]]
+[[Công ty Hàn Quốc thường ít tăng lương.mp4]]
 
 Các bình luận:
 
