@@ -7,3 +7,4 @@
 Tổng hợp các [[Articals/Articles\|bài viết]] của thầy Lê Huy Khoa Kanata
 
 [[Articals/Lê Huy Khoa - Kanata/NHỮNG KIỂU NGƯỜI SAU, BẠN NÊN TỪ CHỐI DỊCH, KẺO LẠI BỊ TỔN THƯƠNG - Lê Huy Khoa\|NHỮNG KIỂU NGƯỜI SAU, BẠN NÊN TỪ CHỐI DỊCH, KẺO LẠI BỊ TỔN THƯƠNG - Lê Huy Khoa]]
+[[Công ty Hàn Quốc thường ít tăng lương\|Công ty Hàn Quốc thường ít tăng lương]]
