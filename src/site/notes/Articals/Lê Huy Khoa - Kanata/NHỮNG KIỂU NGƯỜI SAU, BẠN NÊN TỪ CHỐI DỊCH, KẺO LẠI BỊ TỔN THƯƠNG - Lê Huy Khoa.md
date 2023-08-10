@@ -4,7 +4,7 @@
 
 #korean #Lê-Huy-Khoa-Kanata   #translate #articles 
 
-[[Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
+[[Articals/Lê Huy Khoa - Kanata/Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
 
 ---
 
@@ -35,4 +35,4 @@ Mình không làm, thì để cho các bậc 선배후배 khác làm.
 Các bạn bổ sung thêm để cùng chia sẻ với tất cả mọi người cùng biết.
 
 ---
-[[Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
+[[Articals/Lê Huy Khoa - Kanata/Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
