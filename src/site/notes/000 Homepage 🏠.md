@@ -38,6 +38,9 @@
 ---
 
 # <center>Duyên</center>
+
+<center>Phải có duyên lắm thì chúng ta mới gặp nhau trên Blog này.</center>
+
 <center>
 
 > ![](https://i.imgur.com/Ln9nDJJ.png)
