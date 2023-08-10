@@ -19,5 +19,5 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 [[Articals/Trần Đức Nhân/VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|❌❌❌]]
 
 ## Khác
-[[Articals/Trần Đức Nhân/TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN\|TIỂU TIẾT NHỎ ĐEM TỚI HÀO QUANG CHO SỐ PHẬN CỦA BẠN]]
+[[Articals/Trần Đức Nhân/Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn\|Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn]]
 [[Articals/Trần Đức Nhân/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]
