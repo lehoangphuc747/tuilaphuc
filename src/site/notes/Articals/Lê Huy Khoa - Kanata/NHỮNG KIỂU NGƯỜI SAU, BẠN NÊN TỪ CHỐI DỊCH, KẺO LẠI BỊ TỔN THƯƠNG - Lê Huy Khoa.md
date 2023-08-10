@@ -2,7 +2,7 @@
 {"quickshare-date":"2023-07-26 19:43:09","quickshare-url":"https://noteshare.space/note/clkjlkqff103001mw27ehsnhc#XZA8Kwt4ak/orxAmsI2bfiH//Mnt73hrB9rFZe3dOKY","page-title":"NHỮNG KIỂU NGƯỜI SAU, BẠN NÊN TỪ CHỐI DỊCH,... - Lê Huy Khoa Kanata | Facebook","url":"https://m.facebook.com/lehuykhoa.kanata/posts/pfbid0CrfoEfVtRPKCnm3tpwUsVV1VWaW7wGjUHdeNMzphsuJD9WgNUtbJTb67zW46pL8Hl?comment_id=1230589950935474&notif_id=1690358570436485&notif_t=feed_comment&ref=notif&zarsrc=31&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&wtsid=rdr_099SN6SOEAtzY6ZHR","dg-publish":true,"permalink":"/articals/le-huy-khoa-kanata/nhung-kieu-nguoi-sau-ban-nen-tu-choi-dich-keo-lai-bi-ton-thuong-le-huy-khoa/","dgPassFrontmatter":true}
 ---
 
-#korean #Lê-Huy-Khoa-Kanata   #translate
+#korean #Lê-Huy-Khoa-Kanata   #translate #articles 
 
 [[Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
 
