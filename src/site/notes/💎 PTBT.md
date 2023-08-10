@@ -27,8 +27,6 @@ Những bài viết hay nâng cao kiến thức, giúp [[💎 PTBT\|phát triể
 
 [[Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
 
-[[Động lực\|Động lực]]
-
 </div></div>
 
 
