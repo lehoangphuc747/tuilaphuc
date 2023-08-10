@@ -29,7 +29,7 @@ ___
 - [[Dự án/Obsidian/Writing\|Writing]]
 { #c6d400}
 
-- [[Telegraph Publish\|Telegraph Publish]]
+- [[Dự án/Obsidian/Telegraph Publish\|Telegraph Publish]]
 { #fb8435}
 
 
