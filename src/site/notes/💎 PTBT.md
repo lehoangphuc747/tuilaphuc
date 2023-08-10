@@ -48,3 +48,6 @@ Những bài viết hay nâng cao kiến thức, giúp [[💎 PTBT\|phát triể
 
 # Động lực
 [[Articals/Động lực\|Lấy động lực]]
+
+# Kinh nghiệm & cuộc sống
+[[Kinh nghiệm và cuộc sống\|Kinh nghiệm và cuộc sống]]
