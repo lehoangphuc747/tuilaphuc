@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dong-luc/","dgPassFrontmatter":true}
 ---
 
-#articles #motivation 
+#motivation 
 
 Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động lực tiếp bước trong cuộc sống. (이 험한 세상 같이 노 저어 가야 될 거 아니야?)
 
