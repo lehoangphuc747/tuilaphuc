@@ -27,3 +27,17 @@ Muốn xem tất cả? [Vào đây.](https://files.community/docs/configuring/ke
 | Ctrl + D             | Delete                                 |
 | Ctrl + E             | Extract selected archive               |
 |                      |                                        |
+
+# Obsidian
+
+Phím tắt giúp việc sử dụng [[Dự án/Obsidian/🟣 Obsidian\|🟣 Obsidian]] dễ dàng hơn.
+
+|                  |                      |
+| ---------------- | -------------------- |
+| Ctrl + S         | Lưu File             |
+|                  | Remotely Sync        |
+| Ctrl + Alt + E   | Emoji Toolbar        |
+| Ctrl + P         | Open command palette |
+| Ctrl + O         | Open quick switcher  |
+| Ctrl + Shift + S | Open setting         |
+| Ctrl + Shift + V | Read It Later                     |
