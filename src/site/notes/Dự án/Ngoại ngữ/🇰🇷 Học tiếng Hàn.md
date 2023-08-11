@@ -2,9 +2,13 @@
 {"dg-publish":true,"title":"Học tiếng Hàn","permalink":"/du-an/ngoai-ngu/hoc-tieng-han/","dgPassFrontmatter":true}
 ---
 
+#korean 
+
 [[000 Homepage 🏠\|000 Homepage 🏠]]
 
-[[Học phát âm\|Học phát âm]]
+---
+
+[[Chức vụ trong tiếng Hàn là 직위\|Chức vụ trong tiếng Hàn là 직위]]
 
 [TỪ VỰNG CHUYÊN NGÀNH CHỦ ĐỀ: NHÀ NƯỚC VÀ CHÍNH TRỊ - 국가와 정치 - Trường Hàn Ngữ Việt Hàn Kanata](https://kanata.edu.vn/tu-vung-chuyen-nganh-26/)
 
@@ -24,3 +28,6 @@ Tổng hợp các [[Articals/Articles\|bài viết]] của thầy Lê Huy Khoa K
 [[Công ty Hàn Quốc thường ít tăng lương\|Công ty Hàn Quốc thường ít tăng lương]]
 
 </div></div>
+
+
+[[Học phát âm\|Học phát âm]]
