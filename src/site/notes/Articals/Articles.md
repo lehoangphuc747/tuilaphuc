@@ -21,3 +21,5 @@ Tổng hợp [[Articals/Articles\|bài đọc]] từ các cây viết gạo cộ
 [[Articals/Trần Đức Nhân/Trần Đức Nhân - Tổng hợp\|Trần Đức Nhân - Tổng hợp]]
 
 [[Articals/Lê Huy Khoa - Kanata/Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
+
+[[ReadItLater Inbox/Giá Trị Của Việc Ghi Nhớ Những Khoảnh Khắc Thường Nhật\|Giá Trị Của Việc Ghi Nhớ Những Khoảnh Khắc Thường Nhật]]
