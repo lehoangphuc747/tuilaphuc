@@ -22,4 +22,4 @@ Tổng hợp [[Articals/Articles\|bài đọc]] từ các cây viết gạo cộ
 
 [[Articals/Lê Huy Khoa - Kanata/Lê Huy Khoa Kanata - Tổng hợp\|Lê Huy Khoa Kanata - Tổng hợp]]
 
-[[ReadItLater Inbox/Giá Trị Của Việc Ghi Nhớ Những Khoảnh Khắc Thường Nhật\|Giá Trị Của Việc Ghi Nhớ Những Khoảnh Khắc Thường Nhật]]
+[[Articals/Chưa phân loại/Giá Trị Của Việc Ghi Nhớ Những Khoảnh Khắc Thường Nhật\|Giá Trị Của Việc Ghi Nhớ Những Khoảnh Khắc Thường Nhật]]
