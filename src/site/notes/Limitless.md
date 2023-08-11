@@ -8,4 +8,4 @@ Tổng hợp các bài viết trên [[Spiderum\|Spiderum]] của anh [Limitless]
 
 [[Articals/Chưa phân loại/Chúng Ta Còn Thấy Bố Mẹ Được Bao Lâu\|Chúng Ta Còn Thấy Bố Mẹ Được Bao Lâu]]
 
-[[ReadItLater Inbox/Ba Mẹ không đổi thì Ta đổi\|Ba Mẹ không đổi thì Ta đổi]]
+[[ReadItLater Inbox/Ba Mẹ không thay đổi thì Ta thay đổi\|Ba Mẹ không thay đổi thì Ta thay đổi]]
