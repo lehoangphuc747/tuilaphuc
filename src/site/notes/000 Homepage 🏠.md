@@ -1,5 +1,5 @@
 ---
-{"banner":"![im finally happy.jpg](/img/user/Z_Attachment/im%20finally%20happy.jpg)","banner_y":0.46,"banner_lock":false,"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
