@@ -90,6 +90,7 @@ bố mẹ dụ kẹo để không khóc
 Để tìm ra nguyên nhân bản thân cần ăn để giải tỏa cảm xúc
 
 ==Chánh niệm==
+<!--SR:!2023-08-13,1,230-->
 
 # Thoát khỏi stress
 
