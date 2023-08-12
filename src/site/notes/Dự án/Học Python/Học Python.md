@@ -4,11 +4,11 @@
 
 [[Dự án/Học Python/Types and Comparisons/Types and Comparisons\|Types and Comparisons]]
 
-![Pasted image 20230812171800.png](/img/user/Z_Attachment/Pasted%20image%2020230812171800.png)
+![Pasted image 20230812172020.png](/img/user/Z_Attachment/Pasted%20image%2020230812172020.png)
 //
 True
 
-![Pasted image 20230812171813.png](/img/user/Z_Attachment/Pasted%20image%2020230812171813.png)
+![Pasted image 20230812172037.png](/img/user/Z_Attachment/Pasted%20image%2020230812172037.png)
 //
 False
 
