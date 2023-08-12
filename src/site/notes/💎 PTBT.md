@@ -69,4 +69,4 @@ Tổng hợp [[Articals/Articles\|bài đọc]] từ các cây viết gạo cộ
 [[Kinh nghiệm và cuộc sống\|Kinh nghiệm và cuộc sống]]
 
 # Trải nghiệm
-[[Trải nghiệm\|Trải nghiệm]]
+[[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
