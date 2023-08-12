@@ -61,8 +61,58 @@ Which operator checks if a nummber is less than or equal to another number?
 ![](https://i.imgur.com/OWtr6AK.png)
 //
 ![](https://i.imgur.com/itEHlFE.png)
+<!--SR:!2023-08-15,3,256-->
 
 ![](https://i.imgur.com/tINI6YF.png)
 //
 ![](https://i.imgur.com/d52fGFE.png)
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152411.png](/img/user/Z_Attachment/Pasted%20image%2020230812152411.png)
+//
+![Pasted image 20230812152421.png](/img/user/Z_Attachment/Pasted%20image%2020230812152421.png)
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152511.png](/img/user/Z_Attachment/Pasted%20image%2020230812152511.png)
+//
+![Pasted image 20230812152519.png](/img/user/Z_Attachment/Pasted%20image%2020230812152519.png)
+<!--SR:!2023-08-15,3,256-->
+
+# Comparing string
+
+![Pasted image 20230812152627.png](/img/user/Z_Attachment/Pasted%20image%2020230812152627.png)
+//
+True
+True
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152742.png](/img/user/Z_Attachment/Pasted%20image%2020230812152742.png)
+//
+True
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152800.png](/img/user/Z_Attachment/Pasted%20image%2020230812152800.png)
+//
+False
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152819.png](/img/user/Z_Attachment/Pasted%20image%2020230812152819.png)
+//
+False
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152842.png](/img/user/Z_Attachment/Pasted%20image%2020230812152842.png)
+//
+False
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152904.png](/img/user/Z_Attachment/Pasted%20image%2020230812152904.png)
+//
+False
+<!--SR:!2023-08-15,3,256-->
+
+![Pasted image 20230812152923.png](/img/user/Z_Attachment/Pasted%20image%2020230812152923.png)
+//
+False
+<!--SR:!2023-08-15,3,256-->
 
