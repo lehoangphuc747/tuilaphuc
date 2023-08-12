@@ -7,6 +7,14 @@
 ![](https://i.imgur.com/GmyAiIY.png)
 //![](https://i.imgur.com/GOeWNAA.png)
 
+```anki
+
+![](https://i.imgur.com/GmyAiIY.png)
+===
+![](https://i.imgur.com/GOeWNAA.png)
+
+```
+
 ![](https://i.imgur.com/ZL80c1m.png)
 //![](https://i.imgur.com/UnMbb7U.png)
 
