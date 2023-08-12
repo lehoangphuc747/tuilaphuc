@@ -7,4 +7,7 @@
 
 
 # Comparing string
-[[Comparing string\|Comparing string]]
+[[Dự án/Học Python/Types and Comparisons/Comparing string\|Comparing string]]
+
+# Discovering types
+[[Dự án/Học Python/Types and Comparisons/Discovering types\|Discovering types]]
