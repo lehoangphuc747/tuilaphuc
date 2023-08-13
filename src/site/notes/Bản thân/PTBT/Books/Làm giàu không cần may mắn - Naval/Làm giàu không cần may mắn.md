@@ -15,4 +15,4 @@ Gồm 51 bài viết:
 # [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/6. You won’t get rich renting out your time\|6. You won’t get rich renting out your time]]
 
 
-# [[Chưa xử lý\|Chưa xử lý]] ❌
+# [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/Chưa xử lý\|Chưa xử lý]] ❌
