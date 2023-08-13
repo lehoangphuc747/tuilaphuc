@@ -12,7 +12,7 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 [[Articals/Trần Đức Nhân/VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|OBSIDIAN 🟣]]
 
 [👑 ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC](https://www.facebook.com/groups/263482322604568/?multi_permalinks=264117355874398)
-[[ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC\|OBSIDIAN 🟣]]
 
 [👑 GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP?](https://www.facebook.com/groups/263482322604568/posts/265358605750273/)
 [[Articals/Trần Đức Nhân/GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|OBSIDIAN 🟣]]
@@ -23,68 +23,68 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 ## Base 2
 
 [👑 VIẾT 2 - ĐỌC LÀ ĐI BỘ CÒN VIẾT CHÍNH LÀ CHẠY](https://www.facebook.com/groups/263482322604568/posts/269262622026538/)
-[[VIẾT 2 - ĐỌC LÀ ĐI BỘ CÒN VIẾT CHÍNH LÀ CHẠY\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/VIẾT 2 - ĐỌC LÀ ĐI BỘ CÒN VIẾT CHÍNH LÀ CHẠY\|OBSIDIAN 🟣]]
 
 [👑 ĐỌC 2 - LỰA CHỌN SÁCH PHÙ HỢP VỚI THỜI ĐIỂM](https://www.facebook.com/groups/263482322604568/posts/267882458831221/)
-[[ĐỌC 2 - LỰA CHỌN SÁCH PHÙ HỢP VỚI THỜI ĐIỂM\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/ĐỌC 2 - LỰA CHỌN SÁCH PHÙ HỢP VỚI THỜI ĐIỂM\|OBSIDIAN 🟣]]
 
 [👑 GHI CHÉP 2 - GHI CHÉP CHÍNH LÀ MỘT SỰ GHI NHỚ]()
-[[GHI CHÉP 2 - GHI CHÉP CHÍNH LÀ MỘT SỰ GHI NHỚ\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/GHI CHÉP 2 - GHI CHÉP CHÍNH LÀ MỘT SỰ GHI NHỚ\|OBSIDIAN 🟣]]
 
 [👑 THÓI QUEN VÀ TIỂU TIẾT 2 - NÊU QUÁ ÍT Ý TƯỞNG THÌ SÁNG TẠO NHƯ THẾ NÀO](https://www.facebook.com/groups/263482322604568/posts/269893778630089/)
-[[THÓI QUEN VÀ TIỂU TIẾT 2 - NÊU QUÁ ÍT Ý TƯỞNG THÌ SÁNG TẠO NHƯ THẾ NÀO\|OBSIDIAN 🟣]]
+[[tràn/THÓI QUEN VÀ TIỂU TIẾT 2 - NÊU QUÁ ÍT Ý TƯỞNG THÌ SÁNG TẠO NHƯ THẾ NÀO\|OBSIDIAN 🟣]]
 
 ## Base 3
 
 [👑 VIẾT 3 - ĐỪNG GIỚI HẠN CHỦ ĐỀ BẠN VIẾT](https://www.facebook.com/groups/263482322604568/posts/271389041813896/)
-[[VIẾT 3 - ĐỪNG GIỚI HẠN CHỦ ĐỀ BẠN VIẾT\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/VIẾT 3 - ĐỪNG GIỚI HẠN CHỦ ĐỀ BẠN VIẾT\|OBSIDIAN 🟣]]
 
 [👑 ĐỌC 3 - ĐỌC MỘT CÁCH CHỦ ĐỘNG ĐỂ TÌM KIẾM VÀ ĐÀO XỚI THÔNG TIN](https://www.facebook.com/groups/263482322604568/posts/270457075240426/)
-[[ĐỌC 3 - ĐỌC MỘT CÁCH CHỦ ĐỘNG ĐỂ TÌM KIẾM VÀ ĐÀO XỚI THÔNG TIN\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/ĐỌC 3 - ĐỌC MỘT CÁCH CHỦ ĐỘNG ĐỂ TÌM KIẾM VÀ ĐÀO XỚI THÔNG TIN\|OBSIDIAN 🟣]]
 
 [👑 GHI CHÉP 3 - NHỮNG CÁCH THỨC GHI CHÉP DÀNH CHO BẠN](https://www.facebook.com/groups/263482322604568/posts/272134638406003)
-[[GHI CHÉP 3 - NHỮNG CÁCH THỨC GHI CHÉP DÀNH CHO BẠN\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/GHI CHÉP 3 - NHỮNG CÁCH THỨC GHI CHÉP DÀNH CHO BẠN\|OBSIDIAN 🟣]]
 
 [👑 THÓI QUEN VÀ TIỂU TIẾT 3](https://www.facebook.com/groups/263482322604568/posts/272819595004174/)
-[[THÓI QUEN VÀ TIỂU TIẾT 3\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/THÓI QUEN VÀ TIỂU TIẾT 3\|OBSIDIAN 🟣]]
 
 ## Base 4
 
 [👑 VIẾT 4  - BẮT ĐẦU VIẾT DỰA TRÊN CẢM XÚC VÀ SỰ TỰ NHIÊN CỦA BẢN THÂN](https://www.facebook.com/groups/263482322604568/posts/277064084579725/)
-[[VIẾT 4  - BẮT ĐẦU VIẾT DỰA TRÊN CẢM XÚC VÀ SỰ TỰ NHIÊN CỦA BẢN THÂN\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/VIẾT 4  - BẮT ĐẦU VIẾT DỰA TRÊN CẢM XÚC VÀ SỰ TỰ NHIÊN CỦA BẢN THÂN\|OBSIDIAN 🟣]]
 
 [👑 ĐỌC 4 - ĐỌC CÓ CHỦ ĐÍCH HƠN LÀ ĐỌC ĐỂ THƯ GIÃN](https://www.facebook.com/groups/263482322604568/posts/275008368118630/)
-[[ĐỌC 4 - ĐỌC CÓ CHỦ ĐÍCH HƠN LÀ ĐỌC ĐỂ THƯ GIÃN\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/ĐỌC 4 - ĐỌC CÓ CHỦ ĐÍCH HƠN LÀ ĐỌC ĐỂ THƯ GIÃN\|OBSIDIAN 🟣]]
 
 [👑 GHI CHÉP 4](https://www.facebook.com/groups/263482322604568/posts/279527054333428/)
-[[GHI CHÉP 4\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/GHI CHÉP 4\|OBSIDIAN 🟣]]
 
 [👑 THÓI QUEN VÀ TIỂU TIẾT 4](https://www.facebook.com/groups/263482322604568/posts/280222467597220/)
-[[THÓI QUEN VÀ TIỂU TIẾT 4\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/THÓI QUEN VÀ TIỂU TIẾT 4\|OBSIDIAN 🟣]]
 
 ## Base 5
 
 [👑 ĐỌC 5](https://www.facebook.com/groups/263482322604568/posts/282052180747582/)
-[[ĐỌC 5\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/ĐỌC 5\|OBSIDIAN 🟣]]
 
 [👑 VIẾT 5](https://www.facebook.com/groups/263482322604568/posts/284347293851404/)
-[[VIẾT 5\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/VIẾT 5\|OBSIDIAN 🟣]]
 
 [👑 GHI CHÉP 5](https://www.facebook.com/groups/263482322604568/posts/287891963496937/)
-[[GHI CHÉP 5\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/GHI CHÉP 5\|OBSIDIAN 🟣]]
 
 [👑 THÓI QUEN VÀ TIỂU TIẾT 5](https://www.facebook.com/groups/263482322604568/posts/290649989887801/)
-[[THÓI QUEN VÀ TIỂU TIẾT 5\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/THÓI QUEN VÀ TIỂU TIẾT 5\|OBSIDIAN 🟣]]
 
 ## Base 6
 
 [👑 VIẾT 6 - 7 MẪU CHỐT KHI BẮT ĐẦU VIẾT MỘT BÀI VIẾT](https://www.facebook.com/groups/263482322604568/posts/360947692858030/)
-[[VIẾT 6 - 7 MẪU CHỐT KHI BẮT ĐẦU VIẾT MỘT BÀI VIẾT\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/VIẾT 6 - 7 MẪU CHỐT KHI BẮT ĐẦU VIẾT MỘT BÀI VIẾT\|OBSIDIAN 🟣]]
 
 ## Base 7
 
 [👑 VIẾT 7 - 5 HƯỚNG DẪN CHI TIẾT DÀNH CHO NGƯỜI BẮT ĐẦU VIẾT](https://www.facebook.com/groups/263482322604568/posts/599469865672477/)
-[[VIẾT 7 - 5 HƯỚNG DẪN CHI TIẾT DÀNH CHO NGƯỜI BẮT ĐẦU VIẾT\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/VIẾT 7 - 5 HƯỚNG DẪN CHI TIẾT DÀNH CHO NGƯỜI BẮT ĐẦU VIẾT\|OBSIDIAN 🟣]]
 
 
 # Khác
