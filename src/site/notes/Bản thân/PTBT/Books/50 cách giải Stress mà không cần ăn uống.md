@@ -76,6 +76,7 @@ pizza - party, bánh tráng trộn - bạn bè,...
 bố mẹ dụ kẹo để không khóc
 
  ==Mang hiệu quả tạm thời, cân bằng cảm xúc sẽ khiến tâm trạng tích cực trở nên tồi tệ lại.==
+<!--SR:!2023-08-16,2,246-->
 
 ## Cơn đói do cảm xúc
 
@@ -90,7 +91,7 @@ bố mẹ dụ kẹo để không khóc
 Để tìm ra nguyên nhân bản thân cần ăn để giải tỏa cảm xúc
 
 ==Chánh niệm==
-<!--SR:!2023-08-13,1,230-->
+<!--SR:!2023-08-15,1,210-->
 
 # Thoát khỏi stress
 
