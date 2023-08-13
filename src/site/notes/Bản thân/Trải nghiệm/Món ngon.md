@@ -3,4 +3,5 @@
 ---
 
 # Ăn vặt
-[[Bản thân/Trải nghiệm/네모스틱\|네모스틱]]
+[[Bản thân/Trải nghiệm/Ăn vặt\|Ăn vặt]]
+[[Bản thân/Trải nghiệm/Kem\|Kem]]
