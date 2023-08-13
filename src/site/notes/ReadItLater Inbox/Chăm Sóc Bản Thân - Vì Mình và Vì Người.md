@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/read-it-later-inbox/cham-soc-ban-than-vi-minh-va-vi-nguoi/","dgPassFrontmatter":true}
 ---
 
-[[Spiderum\|Spiderum]]
+[[Articals/Spiderum/Spiderum\|Spiderum]]
 
-[[Limitless\|Limitless]]
+[[Articals/Spiderum/Limitless\|Limitless]]
 
 ---
 
