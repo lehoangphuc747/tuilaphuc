@@ -40,4 +40,5 @@ Phím tắt giúp việc sử dụng [[Dự án/Obsidian/🟣 Obsidian\|🟣 Obs
 | Ctrl + P         | Open command palette |
 | Ctrl + O         | Open quick switcher  |
 | Ctrl + Shift + S | Open setting         |
-| Ctrl + Shift + V | Read It Later                     |
+| Ctrl + Shift + V | Read It Later        |
+| Ctrl + Shift + F | Search in all files                     |
