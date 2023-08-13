@@ -3,7 +3,7 @@
 ---
 
 # Comparing numbers
-[[Comparing numbers\|Comparing numbers]]
+[[Dự án/Học Python/Types and Comparisons/Comparing numbers\|Comparing numbers]]
 
 
 # Comparing string
