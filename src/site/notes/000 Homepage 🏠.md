@@ -34,7 +34,7 @@
 [[Dự án/Obsidian/🟣 Obsidian\|🟣 Obsidian]]
 [🌟 Hướng dẫn Anki](https://hocanki.com/)
 [[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
-[[Dự án/Học Python/Học Python\|Học Python]]
+[[Dự án/Học Python/💻 Học Python\|💻 Học Python]]
 
 ---
 
@@ -44,8 +44,8 @@
 
 <center>
 
-> ![](https://i.imgur.com/Ln9nDJJ.png)
+![](https://i.imgur.com/Ln9nDJJ.png)
 
-> ![](https://i.imgur.com/dL6i2vX.png)
+![](https://i.imgur.com/dL6i2vX.png)
 
 </center>
