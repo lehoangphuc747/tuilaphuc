@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/articals/chua-phan-loai/chung-ta-con-thay-bo-me-duoc-bao-lau/","dgPassFrontmatter":true}
 ---
 
-[[Limitless\|Limitless]]
+[[Articals/Spiderum/Limitless\|Limitless]]
 
 ---
 
