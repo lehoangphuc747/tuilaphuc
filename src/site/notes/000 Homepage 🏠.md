@@ -40,7 +40,7 @@
 
 # <center>Duyên</center>
 
-<center>Cảm ơn cuộc đời, vì những người đã gặp, những chuyện đã trải và…</center>
+<center>Cảm ơn cuộc đời, vì những người đã gặp và những gì đã trải qua…</center>
 
 <center>
 
