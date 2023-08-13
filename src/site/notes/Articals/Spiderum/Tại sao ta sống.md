@@ -5,7 +5,7 @@
 #spiderum #articles #andy-luong #life #mature 
 
 [[Articals/Spiderum/Spiderum\|Spiderum]]
-[[Andy Luong\|Andy Luong]]
+[[Articals/Spiderum/Andy Luong\|Andy Luong]]
 
 [Tại sao ta sống?](https://spiderum.com/bai-dang/Tai-sao-ta-song-p5l63yAwYX9e)
 
