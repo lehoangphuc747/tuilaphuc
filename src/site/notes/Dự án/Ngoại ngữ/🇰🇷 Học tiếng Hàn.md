@@ -10,6 +10,8 @@
 
 [[Dự án/Ngoại ngữ/Bộ thẻ từ vựng KIIP - Giáo trình hội nhập xã hội\|Bộ thẻ từ vựng KIIP - Giáo trình hội nhập xã hội]]
 
+[[Dự án/Ngoại ngữ/Tiếng  Hàn/TOPIK/Ôn TOPIK\|Ôn TOPIK]]
+
 [[Dự án/Ngoại ngữ/Chức vụ trong tiếng Hàn là 직위\|Chức vụ trong tiếng Hàn là 직위]]
 
 [TỪ VỰNG CHUYÊN NGÀNH CHỦ ĐỀ: NHÀ NƯỚC VÀ CHÍNH TRỊ - 국가와 정치 - Trường Hàn Ngữ Việt Hàn Kanata](https://kanata.edu.vn/tu-vung-chuyen-nganh-26/)
