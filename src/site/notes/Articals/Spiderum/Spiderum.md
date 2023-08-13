@@ -6,4 +6,4 @@ Tổng hợp [[Articals/Articles\|bài đọc]] từ các cây viết gạo cộ
 
 [[Articals/Spiderum/Limitless\|Limitless]]
 
-[[Andy Luong\|Andy Luong]]
+[[Articals/Spiderum/Andy Luong\|Andy Luong]]
