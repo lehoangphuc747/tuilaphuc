@@ -32,7 +32,7 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 [[Articals/Trần Đức Nhân/GHI CHÉP 2 - GHI CHÉP CHÍNH LÀ MỘT SỰ GHI NHỚ\|OBSIDIAN 🟣]]
 
 [👑 THÓI QUEN VÀ TIỂU TIẾT 2 - NÊU QUÁ ÍT Ý TƯỞNG THÌ SÁNG TẠO NHƯ THẾ NÀO](https://www.facebook.com/groups/263482322604568/posts/269893778630089/)
-[[tràn/THÓI QUEN VÀ TIỂU TIẾT 2 - NÊU QUÁ ÍT Ý TƯỞNG THÌ SÁNG TẠO NHƯ THẾ NÀO\|OBSIDIAN 🟣]]
+[[Articals/Trần Đức Nhân/THÓI QUEN VÀ TIỂU TIẾT 2 - NÊU QUÁ ÍT Ý TƯỞNG THÌ SÁNG TẠO NHƯ THẾ NÀO\|OBSIDIAN 🟣]]
 
 ## Base 3
 
