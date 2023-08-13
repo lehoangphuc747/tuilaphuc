@@ -40,7 +40,7 @@
 
 # <center>Duyên</center>
 
-<center>Phải có duyên lắm thì chúng ta mới gặp nhau trên Blog này.</center>
+<center>Cảm ơn cuộc đời, vì những người đã gặp, những chuyện đã trải và…</center>
 
 <center>
 
