@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/read-it-later-inbox/ba-me-khong-thay-doi-thi-ta-thay-doi/","dgPassFrontmatter":true}
 ---
 
-[[Limitless\|Limitless]]
+[[Articals/Spiderum/Limitless\|Limitless]]
 
 ---
 
