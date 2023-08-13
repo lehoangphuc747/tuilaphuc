@@ -24,6 +24,7 @@
 20.5%
 //
 ![Pasted image 20230813152424.png](/img/user/Z_Attachment/Pasted%20image%2020230813152424.png)
+<!--SR:!2023-08-15,2,245-->
 
 5000명
 //
@@ -54,6 +55,7 @@
 약 680%나 증가하다
 //
 ![Pasted image 20230813152854.png](/img/user/Z_Attachment/Pasted%20image%2020230813152854.png)
+<!--SR:!2023-08-15,2,245-->
 
 약 680% 정도 증가하다
 //
@@ -76,6 +78,7 @@
 Mỗi ô vuông được viết tối đa mấy chữ số?
 //
 ![Pasted image 20230813153056.png](/img/user/Z_Attachment/Pasted%20image%2020230813153056.png)
+<!--SR:!2023-08-15,2,245-->
 
 Mỗi ô vuông được viết tối đa mấy chữ IN HOA?
 //
