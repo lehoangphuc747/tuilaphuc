@@ -13,6 +13,6 @@ Gồm 51 bài viết:
 # [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/4. Making money isn’t about luck\|4. Making money isn’t about luck]]
 # [[Bản thân/PTBT/Books/5. Make luck your destiny\|5. Make luck your destiny]]
 # [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/6. You won’t get rich renting out your time\|6. You won’t get rich renting out your time]]
-# [[7. Live below your means for freedom  \|7. Live below your means for freedom  ]]
+# [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/Live below your means for freedom\|Live below your means for freedom]]
 
 # [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/Chưa xử lý\|Chưa xử lý]] ❌
