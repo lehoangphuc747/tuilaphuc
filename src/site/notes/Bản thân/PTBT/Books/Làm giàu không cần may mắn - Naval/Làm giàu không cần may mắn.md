@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ban-than/ptbt/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","dgPassFrontmatter":true}
 ---
 
-[[Bản thân/PTBT/Books/Books\|📕 Books]]
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
 Gồm 51 bài viết:
