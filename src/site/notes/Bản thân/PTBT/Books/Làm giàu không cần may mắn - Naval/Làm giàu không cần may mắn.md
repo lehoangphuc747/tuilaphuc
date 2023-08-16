@@ -14,5 +14,6 @@ Gồm 51 bài viết:
 [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/6. You won’t get rich renting out your time\|6. You won’t get rich renting out your time]]
 [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/7. Live below your means for freedom\|7. Live below your means for freedom]]
 [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/8. Give Society What It Doesn’t Know How to Get\|8. Give Society What It Doesn’t Know How to Get]]
+[[9. The Internet Has Massively Broadened Career Possibilities\|9. The Internet Has Massively Broadened Career Possibilities]]
 
 [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/Chưa xử lý\|Chưa xử lý]] ❌
