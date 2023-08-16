@@ -6,14 +6,14 @@
 
 Gồm 51 bài viết:
 
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/1. Seek wealth, not money or status\|1. Seek wealth, not money or status]]
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/2. Make abundance for the world\|2. Make abundance for the world]]
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/3. Free markets are intrinsic to humans\|3. Free markets are intrinsic to humans]]
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/4. Making money isn’t about luck\|4. Making money isn’t about luck]]
-[[Bản thân/PTBT/Books/5. Make luck your destiny\|5. Make luck your destiny]]
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/6. You won’t get rich renting out your time\|6. You won’t get rich renting out your time]]
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/7. Live below your means for freedom\|7. Live below your means for freedom]]
-[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/8. Give Society What It Doesn’t Know How to Get\|8. Give Society What It Doesn’t Know How to Get]]
-[[9. The Internet Has Massively Broadened Career Possibilities\|9. The Internet Has Massively Broadened Career Possibilities]]
+[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/1. Hãy tìm tài sản, đừng tìm tiền hay địa vị\|1. Hãy tìm tài sản, đừng tìm tiền hay địa vị]]
+[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/2. Hãy tạo sự dư thừa cho thế giới\|2. Hãy tạo sự dư thừa cho thế giới]]
+[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/3. Thị trường tự do nằm trong bản chất loài người\|3. Thị trường tự do nằm trong bản chất loài người]]
+[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/4. Làm giàu không cần may mắn\|4. Làm giàu không cần may mắn]]
+[[Bản thân/PTBT/Books/5. Biến may mắn thành định mệnh\|5. Biến may mắn thành định mệnh]]
+[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/6. Bạn sẽ không thể giàu có nếu cứ đi làm thuê\|6. Bạn sẽ không thể giàu có nếu cứ đi làm thuê]]
+[[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/8. Hãy cung cấp cho xã hội thứ mà họ không biết cách để làm ra\|8. Hãy cung cấp cho xã hội thứ mà họ không biết cách để làm ra]]
+[[9. Internet đã làm tăng đáng kể lựa chọn nghề nghiệp cho chúng ta\|9. Internet đã làm tăng đáng kể lựa chọn nghề nghiệp cho chúng ta]]
+[[10. Chơi trò chơi đường dài với những người có tầm nhìn dài hạn\|10. Chơi trò chơi đường dài với những người có tầm nhìn dài hạn]]
 
 [[Bản thân/PTBT/Books/Làm giàu không cần may mắn - Naval/Chưa xử lý\|Chưa xử lý]] ❌
