@@ -11,8 +11,8 @@ Ctrl + B: **in đậm**
 
 Ctrl + I: *in nghiêng*
 
-Ctrl + Alt + H: ==highlight==
-<!--SR:!2023-08-15,2,230-->
+Ctrl + Shift + H: ==highlight==
+<!--SR:!2023-08-25,8,230-->
 
 
 
