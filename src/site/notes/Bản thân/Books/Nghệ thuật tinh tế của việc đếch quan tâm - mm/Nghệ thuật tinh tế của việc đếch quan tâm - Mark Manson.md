@@ -4,12 +4,6 @@
 
 [[Chương 1. Đừng Cố\|Chương 1. Đừng Cố]]
 
-
-
----
-
----
-
 # Vòng Lặp Địa Ngục 
 
 Trong óc bạn thường vang lên lời giễu cợt đầy xảo quyệt rằng, nếu bạn để kệ nó, bạn sẽ thành kẻ dở hơi. Bạn thử nói xem điều này có quen thuộc với bạn không nhé: 
