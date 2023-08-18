@@ -4,8 +4,6 @@
 
 [[Chương 1. Đừng Cố\|Chương 1. Đừng Cố]]
 
-[[Bản thân/Books/Nghệ thuật tinh tế của việc đếch quan tâm - mm/Đừng cố\|Đừng cố]]
-
 
 
 ---
