@@ -4,10 +4,6 @@
 
 #korean 
 
-[[000 Homepage 🏠\|000 Homepage 🏠]]
-
----
-
 [[Dự án/Ngoại ngữ/Bộ thẻ từ vựng KIIP - Giáo trình hội nhập xã hội\|Bộ thẻ từ vựng KIIP - Giáo trình hội nhập xã hội]]
 
 [[Dự án/Ngoại ngữ/Tiếng  Hàn/TOPIK/Ôn TOPIK\|Ôn TOPIK]]
