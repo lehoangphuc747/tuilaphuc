@@ -26,7 +26,7 @@
 
 ---
 
-# Khổ vốn từ tâm mà ra, mà cũng từ tâm diệt đi
+## Khổ vốn từ tâm mà ra, mà cũng từ tâm diệt đi
 
 ---
 **Muốn đọc gì đó?**
