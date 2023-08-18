@@ -10,20 +10,4 @@ body {
     //  h1 {
     //   color: black;
     //  }
-
-/* Highlight EDITOR */
-
-.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
-    background-color: transparent;
-    color: #DA70D6;
-}
-
-
-/* Highlight PREVIEW */
-
-.markdown-preview-view mark {
-    background-color: transparent;
-    color: #CD0000;
-}
-
 }
