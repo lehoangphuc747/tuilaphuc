@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/articals/chua-phan-loai/gia-tri-cua-viec-ghi-nho-nhung-khoanh-khac-thuong-nhat/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/articals/chua-phan-loai/gia-tri-cua-viec-ghi-nho-nhung-khoanh-khac-thuong-nhat/","hide":true,"dgPassFrontmatter":true}
 ---
 
-[[Articals/Articles\|Articles]]
-
----
 
 Việc ghi lại những sự kiện hằng ngày có vẻ như rất nhàm chán, nhưng những người tham gia một nghiên cứu gần đây lại cảm thấy vui nếu có những bút tích của chúng trong tương lai.
 
