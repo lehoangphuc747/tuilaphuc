@@ -3,7 +3,6 @@
 ---
 
 #focus 
-[[💎 PTBT\|💎 PTBT]]
 
 1. Truyện tranh (tùy chọn)
 2. Mạng xã hội (tiêu biểu là Facebook, Youtube, Messenger và Zalo)
