@@ -63,3 +63,6 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 
 [[Dự án/Obsidian/Telegraph Publish\|Telegraph Publish]] - Publish ẩn danh (COCC)
 { #9d7658}
+
+
+[[Daily Stats\|Daily Stats]] - Review Heatmap của Obsidian :)))
