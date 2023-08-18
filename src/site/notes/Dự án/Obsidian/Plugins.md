@@ -32,5 +32,6 @@ ___
 - [[Dự án/Obsidian/Telegraph Publish\|Telegraph Publish]]
 { #fb8435}
 
+- [[Daily Stats\|Daily Stats]]
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
