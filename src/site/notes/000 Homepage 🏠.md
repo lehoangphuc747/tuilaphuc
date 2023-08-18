@@ -24,6 +24,9 @@
   </a>
 </div>
 
+---
+
+# Khổ vốn từ tâm mà ra, mà cũng từ tâm diệt đi
 
 ---
 **Muốn đọc gì đó?**
