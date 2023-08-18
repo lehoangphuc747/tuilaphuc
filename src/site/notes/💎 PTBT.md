@@ -12,7 +12,7 @@
 
 
 # Books
-[[Bản thân/PTBT/Books/Books\|Xem sách]]
+[[Bản thân/Books/Books\|Xem sách]]
 
 # Articals
 
