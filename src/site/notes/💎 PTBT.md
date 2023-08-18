@@ -3,10 +3,6 @@
 ---
 
 
-[[000 Homepage 🏠\|Homepage 🏠]]
-
----
-
 # Hiệu suất
 [[Bản thân/PTBT/Hiệu suất\|Truy cập]]
 
