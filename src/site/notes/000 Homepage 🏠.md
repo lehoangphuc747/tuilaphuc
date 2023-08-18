@@ -26,7 +26,7 @@
 
 ---
 
-#### Khổ đau vốn từ tâm sinh ra, mà cũng từ tâm diệt đi
+## Khổ đau vốn từ tâm sinh ra, mà cũng từ tâm diệt đi
 
 ---
 **Muốn đọc gì đó?**
