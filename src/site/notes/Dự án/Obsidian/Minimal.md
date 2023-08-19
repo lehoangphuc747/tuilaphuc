@@ -10,10 +10,4 @@ Theme nổi tiếng nhất của [[Dự án/Obsidian/🟣 Obsidian\|Obsidian]]
 
 ![](https://i.imgur.com/s8EQuJb.png)
 
-
-
 # [[Dự án/Obsidian/Checkbox icons\|Checkbox icons]]
-
----
-[[Dự án/Obsidian/Obsidian Themes\|Obsidian Themes]]
-[[Dự án/Obsidian/Dành cho Writers#^05a324\|Dành cho Writers]]
