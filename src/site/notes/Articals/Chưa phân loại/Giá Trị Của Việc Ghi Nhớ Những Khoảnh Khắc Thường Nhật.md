@@ -25,7 +25,7 @@ Tuy nhiên, đa số những người Zhang hỏi không thích ghi chép lại 
 ==“Họ chọn cách từ bỏ những cơ hội để ghi lại những trải nghiệm trong hiện tại,” Zhang viết, “chỉ để thấy bản thân mong mỏi tìm lại được lưu trữ đó trong tương lai.”==
 
 ==Trong Swann’s Way, người dẫn chuyện của Proust đã kể lại những gì trong những năm trẻ tuổi? Đó là chút trà và bánh madeleine mà anh ấy dùng cùng với mẹ; là nụ hôn chúc ngủ ngon anh nhận được khi nằm trên giường; là những lần tản bộ dọc Champs-Elysées. Cuối cùng thì bữa ăn xế, những nụ hôn chúc ngủ ngon, và những lần tản bộ - chứ không phải là ước mơ được đi du lịch Venice hay đến nhà thờ ở thành phố Balbec trong tưởng tượng – là những gì mà anh ấy yêu quý sâu đậm nhất.==
-<!--SR:!2023-08-15,3,250-->
+<!--SR:!2023-09-01,13,250-->
 
 ==Có lẽ chỉ là khó để hiểu một khoảnh khắc mang ý nghĩa gì, trong phạm vi cuộc sống, khi nó đang diễn ra. “Tôi chỉ có thể lưu ý rằng quá khứ rất xinh đẹp vì người ta không bao giờ nhận ra được cảm xúc vào thời điểm ấy,” Virginia Woolf viết. “Nó từ từ sẽ lớn dần, và như thế chúng ta không có những cảm xúc trọn vẹn ở hiện tại, mà chỉ có ở quá khứ.”==
 
