@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ban-than/ptbt/hieu-suat/phim-tat-101/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/ban-than/ptbt/hieu-suat/phim-tat-101/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Windows Explorer
@@ -33,3 +33,4 @@ Phím tắt giúp việc sử dụng [[Dự án/Obsidian/🟣 Obsidian\|🟣 Obs
 | ==Ctrl + N==           | Create new note                     |
 | ==Ctrl + D==           | Delete paragraph                    |
 |                        |                                     |
+<!--SR:!2023-08-22,3,250-->
