@@ -19,8 +19,8 @@ ___
 - QuickShare
 - Remotely Save
 - Tray
-- [Longform](https://github.com/kevboh/longform)
-- [Ghost Fade Focus](https://github.com/skipadu/obsidian-ghost-fade-focus)
+- [[Dự án/Obsidian/Longform\|Longform]]
+- [[Dự án/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
 - [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 - [deathau/sliding-panes-obsidian: Andy Matuschak Mode as a plugin (github.com)](https://github.com/deathau/sliding-panes-obsidian)
 - [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
