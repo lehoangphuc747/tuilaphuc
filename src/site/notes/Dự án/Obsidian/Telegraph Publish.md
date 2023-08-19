@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-4","telegraph_page_path":"Telegraph-Publish-08-09-4","permalink":"/du-an/obsidian/telegraph-publish/","dgPassFrontmatter":true}
+{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-4","telegraph_page_path":"Telegraph-Publish-08-09-4","dg-hide":true,"permalink":"/du-an/obsidian/telegraph-publish/","hide":true,"dgPassFrontmatter":true}
 ---
 
 [Open in Obsidian](https://obsidian.md/plugins?id=obsidian-telegraph-publish)
@@ -23,7 +23,3 @@ Dưới đây là một số tính năng chính của Telegra.ph:
 - Tạo các blog ẩn danh
 
 Nếu bạn đang tìm kiếm một dịch vụ blog miễn phí và dễ sử dụng, Telegra.ph là một lựa chọn tốt.
-
-—
-[[Dự án/Obsidian/Plugins#^fb8435\|Plugins]]
-[[Dự án/Obsidian/Dành cho Writers#^9d7658\|Dành cho Writers]]
