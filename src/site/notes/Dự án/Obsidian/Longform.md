@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/du-an/obsidian/longform/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/du-an/obsidian/longform/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #plugins 
@@ -13,7 +13,3 @@ Mọi người có thể trải nghiệm thử.
 ![](https://i.imgur.com/r9vyXf0.png)
 
 ![](https://i.imgur.com/bUe3Nve.png)
-
----
-[[Dự án/Obsidian/Plugins\|Plugins]]
-[[Dự án/Obsidian/Dành cho Writers#^376982\|Dành cho Writers]]
