@@ -21,5 +21,6 @@ Gồm 51 bài viết:
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/09. Internet đã làm tăng đáng kể lựa chọn nghề nghiệp cho chúng ta\|09. Internet đã làm tăng đáng kể lựa chọn nghề nghiệp cho chúng ta]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/10. Chơi trò chơi đường dài với những người có tầm nhìn dài hạn\|10. Chơi trò chơi đường dài với những người có tầm nhìn dài hạn]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/11. Chọn người đồng hành thông minh, giàu năng lượng và có đạo đức\|11. Chọn người đồng hành thông minh, giàu năng lượng và có đạo đức]]
+- [[Bản thân/Books/Làm giàu không cần may mắn - Naval/12. Đồng hành với những người tích cực mà có lý trí\|12. Đồng hành với những người tích cực mà có lý trí]]
 
 { .block-language-dataview}
