@@ -9,5 +9,8 @@ Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [an
 [[👑 Reading and Writing Hacks\|👑 Reading and Writing Hacks]]
 
 # Khác
-[[Articals/Trần Đức Nhân/Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn\|Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn]]
-[[Articals/Trần Đức Nhân/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]
+
+- [[Articals/Trần Đức Nhân/Khác/Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn\|Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn]]
+- [[Articals/Trần Đức Nhân/Khác/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]
+
+{ .block-language-dataview}
