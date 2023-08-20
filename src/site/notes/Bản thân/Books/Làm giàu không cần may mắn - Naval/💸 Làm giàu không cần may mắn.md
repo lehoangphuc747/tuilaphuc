@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["book"],"permalink":"/ban-than/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ban-than/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","dgPassFrontmatter":true}
 ---
 
 
