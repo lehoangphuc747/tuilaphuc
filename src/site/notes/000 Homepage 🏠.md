@@ -39,7 +39,11 @@
 
 ---
 
+<center>
+
 ### Khổ đau vốn từ tâm sinh ra, mà cũng từ tâm diệt đi
+
+</center>
 
 ---
 # <center>Duyên</center>
