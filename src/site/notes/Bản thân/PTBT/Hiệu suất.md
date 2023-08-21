@@ -15,3 +15,5 @@
 
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
+
+[[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
