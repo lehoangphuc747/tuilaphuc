@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/du-an/obsidian/typewriter-scroll/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["obsidian plugins writing"],"permalink":"/du-an/obsidian/typewriter-scroll/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #plugins 
