@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-4","telegraph_page_path":"Telegraph-Publish-08-09-4","dg-hide":true,"tags":["obsidian plugins writing publish"],"permalink":"/du-an/obsidian/telegraph-publish-publish-an-danh-la-cocc/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"telegraph_page_url":"https://telegra.ph/Telegraph-Publish-08-09-4","telegraph_page_path":"Telegraph-Publish-08-09-4","dg-hide":true,"tags":["obsidian","plugins","writing","publish"],"permalink":"/du-an/obsidian/telegraph-publish-publish-an-danh-la-cocc/","hide":true,"dgPassFrontmatter":true}
 ---
 
 [Open in Obsidian](https://obsidian.md/plugins?id=obsidian-telegraph-publish)
