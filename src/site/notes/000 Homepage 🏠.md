@@ -14,16 +14,6 @@
 - Ankier
 - ...
 
-**Quan tâm?**
-<div style="display: flex; flex-direction: column; align-items: left; cursor: pointer;">
-  <a href="https://www.facebook.com/tui.la.phuc747" target="_blank">
-    <button style="font-size: 18px; padding: 10px; margin: 10px 0; background: #4477CE; font-weight: 600; color: var(--text-on-accent);">FB: Lê Hoàng Phúc</button>
-  </a>
-  <a href="https://www.instagram.com/themadbear.com.fkuins/" target="_blank">
-    <button style="font-size: 18px; padding: 10px; margin: 10px 0; background: linear-gradient(to bottom right, #833AB4, #FD1D1D, #FCAF45); font-weight: 600; color: white;">Ins: @themadbear.com.fkuins</button>
-  </a>
-</div>
-
 ---
 
 ### Khổ đau vốn từ tâm sinh ra, mà cũng từ tâm diệt đi
@@ -40,6 +30,17 @@
 
 ---
 
+**Quan tâm?**
+<div style="display: flex; flex-direction: column; align-items: left; cursor: pointer;">
+  <a href="https://www.facebook.com/tui.la.phuc747" target="_blank">
+    <button style="font-size: 18px; padding: 10px; margin: 10px 0; background: #4477CE; font-weight: 600; color: var(--text-on-accent);">FB: Lê Hoàng Phúc</button>
+  </a>
+  <a href="https://www.instagram.com/themadbear.com.fkuins/" target="_blank">
+    <button style="font-size: 18px; padding: 10px; margin: 10px 0; background: linear-gradient(to bottom right, #833AB4, #FD1D1D, #FCAF45); font-weight: 600; color: white;">Ins: @themadbear.com.fkuins</button>
+  </a>
+</div>
+
+---
 # <center>Duyên</center>
 
 <center>Cảm ơn cuộc đời, vì những người đã gặp và những gì đã trải qua…</center>
