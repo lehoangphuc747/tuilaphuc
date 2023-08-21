@@ -1,5 +1,5 @@
 ---
-{"author":["Cal Newport"],"dg-publish":true,"dg-hide":true,"permalink":"/ban-than/books/loi-song-toi-gian-thoi-cong-nghe-so-cal-newport-and-khanh-trang-dich/","hide":true,"dgPassFrontmatter":true}
+{"author":["Cal Newport"],"dg-publish":true,"dg-hide":true,"Tags":"focus books minimalism","permalink":"/ban-than/books/loi-song-toi-gian-thoi-cong-nghe-so-cal-newport-and-khanh-trang-dich/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
