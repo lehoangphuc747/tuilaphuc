@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["plugins obsidian writing"],"permalink":"/du-an/obsidian/writing-viet-tieu-thuyet/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["plugins","obsidian","writing"],"permalink":"/du-an/obsidian/writing-viet-tieu-thuyet/","hide":true,"dgPassFrontmatter":true}
 ---
 
 [Open in Obsidian](obsidian://show-plugin?id=writing)
