@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["obsidian writing"],"permalink":"/du-an/obsidian/danh-cho-writers/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["obsidian","writing"],"permalink":"/du-an/obsidian/danh-cho-writers/","hide":true,"dgPassFrontmatter":true}
 ---
 
 Mình là một người khá thích viết lách.
@@ -42,15 +42,15 @@ Theme sử dụng để tùy biến giao diện:
 
 Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghiệm viết lách trong Obsidian của mình.
 
+- [[Dự án/Obsidian/Readability Score - đánh giá độ dễ đọc\|Readability Score - đánh giá độ dễ đọc]]
 - [[Dự án/Obsidian/Telegraph Publish - Publish ẩn danh (là COCC)\|Telegraph Publish - Publish ẩn danh (là COCC)]]
 - [[Dự án/Obsidian/Daily Stats - Review Heatmap của Obsidian\|Daily Stats - Review Heatmap của Obsidian]]
-- [[Dự án/Obsidian/Readability Score - đánh giá độ dễ đọc\|Readability Score - đánh giá độ dễ đọc]]
 - [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 - [[Dự án/Obsidian/Writing - Viết tiểu thuyết\|Writing - Viết tiểu thuyết]]
 - [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
 - [[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
-- [[Dự án/Obsidian/Typewriter Scroll\|Typewriter Scroll]]
 - [[Dự án/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
+- [[Dự án/Obsidian/Typewriter Scroll\|Typewriter Scroll]]
 - [[Dự án/Obsidian/Style Settings\|Style Settings]]
 - [[Dự án/Obsidian/Longform\|Longform]]
 
