@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["plugins obsidian writing"],"permalink":"/du-an/obsidian/stille-focus-on-your-writing/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["plugins","obsidian","writing"],"permalink":"/du-an/obsidian/stille-focus-on-your-writing/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
