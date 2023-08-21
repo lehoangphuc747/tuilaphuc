@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/ban-than/viet-lach/loai-bo-cac-nhan-to-xao-nhang/","dgPassFrontmatter":true}
+{"dg-publish":true,"Dg-hide":true,"Tags":"focus","permalink":"/ban-than/viet-lach/loai-bo-cac-nhan-to-xao-nhang/","dgPassFrontmatter":true}
 ---
 
-#focus 
 
 1. Truyện tranh (tùy chọn)
 2. Mạng xã hội (tiêu biểu là Facebook, Youtube, Messenger và Zalo)
