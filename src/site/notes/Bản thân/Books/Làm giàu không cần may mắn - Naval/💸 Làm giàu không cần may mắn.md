@@ -24,5 +24,6 @@ Gồm 51 bài viết:
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/12. Đồng hành với những người tích cực mà có lý trí\|12. Đồng hành với những người tích cực mà có lý trí]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/13. Trang bị kiến thức đặc thù cho bản thân\|13. Trang bị kiến thức đặc thù cho bản thân]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/14. Kiến thức đặc thù thường rất nặng tính sáng tạo hoặc chuyên môn kỹ thuật\|14. Kiến thức đặc thù thường rất nặng tính sáng tạo hoặc chuyên môn kỹ thuật]]
+- [[Bản thân/Books/Làm giàu không cần may mắn - Naval/15. Hãy học cách xây dựng một thứ, và học cách bán thứ đấy\|15. Hãy học cách xây dựng một thứ, và học cách bán thứ đấy]]
 
 { .block-language-dataview}
