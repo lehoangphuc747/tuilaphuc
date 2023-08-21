@@ -15,9 +15,9 @@ LỐI SỐNG TỐI GIẢN
 
 [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)#^5d937f\|Lời giới thiệu]]
 
-[[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)#PHẦN 1. CÁC NỀN TẢNG\|#PHẦN 1. CÁC NỀN TẢNG]]
+[[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)#PHẦN 1. CÁC NỀN TẢNG\|PHẦN 1. CÁC NỀN TẢNG]]
 
-1.  [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)#Một cuộc chạy đua vũ trang không cân sức\|#Một cuộc chạy đua vũ trang không cân sức]]
+1.  [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)#Một cuộc chạy đua vũ trang không cân sức\|Một cuộc chạy đua vũ trang không cân sức]]
 
 2.  [Tối giản hóa số 59](#tyjcwt)
 
