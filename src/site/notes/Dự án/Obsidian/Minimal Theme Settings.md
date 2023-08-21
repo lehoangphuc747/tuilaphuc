@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/du-an/obsidian/minimal-theme-settings/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["plugins obsidian writing theme"],"permalink":"/du-an/obsidian/minimal-theme-settings/","hide":true,"dgPassFrontmatter":true}
 ---
 
-#plugins 
 
 [Open in Obsidian](obsidian://show-plugin?id=obsidian-minimal-settings)
 
