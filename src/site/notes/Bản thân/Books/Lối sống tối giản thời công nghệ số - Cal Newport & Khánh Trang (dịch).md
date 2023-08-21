@@ -110,58 +110,20 @@ Nói cách khác là một triết lý giống như chủ nghĩa tối giản s�
 
 **CHÚNG TA KHÔNG CHỦ ĐỘNG CHÀO ĐÓN CUỘC SỐNG MỚI**
 
-Tôi vẫn nhớ lần đầu tiên tôi biết đến Facebook. Khi đó là mùa xuân năm
-2004, tôi đang học năm thứ ba đại học và bắt đầu nhận thấy ngày càng
-nhiều bạn bè mình nói về một website tên là thefacebook.com. Người đầu
-tiên cho tôi xem một hồ sơ cá nhân trên Facebook trông như thế nào là
-Julie, bạn gái tôi khi ấy, và bây giờ đang là vợ tôi.
+Tôi vẫn nhớ lần đầu tiên tôi biết đến Facebook. Khi đó là mùa xuân năm 2004, tôi đang học năm thứ ba đại học và bắt đầu nhận thấy ngày càng nhiều bạn bè mình nói về một website tên là thefacebook.com. Người đầu tiên cho tôi xem một hồ sơ cá nhân trên Facebook trông như thế nào là Julie, bạn gái tôi khi ấy, và bây giờ đang là vợ tôi.
 
-"Ấn tượng của em khi đó là nó hết sức mới mẻ," cô ấy tâm sự với tôi gần
-đây như vậy. "Người ta quảng bá rằng đó là phiên bản ảo của cuốn kỷ yếu
-lưu giữ ảnh chụp các tân sinh viên, là công cụ mà chúng ta có thể sử
-dụng để tìm kiếm bạn trai hoặc bạn gái của những người mà chúng ta
-biết."
+"Ấn tượng của em khi đó là nó hết sức mới mẻ," cô ấy tâm sự với tôi gần đây như vậy. "Người ta quảng bá rằng đó là phiên bản ảo của cuốn kỷ yếu lưu giữ ảnh chụp các tân sinh viên, là công cụ mà chúng ta có thể sử dụng để tìm kiếm bạn trai hoặc bạn gái của những người mà chúng ta biết."
 
-Từ khóa trong trí nhớ của cô ấy về Facebook là *mới mẻ.* Facebook không
-xuất hiện trong thế giới của chúng ta với lời hứa hẹn sẽ làm biến đổi
-một cách triệt để những nhịp điệu quen thuộc trong đời sống xã hội và
-đời sống dân sự của chúng ta; nó chỉ là một trò gây phân tâm giữa vô vàn
-trò gây phân tâm khác. Vào mùa thu năm 2004, những người tôi quen biết
-có đăng ký sử dụng thefacebook.com chắc chắn phần lớn đều dành thời gian
-chơi Snood (một trò giải đố rất thịnh hành) hơn là ngồi chỉnh sửa gọt
-giũa cho hồ sơ cá nhân trên Facebook hay chọc bạn bè trong thế giới ảo.
+Từ khóa trong trí nhớ của cô ấy về Facebook là *mới mẻ.* Facebook không xuất hiện trong thế giới của chúng ta với lời hứa hẹn sẽ làm biến đổi một cách triệt để những nhịp điệu quen thuộc trong đời sống xã hội và đời sống dân sự của chúng ta; nó chỉ là một trò gây phân tâm giữa vô vàn trò gây phân tâm khác. Vào mùa thu năm 2004, những người tôi quen biết có đăng ký sử dụng thefacebook.com chắc chắn phần lớn đều dành thời gian chơi Snood (một trò giải đố rất thịnh hành) hơn là ngồi chỉnh sửa gọt giũa cho hồ sơ cá nhân trên Facebook hay chọc bạn bè trong thế giới ảo.
 
 "Facebook khi ấy rất thú vị," Julie tóm tắt lại, "nhưng chắc chắn nó
-không phải là thứ mà chúng ta sẵn sàng dành lượng thời gian đáng kể vào
-đó."
+không phải là thứ mà chúng ta sẵn sàng dành lượng thời gian đáng kể vào đó."
 
-Thế rồi ba năm sau, Apple ra mắt iPhone, mở ra cuộc cách mạng về điện
-thoại di động. Tuy nhiên, nhiều người quên rằng cuộc "cách mạng" nguyên
-thủy mà thiết bị này hứa hẹn ban đầu cũng ở quy mô khiêm tốn hơn nhiều
-so với tác động mà nó tạo ra. Trong thời điểm hiện tại, điện thoại thông
-minh đã tái định hình trải nghiệm của con người về thế giới bằng cách
-tạo sự kết nối liên tục với một ma trận luôn ồn ào với những cuộc trao
-đổi và những yếu tố gây phân tâm. Tháng Một năm 2007, khi Steve Jobs
-tiết lộ về chiếc iPhone trong buổi giới thiệu sản phẩm đã trở thành
-huyền thoại, tầm [nhìn]{.underline} mà ông đưa ra ít đồ sộ hơn nhiều.
+Thế rồi ba năm sau, Apple ra mắt iPhone, mở ra cuộc cách mạng về điện thoại di động. Tuy nhiên, nhiều người quên rằng cuộc "cách mạng" nguyên thủy mà thiết bị này hứa hẹn ban đầu cũng ở quy mô khiêm tốn hơn nhiều so với tác động mà nó tạo ra. Trong thời điểm hiện tại, điện thoại thông minh đã tái định hình trải nghiệm của con người về thế giới bằng cách tạo sự kết nối liên tục với một ma trận luôn ồn ào với những cuộc trao đổi và những yếu tố gây phân tâm. Tháng Một năm 2007, khi Steve Jobs tiết lộ về chiếc iPhone trong buổi giới thiệu sản phẩm đã trở thành huyền thoại, tầm nhìn mà ông đưa ra ít đồ sộ hơn nhiều.
 
-Một trong những đặc điểm hấp dẫn chủ đạo của chiếc iPhone ban đầu là nó
-tích hợp thiết bị nghe nhạc iPod cũng của Apple với điện thoại di động,
-giúp bạn không phải mang trong túi một lúc hai thiết bị riêng biệt. (Dĩ
-nhiên, đây là những ấn tượng tôi còn giữ lại được về thời điểm đó, khi
-tôi hình dung đến những lợi ích của chiếc iPhone lúc nó mới được ra
-mắt.) Do vậy, khi Jobs đứng trên sân khấu để giới thiệu về chiếc iPhone,
-ông đã dành 8 phút đầu tiên để mô tả về những đặc điểm của nó ở góc độ
-một thiết bị truyền thông, và ông kết luận: "Đây là chiếc iPod tuyệt vời
-nhất mà chúng tôi từng làm ra!"
+Một trong những đặc điểm hấp dẫn chủ đạo của chiếc iPhone ban đầu là nó tích hợp thiết bị nghe nhạc iPod cũng của Apple với điện thoại di động, giúp bạn không phải mang trong túi một lúc hai thiết bị riêng biệt. (Dĩ nhiên, đây là những ấn tượng tôi còn giữ lại được về thời điểm đó, khi tôi hình dung đến những lợi ích của chiếc iPhone lúc nó mới được ra mắt.) Do vậy, khi Jobs đứng trên sân khấu để giới thiệu về chiếc iPhone, ông đã dành 8 phút đầu tiên để mô tả về những đặc điểm của nó ở góc độ một thiết bị truyền thông, và ông kết luận: "Đây là chiếc iPod tuyệt vời nhất mà chúng tôi từng làm ra!"
 
-Một đặc điểm hấp dẫn chủ đạo khác của thiết bị này vào thời điểm nó mới
-ra mắt là cải thiện trải nghiệm gọi điện theo nhiều cách khác nhau. Một
-tin tức gây xôn xao khi ấy là Apple buộc hãng viễn thông AT&T mở hệ
-thống thư thoại để chiếc iPhone có giao diện đẹp hơn. Trên sân khấu,
-Jobs thể hiện rõ niềm thích thú trước sự đơn giản trong thiết kế, để bạn
-có thể dùng tay lướt dọc danh bạ trong máy, và trước ý tưởng thiên tài
-thay thế nút bấm nhựa cố định bằng bàn phím cảm ứng trên màn hình.
+Một đặc điểm hấp dẫn chủ đạo khác của thiết bị này vào thời điểm nó mới ra mắt là cải thiện trải nghiệm gọi điện theo nhiều cách khác nhau. Một tin tức gây xôn xao khi ấy là Apple buộc hãng viễn thông AT&T mở hệ thống thư thoại để chiếc iPhone có giao diện đẹp hơn. Trên sân khấu, Jobs thể hiện rõ niềm thích thú trước sự đơn giản trong thiết kế, để bạn có thể dùng tay lướt dọc danh bạ trong máy, và trước ý tưởng thiên tài thay thế nút bấm nhựa cố định bằng bàn phím cảm ứng trên màn hình.
 
 "ứng dụng tuyệt vời nhất là ứng dụng thực hiện cuộc gọi," Jobs hào hứng
 nói trong tiếng vỗ tay rào rào của khán giả. Phải từ phút thứ 33 trở đi
