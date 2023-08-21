@@ -10,11 +10,11 @@
 { #9e0a73}
 
 
-- [[Bản thân/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]]
 - [[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
-- [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
+- [[Bản thân/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]]
 - [[Bản thân/PTBT/Nội dung/Khoa học về giấc ngủ\|Khoa học về giấc ngủ]]
 - [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]]
+- [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
 
 { .block-language-dataview}
 
