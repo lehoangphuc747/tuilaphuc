@@ -1,29 +1,29 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"title":"Phát triển bản thân","dg-note-icon":1,"permalink":"/ptbt/","pinned":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-pinned":true,"title":"Phát triển bản thân","dg-note-icon":1,"tags":["PTBT"],"permalink":"/ptbt/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
-# Hiệu suất
+## Hiệu suất
 [[Bản thân/PTBT/Hiệu suất\|Truy cập]]
 
-# Books
+## Books
 [[Bản thân/Books/Books\|Xem sách]]
 
-# Articals
+## Articals
 [[Articals/Articles\|Articles]]
 
-# Ngoại ngữ
+## Ngoại ngữ
 [[Bản thân/PTBT/Ngoại ngữ\|Học ngoại ngữ]]
 
-# Sự thay đổi
+## Sự thay đổi
 [[Bản thân/PTBT/Sự thay đổi\|Sự thay đổi]]
 
-# Động lực
+## Động lực
 [[Articals/Động lực\|Lấy động lực]]
 
-# Kinh nghiệm & cuộc sống
+## Kinh nghiệm & cuộc sống
 [[Bản thân/Kinh nghiệm và cuộc sống\|Kinh nghiệm và cuộc sống]]
 
-# Trải nghiệm
+## Trải nghiệm
 [[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
 
