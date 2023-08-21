@@ -36,7 +36,7 @@
 [🌟 Hướng dẫn Anski](https://hocanki.com/)
 [[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
 [[Dự án/Học Python/💻 Học Python\|💻 Học Python]]
-
+[[Nhật ký\|Nhật ký]]
 ---
 
 # <center>Duyên</center>
