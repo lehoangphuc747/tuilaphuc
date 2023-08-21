@@ -16,9 +16,6 @@
 
 ---
 
-### Khổ đau vốn từ tâm sinh ra, mà cũng từ tâm diệt đi
-
----
 ## **Muốn đọc gì đó?**
 
 [[💎 PTBT\|💎 PTBT]]
@@ -39,6 +36,10 @@
     <button style="font-size: 18px; padding: 10px; margin: 10px 0; background: linear-gradient(to bottom right, #833AB4, #FD1D1D, #FCAF45); font-weight: 600; color: white;">Ins: @themadbear.com.fkuins</button>
   </a>
 </div>
+
+---
+
+### Khổ đau vốn từ tâm sinh ra, mà cũng từ tâm diệt đi
 
 ---
 # <center>Duyên</center>
