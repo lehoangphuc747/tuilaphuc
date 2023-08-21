@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["plugins obsidian writing theme"],"permalink":"/du-an/obsidian/minimal-theme-settings/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["plugins","obsidian","writing","theme"],"permalink":"/du-an/obsidian/minimal-theme-settings/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
