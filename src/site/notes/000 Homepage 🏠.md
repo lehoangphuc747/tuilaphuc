@@ -26,7 +26,7 @@
 [🌟 Hướng dẫn Anski](https://hocanki.com/)
 [[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
 [[Dự án/Học Python/💻 Học Python\|💻 Học Python]]
-[[Bản thân/Nhật ký/🗒️📔📓 📒📑 Nhật ký\|🗒️📔📓 📒📑 Nhật ký]]
+[[Bản thân/Nhật ký/📒 Nhật ký\|📒 Nhật ký]]
 
 ---
 
