@@ -9,7 +9,9 @@ Plugin sẽ tính điểm mức độ dễ đọc của văn bản.
 
 ![](https://i.imgur.com/U3oWMGa.gif)
 
-Cachs 
+Cách tính điểm như sau:
+
+![](https://i.imgur.com/r2cE0Ek.png)
 
 |Score|School level ([US](https://en.wikipedia.org/wiki/Education_in_the_United_States "Education in the United States"))|Notes|
 |---|---|---|
