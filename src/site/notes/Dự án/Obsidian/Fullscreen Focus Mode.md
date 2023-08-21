@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["obsidian plugins writing focus"],"permalink":"/du-an/obsidian/fullscreen-focus-mode/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["obsidian","plugins","writing","focus"],"permalink":"/du-an/obsidian/fullscreen-focus-mode/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #plugins 
