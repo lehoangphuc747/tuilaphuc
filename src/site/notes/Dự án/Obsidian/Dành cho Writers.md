@@ -75,3 +75,6 @@ Tổng hợp các [[Dự án/Obsidian/Plugins\|Plugins]] nâng cao trải nghi�
 
 
 [[Daily Stats\|Daily Stats]] - Review Heatmap của Obsidian :)))
+
+[[Dự án/Obsidian/Readability Score\|Readability Score]]
+
