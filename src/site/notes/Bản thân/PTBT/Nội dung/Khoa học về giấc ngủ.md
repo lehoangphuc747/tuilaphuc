@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/ban-than/ptbt/noi-dung/khoa-hoc-ve-giac-ngu/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["health sleep focus"],"permalink":"/ban-than/ptbt/noi-dung/khoa-hoc-ve-giac-ngu/","dgPassFrontmatter":true}
 ---
 
-#sleep #health 
-[[💎 PTBT\|💎 PTBT]] 
 
 # Khoa học về giấc ngủ
 ### Youtube:
