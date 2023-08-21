@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/du-an/obsidian/longform/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"tags":["plugins obsidian writing"],"permalink":"/du-an/obsidian/longform/","hide":true,"dgPassFrontmatter":true}
 ---
 
-#plugins 
 
 [Open in Obsidian](https://obsidian.md/plugins?id=longform)
 
