@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"title":"Tại sao ta sống?","dg-hide":true,"permalink":"/articals/spiderum/tai-sao-ta-song/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Tại sao ta sống?","author":"Andy Luong","dg-hide":true,"permalink":"/articals/spiderum/tai-sao-ta-song/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #spiderum #articles #andy-luong #life #mature 
-
-[[Articals/Spiderum/Spiderum\|Spiderum]]
-[[Articals/Spiderum/Andy Luong\|Andy Luong]]
 
 [Tại sao ta sống?](https://spiderum.com/bai-dang/Tai-sao-ta-song-p5l63yAwYX9e)
 
