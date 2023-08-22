@@ -1,12 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/articals/spiderum/cham-soc-ban-than-vi-minh-va-vi-nguoi/","dgPassFrontmatter":true}
+{"dg-publish":true,"Dg-hide":true,"Author":"Limitless","tags":["spiderum","articles","Limitless","relationship","life","health",null],"permalink":"/articals/spiderum/cham-soc-ban-than-vi-minh-va-vi-nguoi/","dgPassFrontmatter":true}
 ---
 
-[[Articals/Spiderum/Spiderum\|Spiderum]]
-
-[[Articals/Spiderum/Limitless\|Limitless]]
-
----
 
 # Chăm Sóc Bản Thân Vì Mình
 
