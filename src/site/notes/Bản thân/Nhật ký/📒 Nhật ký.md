@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["diary"],"permalink":"/ban-than/nhat-ky/nhat-ky/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["diary-publish","not-publish"],"permalink":"/ban-than/nhat-ky/nhat-ky/","dgPassFrontmatter":true}
 ---
 
 
