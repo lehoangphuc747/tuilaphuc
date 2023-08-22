@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articals/chua-phan-loai/chung-ta-con-thay-bo-me-duoc-bao-lau/","dgPassFrontmatter":true}
+{"dg-publish":true,"Dg-hide":true,"author":"Limitless","tags":["spiderum","articles","Limitless","life","relationship",null],"permalink":"/articals/chua-phan-loai/chung-ta-con-thay-bo-me-duoc-bao-lau/","dgPassFrontmatter":true}
 ---
 
 [[Articals/Spiderum/Limitless\|Limitless]]
