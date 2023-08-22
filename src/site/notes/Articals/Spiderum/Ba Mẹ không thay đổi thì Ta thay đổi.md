@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articals/spiderum/ba-me-khong-thay-doi-thi-ta-thay-doi/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":"Limitless","tags":["articles","spiderum","Limitless","life","relationship",null],"permalink":"/articals/spiderum/ba-me-khong-thay-doi-thi-ta-thay-doi/","hide":true,"dgPassFrontmatter":true}
 ---
 
 [[Articals/Spiderum/Limitless\|Limitless]]
