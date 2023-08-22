@@ -54,6 +54,16 @@
 
 ![](https://i.imgur.com/Ln9nDJJ.png)
 
+Nếu không tới [làng Mai](https://flownes.com/lang-mai-tai-phap-va-trai-nghiem-cua-toi/), có lẽ tôi không biết được rằng **duyên** **là từ không như mình nghĩ.** Nó không phải là thứ gì bất chợt xuất hiện và bất chợt đi. Nó không phải là tự dưng, không phải là vô cớ, cũng không phải bỗng nhiên gặp.
+
+Đọc hai cuốn kinh song song bằng tiếng Anh và tiếng Việt ở làng mai thì tôi nhận ra chữ duyên được dịch là ”**cause and condition**”.
+
 ![](https://i.imgur.com/dL6i2vX.png)
+
+**Mọi thứ đến và đi đều do có nguyên nhân mà sinh ra, rồi có điều kiện mà hình thành.** Ta gặp nhau không phải bỗng dưng hai người rơi từ trên trời xuống mà gặp. Ta gặp nhau vì tâm ta đã có sự tương đồng nào đó, dẫn ta tới một nơi nào đó. Ở cùng một nơi, nhờ hoàn cảnh khi ấy, ta bắt gặp ánh mắt của nhau. Đấy mới là duyên.
+
+Ta chia xa nhau không phải bỗng dưng mà xa. **Ta chia xa vì một nguyên nhân nào đó xuất hiện, hoặc vì điều kiện nào đó không còn.** Đấy mới là duyên.
+
+Mong rằng hiểu đúng về duyên như vậy, cũng để ta hiểu mình cần gì để có cây thơm trái ngọt trong đời này.
 
 </center>
