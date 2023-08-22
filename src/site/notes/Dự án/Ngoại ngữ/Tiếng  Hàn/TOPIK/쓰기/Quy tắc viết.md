@@ -6,10 +6,10 @@
 <!--SR:!2023-08-26,9,250-->
 
 ==![Pasted image 20230813151733.png](/img/user/Z_Attachment/Pasted%20image%2020230813151733.png)==
-<!--SR:!2023-08-22,5,230-->
+<!--SR:!2023-09-04,13,230-->
 
 ==![Pasted image 20230813151752.png](/img/user/Z_Attachment/Pasted%20image%2020230813151752.png)==
-<!--SR:!2023-08-22,5,230-->
+<!--SR:!2023-09-05,14,230-->
 
 2022년
 //
@@ -19,7 +19,7 @@
 2.5%
 //
 ![Pasted image 20230813152408.png](/img/user/Z_Attachment/Pasted%20image%2020230813152408.png)
-<!--SR:!2023-08-22,5,245-->
+<!--SR:!2023-09-03,12,245-->
 
 20.5%
 //
@@ -55,7 +55,7 @@
 약 680%나 증가하다
 //
 ![Pasted image 20230813152854.png](/img/user/Z_Attachment/Pasted%20image%2020230813152854.png)
-<!--SR:!2023-08-22,5,245-->
+<!--SR:!2023-09-04,13,245-->
 
 약 680% 정도 증가하다
 //
@@ -70,7 +70,7 @@
 약 680%가량 증가하다
 //
 ![Pasted image 20230813152956.png](/img/user/Z_Attachment/Pasted%20image%2020230813152956.png)
-<!--SR:!2023-08-22,5,245-->
+<!--SR:!2023-09-03,12,245-->
 
 ==![Pasted image 20230813153024.png](/img/user/Z_Attachment/Pasted%20image%2020230813153024.png)==
 <!--SR:!2023-08-26,9,246-->
@@ -78,12 +78,12 @@
 Mỗi ô vuông được viết tối đa mấy chữ số?
 //
 ![Pasted image 20230813153056.png](/img/user/Z_Attachment/Pasted%20image%2020230813153056.png)
-<!--SR:!2023-08-22,5,245-->
+<!--SR:!2023-09-05,14,245-->
 
 Mỗi ô vuông được viết tối đa mấy chữ IN HOA?
 //
 ![Pasted image 20230813153212.png](/img/user/Z_Attachment/Pasted%20image%2020230813153212.png)
-<!--SR:!2023-08-22,5,246-->
+<!--SR:!2023-09-05,14,246-->
 
 Mỗi ô vuông được viết tối đa mấy chữ in thường?
 //
