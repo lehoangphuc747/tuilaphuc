@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articals/spiderum/andy-luong/","dgPassFrontmatter":true}
+{"dg-publish":true,"Author":"Andy Luong","permalink":"/articals/spiderum/andy-luong/","dgPassFrontmatter":true}
 ---
 
 #spiderum #writer
