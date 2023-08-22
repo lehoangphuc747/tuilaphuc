@@ -34,7 +34,7 @@ Cơn giận ơi, chào mi nhé! Người bạn cũ của ta.
 
 Học → Hiểu → Dạy
 
-Vấn đề là hiểu.
+## Vấn đề là hiểu.
 
 Một người có thể làm quen và nhanh chóng học được kiến thức mới.
 Có thể thành thục kỹ năng nào đó. Nhưng chỉ khi nào mà họ có thể dạy cho người khác hiểu được thì họ mới thực sự hiểu sâu sắc hoàn toàn.
@@ -52,8 +52,8 @@ Và với tất cả những thứ khác cũng vậy.
 Mình có thể biết. Nhưng mình hiểu không đủ sâu. Điều đó có cần thiết hay không? Hay chỉ TỐN THỜI GIAN một cách vô ích. Vô ích thì không rồi, nhưng vấn đề nằm ở chỗ thời gian đó có xứng đáng bỏ ra. Hay mình chỉ cần hiểu đủ để tự dùng? Bởi mình làm khóa Anki rồi nên biết độ khó của việc dạy. Dạy phải đơn giản, dễ hiểu, có thể thực hiện ngay. Để có thể tạo ra nội dung như thế, mình đã viết, xóa, quay video cả ngày, xong lại xóa,… lặp lại liên tục rất nhiều lần. Có khi mình xóa luôn cả folder mình làm trong mấy ngày chỉ vì nó không đáp ứng yêu cầu của mình. (Đủ đơn giản để hiểu và làm theo)
 
 Việc chỉ dạy cho người khác cũng thú vị đó. Nhưng mình phải biết cái nào là ưu tiên hàng đầu của mình. Từ cao đến thấp:
- - Kỹ năng tiếng Hàn của mình còn rất yếu kém. Lượng thời gian đổ vào nó đòi hỏi cường độ cao hơn nữa.
- - Dự án Anki của mình vẫn chưa hoàn thành, và có lẽ sẽ còn phải làm dài dài.
- - Mình còn chưa thực sự hiểu về Obsidian cho lắm. Vẫn chưa thể giải thích được những khái niệm căn bản của Obsidian. Tạm thời chắc chỉ dùng nó để ghi nhật ký, lưu trữ sách và bài viết vậy. Các Plugin cài vô vẫn chưa có thời gian mà test thử các chức năng.
- - Lập trình Python chắc mỗi ngày xem một chút và thực hành + ôn tập để nhớ các công thức bằng Spaced Repetition. → Vẫn chưa có thời gian để dồn toàn lực vào nó.
- - Dự án tự học tiếng Hàn cơ bản cũng thế. Vẫn đang bế quan tỏa cảng. Tiến độ chỉ mới xong nguyên âm cơ bản :)))))
+ - **Kỹ năng tiếng Hàn** của mình còn rất yếu kém. Lượng thời gian đổ vào nó đòi hỏi cường độ cao hơn nữa.
+ - **Dự án Anki** của mình vẫn chưa hoàn thành, và có lẽ sẽ còn phải làm dài dài.
+ - Mình còn chưa thực sự hiểu về **Obsidian** cho lắm. Vẫn chưa thể giải thích được những khái niệm căn bản của Obsidian. Tạm thời chắc chỉ dùng nó để ghi nhật ký, lưu trữ sách và bài viết vậy. Các Plugin cài vô vẫn chưa có thời gian mà test thử các chức năng.
+ - **Lập trình Python** chắc mỗi ngày xem một chút và thực hành + ôn tập để nhớ các công thức bằng Spaced Repetition. → Vẫn chưa có thời gian để dồn toàn lực vào nó.
+ - Dự án **tự học tiếng Hàn** cơ bản cũng thế. Vẫn đang bế quan tỏa cảng. Tiến độ chỉ mới xong nguyên âm cơ bản. Mộng tạo nhóm tự học tiếng Hàn còn xa vời quá. :)))))
