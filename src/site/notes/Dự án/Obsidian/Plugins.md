@@ -16,8 +16,8 @@
 - [[Dự án/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
 - [[Dự án/Obsidian/Style Settings\|Style Settings]]
 - [[Dự án/Obsidian/Longform\|Longform]]
-- [[Dự án/Obsidian/Hider\|Hider]]
 - [[Dự án/Obsidian/Plugins\|Plugins]]
+- [[Dự án/Obsidian/Hider\|Hider]]
 
 { .block-language-dataview}
 
