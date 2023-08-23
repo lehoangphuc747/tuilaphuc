@@ -11,7 +11,7 @@
 
 > [!Question] Câu 1.
 > 
-> ![Pasted image 20230813163720.png|500](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
+> ![Pasted image 20230813163720.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
 ![[21.1.mp3]]
 >> [!Answer]-
 >> 4
@@ -19,7 +19,7 @@
 
 > [!Question] Câu 2.
 > 
-> ![Pasted image 20230813164135.png](/img/user/Z_Attachment/Pasted%20image%2020230813164135.png)
+> ![Pasted image 20230813164135.png|625](/img/user/Z_Attachment/Pasted%20image%2020230813164135.png)
 ![[21.2.mp3]]
 >> [!Answer]-
 >> 3
@@ -28,7 +28,7 @@
 
 > [!Question] Câu 3.
 > 
-> ![Pasted image 20230813164656.png](/img/user/Z_Attachment/Pasted%20image%2020230813164656.png)
+> ![Pasted image 20230813164656.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813164656.png)
 > ![[22.1.mp3]]
 >> [!Answer]-
 >> 3
