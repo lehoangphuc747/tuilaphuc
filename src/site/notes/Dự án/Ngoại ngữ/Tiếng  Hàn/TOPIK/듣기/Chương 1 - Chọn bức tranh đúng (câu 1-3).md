@@ -9,35 +9,45 @@
 
 # Giải đề 1~2
 
-> [!Question] ![Pasted image 20230813163720.png|500](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
+> [!Question] Câu 1.
+> 
+> ![Pasted image 20230813163720.png|500](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
 ![[21.1.mp3]]
-Câu 1.
 >> [!Answer]-
 >> 4
 <!--SR:!2023-09-09,17,250-->
 
-> [!Question] Câu 2. ![Pasted image 20230813164135.png](/img/user/Z_Attachment/Pasted%20image%2020230813164135.png)
+> [!Question] Câu 2.
+> 
+> ![Pasted image 20230813164135.png](/img/user/Z_Attachment/Pasted%20image%2020230813164135.png)
 ![[21.2.mp3]]
 >> [!Answer]-
 >> 3
 <!--SR:!2023-08-25,9,250-->
 
-3. ![Pasted image 20230813164656.png](/img/user/Z_Attachment/Pasted%20image%2020230813164656.png)
-![[22.1.mp3]]
-//
-3
+
+> [!Question] Câu 3.
+> 
+> ![Pasted image 20230813164656.png](/img/user/Z_Attachment/Pasted%20image%2020230813164656.png)
+> ![[22.1.mp3]]
+>> [!Answer]-
+>> 3
 <!--SR:!2023-09-06,15,250-->
 
-4. ![Pasted image 20230813164725.png](/img/user/Z_Attachment/Pasted%20image%2020230813164725.png)
+> [!Question] Câu 4.
+> 
+> ![Pasted image 20230813164725.png](/img/user/Z_Attachment/Pasted%20image%2020230813164725.png)
 ![[22.2.mp3]]
-//
-1
+>> [!Answer]-
+>> 1
 <!--SR:!2023-09-10,18,250-->
 
-5. ![Pasted image 20230813164734.png](/img/user/Z_Attachment/Pasted%20image%2020230813164734.png)
+> [!Question] Câu 5.
+>
+> ![Pasted image 20230813164734.png](/img/user/Z_Attachment/Pasted%20image%2020230813164734.png)
 ![[23.1.mp3]]
-//
-4
+>> [!Answer]-
+>> 4
 <!--SR:!2023-08-26,10,250-->
 
 6. ![Pasted image 20230813165058.png](/img/user/Z_Attachment/Pasted%20image%2020230813165058.png)
