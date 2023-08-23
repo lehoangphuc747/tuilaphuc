@@ -50,29 +50,44 @@
 >> 4
 <!--SR:!2023-08-26,10,250-->
 
-6. ![Pasted image 20230813165058.png](/img/user/Z_Attachment/Pasted%20image%2020230813165058.png)
+> [!Question] Câu 6. 
+> 
+> ![Pasted image 20230813165058.png](/img/user/Z_Attachment/Pasted%20image%2020230813165058.png)
 ![[23.2.mp3]]
-//
-2
+>> [!Answer]-
+>> 2
 <!--SR:!2023-08-25,9,250-->
 
-7. ![Pasted image 20230813165218.png](/img/user/Z_Attachment/Pasted%20image%2020230813165218.png)
+> [!Question] Câu 7.
+> 
+> ![Pasted image 20230813165218.png](/img/user/Z_Attachment/Pasted%20image%2020230813165218.png)
 ![[24.1.mp3]]
-//
-1
+>> [!Answer]-
+>> 1
 <!--SR:!2023-08-24,8,250-->
 
-8. ![Pasted image 20230813165333.png](/img/user/Z_Attachment/Pasted%20image%2020230813165333.png)
+> [!Question] Câu 8. 
+> 
+> ![Pasted image 20230813165333.png](/img/user/Z_Attachment/Pasted%20image%2020230813165333.png)
 ![[24.2.mp3]]
-//
-3
+>> [!Answer]-
+>> 3
 <!--SR:!2023-08-25,8,250-->
 
-9. ![Pasted image 20230813165402.png](/img/user/Z_Attachment/Pasted%20image%2020230813165402.png)
+> [!Question] Câu 9.
+> 
+> ![Pasted image 20230813165402.png](/img/user/Z_Attachment/Pasted%20image%2020230813165402.png)
 ![[25.1.mp3]]
+>> [!Answer]
+>> 
 
-10. ![Pasted image 20230813165440.png](/img/user/Z_Attachment/Pasted%20image%2020230813165440.png)
+> [!Question] Câu 10.
+> 
+> ![Pasted image 20230813165440.png](/img/user/Z_Attachment/Pasted%20image%2020230813165440.png)
 ![[25.2.mp3]]
+>> [!Answer]
+>> 
+
 
 # Lựa chọn biểu đồ phù hợp (câu 3)
 
