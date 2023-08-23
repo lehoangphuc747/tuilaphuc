@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["topik","듣기"],"permalink":"/du-an/ngoai-ngu/tieng-han/topik//nghe-phan-1/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/du-an/ngoai-ngu/tieng-han/topik//nghe-phan-1/","dgPassFrontmatter":true}
 ---
 
 PDF:
