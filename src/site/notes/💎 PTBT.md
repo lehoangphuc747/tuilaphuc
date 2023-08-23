@@ -27,3 +27,5 @@
 ## Trải nghiệm
 [[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
 
+## Funny
+[[Funny\|Funny]]
