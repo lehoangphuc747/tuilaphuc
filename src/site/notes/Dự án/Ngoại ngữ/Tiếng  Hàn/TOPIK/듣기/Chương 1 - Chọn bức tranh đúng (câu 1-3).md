@@ -9,7 +9,7 @@
 
 # Giải đề 1~2
 
-> [!Question] ![Pasted image 20230813163720.png](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
+> [!Question] ![Pasted image 20230813163720.png|500](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
 ![[21.1.mp3]]
 Câu 1.
 >> [!Answer]-
