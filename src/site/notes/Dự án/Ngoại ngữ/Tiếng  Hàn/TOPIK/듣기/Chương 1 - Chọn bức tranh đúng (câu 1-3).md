@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"tags":["topik","듣기"],"permalink":"/du-an/ngoai-ngu/tieng-han/topik//chuong-1-chon-buc-tranh-dung-cau-1-3/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/du-an/ngoai-ngu/tieng-han/topik//chuong-1-chon-buc-tranh-dung-cau-1-3/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Mẹo
@@ -9,8 +9,9 @@
 
 # Giải đề 1~2
 
-> [!Question] Câu 1. ![Pasted image 20230813163720.png](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
+> [!Question] ![Pasted image 20230813163720.png](/img/user/Z_Attachment/Pasted%20image%2020230813163720.png)
 ![[21.1.mp3]]
+Câu 1.
 >> [!Answer]-
 >> 4
 <!--SR:!2023-09-09,17,250-->
