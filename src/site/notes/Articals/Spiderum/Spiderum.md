@@ -12,7 +12,7 @@ Tổng hợp [[Articals/Articles\|bài đọc]] từ các cây viết gạo cộ
 { .block-language-dataview}
 
 ### Các bài viết của họ:
-| File                                                                                                      | Tác giả    |
+| Tệp                                                                                                       | Tác giả    |
 | --------------------------------------------------------------------------------------------------------- | ---------- |
 | [[Articals/Spiderum/Tại sao ta sống\|Tại sao ta sống]]                                                 | Andy Luong |
 | [[Articals/Spiderum/Chăm Sóc Bản Thân - Vì Mình và Vì Người\|Chăm Sóc Bản Thân - Vì Mình và Vì Người]] | Limitless  |
