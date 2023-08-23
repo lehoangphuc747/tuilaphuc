@@ -10,12 +10,16 @@
 { #9e0a73}
 
 
-- [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
+- [[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
 - [[Bản thân/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]]
 - [[Bản thân/PTBT/Nội dung/Khoa học về giấc ngủ\|Khoa học về giấc ngủ]]
-- [[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
 - [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]]
+- [[Bản thân/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
 
 { .block-language-dataview}
 
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
+
+![](https://i.imgur.com/02Hv6KP.png)
+
+![[Cách tận dụng không gian trong CV.mp4]]
