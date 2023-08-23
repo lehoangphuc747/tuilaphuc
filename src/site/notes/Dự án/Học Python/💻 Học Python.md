@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/du-an/hoc-python/hoc-python/","dgPassFrontmatter":true}
 ---
 
+01. [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]
+
 [[Dự án/Học Python/Types and Comparisons\|Types and Comparisons]]
 
 [[Dự án/Học Python/Conditional Statements\|Conditional Statements]]
