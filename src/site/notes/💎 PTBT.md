@@ -3,14 +3,14 @@
 ---
 
 
-## Hiệu suất
-[[Bản thân/PTBT/Hiệu suất\|Truy cập]]
-
 ## Books
 [[Bản thân/Books/Books\|Xem sách]]
 
 ## Articals
 [[Articals/Articles\|Articles]]
+
+## Hiệu suất
+[[Bản thân/PTBT/Hiệu suất\|Truy cập]]
 
 ## Ngoại ngữ
 [[Bản thân/PTBT/Ngoại ngữ\|Học ngoại ngữ]]
