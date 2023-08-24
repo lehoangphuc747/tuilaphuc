@@ -26,5 +26,6 @@ Gồm 51 bài viết:
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/14. Kiến thức đặc thù thường rất nặng tính sáng tạo hoặc chuyên môn kỹ thuật\|14. Kiến thức đặc thù thường rất nặng tính sáng tạo hoặc chuyên môn kỹ thuật]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/15. Hãy học cách xây dựng một thứ, và học cách bán thứ đấy\|15. Hãy học cách xây dựng một thứ, và học cách bán thứ đấy]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/16. Đọc những gì bạn thích cho đến khi bạn thích việc đọc\|16. Đọc những gì bạn thích cho đến khi bạn thích việc đọc]]
+- [[Bản thân/Books/Làm giàu không cần may mắn - Naval/17. Nền tảng quan trọng nhất là toán học và logic\|17. Nền tảng quan trọng nhất là toán học và logic]]
 
 { .block-language-dataview}
