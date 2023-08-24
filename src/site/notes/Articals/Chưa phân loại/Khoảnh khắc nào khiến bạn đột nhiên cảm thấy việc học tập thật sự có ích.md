@@ -1,8 +1,7 @@
 ---
-{"page-title":"(1) Weibo Việt Nam ( ͡° ͜ʖ ͡°) | **[Zhihu] Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích | Facebook","url":"https://www.facebook.com/groups/weibovn/posts/1463042507893786/","dg-publish":true,"permalink":"/articals/chua-phan-loai/khoanh-khac-nao-khien-ban-dot-nhien-cam-thay-viec-hoc-tap-that-su-co-ich/","dgPassFrontmatter":true}
+{"page-title":"(1) Weibo Việt Nam ( ͡° ͜ʖ ͡°) | **[Zhihu] Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích | Facebook","url":"https://www.facebook.com/groups/weibovn/posts/1463042507893786/","dg-publish":true,"dg-hide":true,"author":"重医大袁季糖, Thanh Thảo (dịch)","type":"bài viết","tags":["motivation","weibo","translated","articles"],"permalink":"/articals/chua-phan-loai/khoanh-khac-nao-khien-ban-dot-nhien-cam-thay-viec-hoc-tap-that-su-co-ich/","hide":true,"dgPassFrontmatter":true}
 ---
 
-#weibo #translated #motivation #articles 
 
 *Tác giả: 重医大袁季糖*
 
