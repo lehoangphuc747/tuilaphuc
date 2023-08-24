@@ -5,7 +5,7 @@
 # Mẹo
 
 ==![Pasted image 20230813163706.png](/img/user/Z_Attachment/Pasted%20image%2020230813163706.png)==
-<!--SR:!2023-08-24,8,250-->
+<!--SR:!2023-09-12,19,250-->
 
 # Giải đề 1~2
 
@@ -36,7 +36,7 @@
 
 > [!Question] Câu 4.
 > 
-> ![Pasted image 20230813164725.png](/img/user/Z_Attachment/Pasted%20image%2020230813164725.png)
+> ![Pasted image 20230813164725.png|625](/img/user/Z_Attachment/Pasted%20image%2020230813164725.png)
 ![[22.2.mp3]]
 >> [!Answer]-
 >> 1
@@ -44,7 +44,7 @@
 
 > [!Question] Câu 5.
 >
-> ![Pasted image 20230813164734.png](/img/user/Z_Attachment/Pasted%20image%2020230813164734.png)
+> ![Pasted image 20230813164734.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813164734.png)
 ![[23.1.mp3]]
 >> [!Answer]-
 >> 4
@@ -52,7 +52,7 @@
 
 > [!Question] Câu 6. 
 > 
-> ![Pasted image 20230813165058.png](/img/user/Z_Attachment/Pasted%20image%2020230813165058.png)
+> ![Pasted image 20230813165058.png|625](/img/user/Z_Attachment/Pasted%20image%2020230813165058.png)
 ![[23.2.mp3]]
 >> [!Answer]-
 >> 2
@@ -60,15 +60,15 @@
 
 > [!Question] Câu 7.
 > 
-> ![Pasted image 20230813165218.png](/img/user/Z_Attachment/Pasted%20image%2020230813165218.png)
+> ![Pasted image 20230813165218.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813165218.png)
 ![[24.1.mp3]]
 >> [!Answer]-
 >> 1
-<!--SR:!2023-08-24,8,250-->
+<!--SR:!2023-09-13,20,250-->
 
 > [!Question] Câu 8. 
 > 
-> ![Pasted image 20230813165333.png](/img/user/Z_Attachment/Pasted%20image%2020230813165333.png)
+> ![Pasted image 20230813165333.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813165333.png)
 ![[24.2.mp3]]
 >> [!Answer]-
 >> 3
@@ -76,14 +76,14 @@
 
 > [!Question] Câu 9.
 > 
-> ![Pasted image 20230813165402.png](/img/user/Z_Attachment/Pasted%20image%2020230813165402.png)
+> ![Pasted image 20230813165402.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813165402.png)
 ![[25.1.mp3]]
 >> [!Answer]
 >> 
 
 > [!Question] Câu 10.
 > 
-> ![Pasted image 20230813165440.png](/img/user/Z_Attachment/Pasted%20image%2020230813165440.png)
+> ![Pasted image 20230813165440.png|625](/img/user/Z_Attachment/Pasted%20image%2020230813165440.png)
 ![[25.2.mp3]]
 >> [!Answer]
 >> 
@@ -100,40 +100,50 @@
 
 ## Giải đề câu 3
 
-1. ![Pasted image 20230813172918.png](/img/user/Z_Attachment/Pasted%20image%2020230813172918.png)
+> [!Question] Câu 1. 
+> 
+> ![Pasted image 20230813172918.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813172918.png)
 ![[52-3.mp3]]
-//
-2
+>> [!Answer]-
+>> 2
 <!--SR:!2023-09-03,12,250-->
 
-2. ![Pasted image 20230813172929.png](/img/user/Z_Attachment/Pasted%20image%2020230813172929.png)
+> [!Question] Câu 2. 
+> 
+> ![Pasted image 20230813172929.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813172929.png)
 ![[47-3.mp3]]
-//
-2
+>> [!Answer]-
+>> 2
 <!--SR:!2023-09-02,11,250-->
 
-3. ![Pasted image 20230813173018.png](/img/user/Z_Attachment/Pasted%20image%2020230813173018.png)
-
-4. ![Pasted image 20230813173206.png](/img/user/Z_Attachment/Pasted%20image%2020230813173206.png)
+> [!Question] Câu 4. 
+> 
+> ![Pasted image 20230813173206.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813173206.png)
 ![[36.3.mp3]]
-//
-1
+>> [!Answer]-
+>> 1
 <!--SR:!2023-08-31,9,250-->
 
-5. ![Pasted image 20230813173248.png](/img/user/Z_Attachment/Pasted%20image%2020230813173248.png)
+> [!Question] Câu 5.
+> 
+> ![Pasted image 20230813173248.png|625](/img/user/Z_Attachment/Pasted%20image%2020230813173248.png)
 ![[35.3.mp3]]
-//
-1
+>> [!Answer]-
+>> 1
 <!--SR:!2023-09-02,11,250-->
 
-6. ![Pasted image 20230813173316.png](/img/user/Z_Attachment/Pasted%20image%2020230813173316.png)
+> [!Question] Câu 6. 
+> 
+> ![Pasted image 20230813173316.png|625](/img/user/Z_Attachment/Pasted%20image%2020230813173316.png)
 ![[64-3.mp3]]
-//
-3
+>> [!Answer]-
+>> 3
 <!--SR:!2023-09-01,10,250-->
 
-7. ![Pasted image 20230813173340.png](/img/user/Z_Attachment/Pasted%20image%2020230813173340.png)
+> [!Question] Câu 7. 
+> 
+> ![Pasted image 20230813173340.png|600](/img/user/Z_Attachment/Pasted%20image%2020230813173340.png)
 ![[60-3.mp3]]
-//
-4
+>> [!Answer]-
+>> 4
 <!--SR:!2023-09-01,10,250-->
