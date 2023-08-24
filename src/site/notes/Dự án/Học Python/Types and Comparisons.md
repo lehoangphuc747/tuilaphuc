@@ -3,10 +3,10 @@
 ---
 
 Comparison là ==so sánh==
-<!--SR:!2023-08-24,7,254-->
+<!--SR:!2023-09-11,18,254-->
 
 Submission là ==gửi yêu cầu==
-<!--SR:!2023-08-24,7,254-->
+<!--SR:!2023-08-28,4,234-->
 
 # Comparing numbers
 ![](https://i.imgur.com/GmyAiIY.png)
