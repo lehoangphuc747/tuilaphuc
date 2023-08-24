@@ -2,20 +2,20 @@
 {"dg-publish":true,"permalink":"/articals/dong-luc/","dgPassFrontmatter":true}
 ---
 
-#motivation 
 
 Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động lực tiếp bước trong cuộc sống. (이 험한 세상 같이 노 저어 가야 될 거 아니야?)
 
-[[Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]]
-[[Nạn đói 1945 - Thảm cảnh đầy nước mắt\|Nạn đói 1945 - Thảm cảnh đầy nước mắt]]
+| Tệp                                                                                                                                                                                                                                                                                                                                                                                             | Tác giả                   | Định dạng |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------- |
+| [[Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]]                                                                                                                                                                                                               | 重医大袁季糖, Thanh Thảo (dịch) | bài viết  |
+| [[Nạn đói 1945 - Thảm cảnh đầy nước mắt\|Nạn đói 1945 - Thảm cảnh đầy nước mắt]]                                                                                                                                                                                                                                                                                                             | VTC16                     | video     |
+| [[Be the person who still tries\|Be the person who still tries]]                                                                                                                                                                                                                                                                                                                             | Joni Domingo              | quote     |
+| [[Cô đơn không đến từ việc không có ai xung quanh, mà là không thể bộc bạch những điều quan trọng về bản thân, hoặc do giữ kín một số quan điểm mà người khác cho là không thể chấp nhận được\|Cô đơn không đến từ việc không có ai xung quanh, mà là không thể bộc bạch những điều quan trọng về bản thân, hoặc do giữ kín một số quan điểm mà người khác cho là không thể chấp nhận được]] | Carl Jung                 | quote     |
+| [[Time is what we want most and what we use worst\|Time is what we want most and what we use worst]]                                                                                                                                                                                                                                                                                         | William Penn              | quote     |
+| [[If it doesn’t challenge you, it doesn’t change you\|If it doesn’t challenge you, it doesn’t change you]]                                                                                                                                                                                                                                                                                   | Fred DeVito               | quote     |
 
-![](https://i.imgur.com/CK3xZD4.png)
+{ .block-language-dataview}
 
-![](https://i.imgur.com/0TZvzc6.png)
-
-[[Time is what we want most and what we use worst. - William Penn\|Time is what we want most and what we use worst. - William Penn]]
-
-![](https://i.imgur.com/JN42wb2.png)
 
 ![](https://i.imgur.com/4nQzeVj.png)
 
