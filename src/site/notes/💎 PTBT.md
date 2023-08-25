@@ -21,10 +21,10 @@
 ## Động lực
 [[Articals/Động lực\|Lấy động lực]]
 
-## Kinh nghiệm & cuộc sống
-[[Bản thân/Kinh nghiệm và cuộc sống\|Kinh nghiệm và cuộc sống]]
+## Kinh nghiệm & cuộc sống (sưu tầm)
+[[Bản thân/Kinh nghiệm\|Kinh nghiệm]]
 
-## Trải nghiệm
+## Trải nghiệm của bản thân
 [[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
 
 ## Funny
