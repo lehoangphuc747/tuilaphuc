@@ -18,7 +18,7 @@ Vậy nên tôi quyết định thu thập những kỷ niệm tầm thường. 
 Chắc chắn là tôi sẽ vứt những món đồ này đi vào một ngày nào đó. Tôi không thể giữ những vật rẻ tiền này mãi mãi. Nhưng tôi muốn chờ để xem lại chúng sau khi tôi đã quên mất những khoảnh khắc mà chúng đại diện. Trong năm nay ông bà tôi rất có thể sẽ đến viện dưỡng lão. Bố, anh trai và tôi sẽ không còn có những chuyến xe xuyên bang nữa. Tôi sẽ không còn được xem những bộ phim sáng thứ ba gồm “Cary” và “Bogey” tại rạp Galaxy Multiplex với ông bà. Cả gia đình sẽ không cùng ngồi lại trong phòng khách ăn bánh cuộn quế và nói chuyện trong khi ông tôi điều chỉnh máy trợ thính và bảo mọi người im lặng khi chương trình Meet the Press lên sóng.
 
 Giống như tôi, những người trong phòng nghiên cứu hứng thú nhất trong việc tái phát kiến những trải nghiệm tầm thường. Khi được bảo viết lại những việc họ làm vào một ngày bình thường (một vài ngày trước Valentien) và vào một ngày đặc biệt (Valentine), ba tháng sau những người tham gia thích đọc những gì họ viết vào ngày thường hơn là ngày đặc biệt. ==Những trải nghiệm thường ngày khó nhớ hơn là những trải nghiệm đặc biệt nên việc tái phát kiến cũng có cảm giác mới mẻ hơn.==
-<!--SR:!2023-08-15,3,250-->
+<!--SR:!2023-09-14,20,250-->
 
 Tuy nhiên, đa số những người Zhang hỏi không thích ghi chép lại việc hàng ngày. Khi được cho lựa chọn giữa viết về một ngày của họ trong vòng năm phút hoặc xem một MC talk show phỏng vấn một tác giả trong cùng khoảng thời gian, chỉ 27% chọn ghi chép lại ngày và chỉ 28% - không cần biết họ chọn viết hay không – nghĩ rằng họ sẽ chọn tùy vào ngày đó thế nào. Ba tháng sau, 58% số người bảo rằng họ thấy tiếc khi chọn talk show thay vì ghi chép. ==Họ dở ở việc ước lượng họ sẽ trân trọng hiện tại đến mức nào khi nó đã trở thành quá khứ.==
 
@@ -27,7 +27,7 @@ Tuy nhiên, đa số những người Zhang hỏi không thích ghi chép lại 
 ==Trong Swann’s Way, người dẫn chuyện của Proust đã kể lại những gì trong những năm trẻ tuổi? Đó là chút trà và bánh madeleine mà anh ấy dùng cùng với mẹ; là nụ hôn chúc ngủ ngon anh nhận được khi nằm trên giường; là những lần tản bộ dọc Champs-Elysées. Cuối cùng thì bữa ăn xế, những nụ hôn chúc ngủ ngon, và những lần tản bộ - chứ không phải là ước mơ được đi du lịch Venice hay đến nhà thờ ở thành phố Balbec trong tưởng tượng – là những gì mà anh ấy yêu quý sâu đậm nhất.==
 <!--SR:!2023-09-01,13,250-->
 
-==Có lẽ chỉ là khó để hiểu một khoảnh khắc mang ý nghĩa gì, trong phạm vi cuộc sống, khi nó đang diễn ra. “Tôi chỉ có thể lưu ý rằng quá khứ rất xinh đẹp vì người ta không bao giờ nhận ra được cảm xúc vào thời điểm ấy,” Virginia Woolf viết. “Nó từ từ sẽ lớn dần, và như thế chúng ta không có những cảm xúc trọn vẹn ở hiện tại, mà chỉ có ở quá khứ.”==
+==Có lẽ chỉ là khó để hiểu một khoảnh khắc mang ý nghĩa gì, trong phạm vi cuộc sống, khi nó đang diễn ra. “Tôi chỉ có thể lưu ý rằng quá khứ rất xinh đẹp vì người ta không bao giờ nhận ra được cảm xúc vào thời điểm ấy,” Virginia Woolf viết. “Nó từ từ sẽ lớn dần, và như thế chúng ta không có những cảm xúc trọn vẹn ở hiện tại, mà chỉ có ở quá khứ.”== <!--SR:!2023-08-28,3,250-->
 
 May mắn là, não của chúng ta có thể giúp ta nhớ được những sự kiện nhất định mà sau này sẽ có ý nghĩa lớn lao. Những người tham gia trong một nghiên cứu đăng trên báo Nature được cho xem những bức ảnh về động vật và về đồ vặt. Sau khi họ đã nhìn thấy tất cả các bức ảnh nhiều lần, những người nghiên cứu bắt đầu cung cấp một lượng điện giật nhẹ khi người tham gia xem hình ảnh của một chủ đề (động vật hoặc đồ vật). Phản xạ có điều kiện đã làm những người tham gia dễ nhớ chủ đề của hình ảnh có liên kết với điện giật.
 
@@ -37,7 +37,7 @@ Cũng tuyệt vời như khám phá này, “sự kiện đặc biệt” không
 
 Hơn nữa, chỉ dựa vào cơ chế của não bộ có thể chỉ là một trò lừa. ==Con người có khuynh hướng nhớ nhầm và quên ngay cả quá khứ gần đây. Ký ức có thể bị quét đi bởi sự kiện tương lai, bởi ký ức của người khác, và chi tiết có vẻ chắc chắn thì cuối cùng lại trở nên hoàn toàn sai lệch. Và Zhang đã cho thấy con người cảm thấy vui khi có những lưu trữ ấy.==
 
-==Đó là vì những khoảnh khắc có ý nghĩa nhất hiếm khi là những gì chúng ta mong đợi. Gần kề cuối đời của mẹ tôi, tôi ghi lại những gì mẹ tôi nói. Chỉ nói. Bà nói về kem và bơi lội và những gì bà có thể mua ở cửa hàng thực phẩm. Những điều đó có thể chẳng là gì vào thời điểm ấy, một thời điểm bình thường. Thế nhưng bây giờ, đối với tôi, nó là tất cả.==
+==Đó là vì những khoảnh khắc có ý nghĩa nhất hiếm khi là những gì chúng ta mong đợi. Gần kề cuối đời của mẹ tôi, tôi ghi lại những gì mẹ tôi nói. Chỉ nói. Bà nói về kem và bơi lội và những gì bà có thể mua ở cửa hàng thực phẩm. Những điều đó có thể chẳng là gì vào thời điểm ấy, một thời điểm bình thường. Thế nhưng bây giờ, đối với tôi, nó là tất cả.== <!--SR:!2023-08-28,3,250-->
 
 **Hồng Phương dịch**  
 Nguồn: [https://www.theatlantic.com/health/archive/2015/01/the-value-of-remembering-ordinary-moments/384510/](https://www.theatlantic.com/health/archive/2015/01/the-value-of-remembering-ordinary-moments/384510/)
