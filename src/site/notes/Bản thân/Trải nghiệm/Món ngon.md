@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ban-than/trai-nghiem/mon-ngon/","dgPassFrontmatter":true}
+{"dg-hide":true,"author":null,"type":null,"genre":null,"tags":null,"dg-publish":true,"title":"Món ngon","permalink":"/ban-than/trai-nghiem/mon-ngon/","hide":true,"dgPassFrontmatter":true}
 ---
 
 # Ăn vặt
