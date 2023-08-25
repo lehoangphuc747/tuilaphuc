@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":"VTC16","type":"video","tags":["motivation","life",1945,"history","video"],"permalink":"/nan-doi-1945-tham-canh-day-nuoc-mat/","hide":true,"dgPassFrontmatter":true}
+{"genre":"life","dg-publish":true,"dg-hide":true,"author":"VTC16","type":"video","tags":["motivation","life",1945,"history","video"],"title":"Nạn đói 1945 - Thảm cảnh đầy nước mắt","permalink":"/nan-doi-1945-tham-canh-day-nuoc-mat/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
