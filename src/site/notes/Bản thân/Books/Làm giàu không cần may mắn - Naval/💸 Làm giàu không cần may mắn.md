@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["rich","PTBT","Naval"],"permalink":"/ban-than/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","dgPassFrontmatter":true}
+{"dg-hide":true,"author":"Naval","type":"book","dg-publish":true,"tags":["rich","PTBT","Naval"],"title":"💸 Làm giàu không cần may mắn","permalink":"/ban-than/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -27,5 +27,6 @@ Gồm 51 bài viết:
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/15. Hãy học cách xây dựng một thứ, và học cách bán thứ đấy\|15. Hãy học cách xây dựng một thứ, và học cách bán thứ đấy]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/16. Đọc những gì bạn thích cho đến khi bạn thích việc đọc\|16. Đọc những gì bạn thích cho đến khi bạn thích việc đọc]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/17. Nền tảng quan trọng nhất là toán học và logic\|17. Nền tảng quan trọng nhất là toán học và logic]]
+- [[Bản thân/Books/Làm giàu không cần may mắn - Naval/18. Không có kỹ năng thực tiễn nào được gọi là “kỹ năng kinh doanh” cả\|18. Không có kỹ năng thực tiễn nào được gọi là “kỹ năng kinh doanh” cả]]
 
 { .block-language-dataview}
