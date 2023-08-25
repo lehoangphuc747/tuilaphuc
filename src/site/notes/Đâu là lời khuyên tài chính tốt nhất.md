@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":null,"type":"Q&A","tags":["finance"],"title":"Đâu là lời khuyên tài chính tốt nhất","permalink":"/dau-la-loi-khuyen-tai-chinh-tot-nhat/","hide":true,"dgPassFrontmatter":true}
+{"genre":"finance","dg-publish":true,"dg-hide":true,"author":null,"type":"Q&A","tags":["finance"],"title":"Đâu là lời khuyên tài chính tốt nhất","permalink":"/dau-la-loi-khuyen-tai-chinh-tot-nhat/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
