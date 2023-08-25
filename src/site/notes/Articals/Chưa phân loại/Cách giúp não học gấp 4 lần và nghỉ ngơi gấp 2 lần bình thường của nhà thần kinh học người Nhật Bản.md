@@ -20,7 +20,7 @@ Trước hết, chúng ta phải thống nhất rằng mục đích của việc
 
 ==Bộ não chúng ta mạnh nhất khi thức dậy vào buổi sáng, lúc này não bộ sẽ không cảm thấy mệt mỏi.== Sau một đêm nghỉ ngơi, nó sẽ ở trạng thái rất ngăn nắp, giống như “bàn làm việc sau khi dọn dẹp sạch sẽ, gọn gàng không tì vết” vậy. Đây là khoảng thời gian chúng ta có thể làm việc rất hiệu quả.
 
-==Thời gian đại não hoạt động tốt nhất trong ngày của chúng ta là khoảng 2-3 giờ sau khi ngủ dậy.==
+==Thời gian đại não hoạt động tốt nhất trong ngày của chúng ta là khoảng 2-3 giờ sau khi ngủ dậy.== <!--SR:!2023-08-28,3,250-->
 
 Thời điểm vàng của trí não vô cùng quý giá, dậy sớm chính là “chìa khóa” để tận dụng tốt khoảng thời gian này. Trong cuốn sách **Why Elites Are Time-Control**, tác giả đã chia sẻ *"thủ thuật thức dậy siêu dễ"* của mình, đó là:
 
@@ -34,11 +34,11 @@ Trên đây là những phương pháp sử dụng thời gian buổi sáng đ�
 
 Thời gian buổi chiều có thể chia thành hai phần: **"Thời gian nghỉ trưa"** và **"Thời gian làm việc"**. Mỗi khoảng thời gian có một phương pháp quản lý độc đáo riêng, nếu được sử dụng đúng cách, bạn có thể làm việc hiệu quả và đồng thời tạo ra nhiều thời gian rảnh hơn.
 
-Việc sử dụng “thời gian nghỉ trưa” là điều quan trọng nhất để nâng cao hiệu quả làm việc buổi chiều. Bởi “serotonin” - một chất có trong não bộ liên quan mật thiết đến “trạng thái thư giãn” và việc “trở lại trạng thái bình thường” sẽ được tiết ra trong khoảng thời gian này. ==Nếu “serotonin” tiết ra không đủ, con người sẽ trở nên bồn chồn hoặc dễ tức giận, họ sẽ không có hứng thú để làm bất cứ điều gì==. Vì vậy, làm thế nào để kích thích sự điều tiết “serotonin” chính là chìa khóa. Phương pháp rất đơn giản, đó là tắm nắng, tập thể dục nhịp nhàng và nhai kỹ. Ví dụ:
+Việc sử dụng “thời gian nghỉ trưa” là điều quan trọng nhất để nâng cao hiệu quả làm việc buổi chiều. Bởi “serotonin” - một chất có trong não bộ liên quan mật thiết đến “trạng thái thư giãn” và việc “trở lại trạng thái bình thường” sẽ được tiết ra trong khoảng thời gian này. ==Nếu “serotonin” tiết ra không đủ, con người sẽ trở nên bồn chồn hoặc dễ tức giận, họ sẽ không có hứng thú để làm bất cứ điều gì==. Vì vậy, làm thế nào để kích thích sự điều tiết “serotonin” chính là chìa khóa. Phương pháp rất đơn giản, đó là tắm nắng, tập thể dục nhịp nhàng và nhai kỹ. Ví dụ: <!--SR:!2023-08-28,3,250-->
 
 Ra ngoài ăn trưa có thể thực hiện đồng thời ba phương pháp trên: bước ra khỏi công ty, đi bộ khoảng 5 phút để tìm một nhà hàng yêu thích, và tắm nắng trong quá trình này. Đi bộ cũng là một bài tập nhịp nhàng. Ngồi xuống và ăn bữa trưa của bạn một cách chậm rãi, vậy là bạn đã nhai kỹ.
 
-> Phương pháp kích thích “Serotonin” vào buổi trưa: ==tắm nắng== → ==tập thể dục nhẹ nhàng (đi bộ,…)== → ==nhai kỹ== → ==ngủ trưa==
+> Phương pháp kích thích “Serotonin” vào buổi trưa: ==tắm nắng== → ==tập thể dục nhẹ nhàng (đi bộ,…)== → ==nhai kỹ== → ==ngủ trưa== <!--SR:!2023-08-26,1,230-->
 
 Chuỗi quá trình này hoàn toàn có thể tăng cường sự điều tiết của “serotonin”. Tiếp theo là một giấc ngủ ngắn khoảng 20 - 30 phút. Mặc dù chỉ ngủ 20 30 phút, nhưng khi thức dậy, bạn sẽ thấy rằng thể chất, tinh thần và sự tập trung của bạn được phục hồi đáng kể, lúc này bạn không chỉ làm việc không mệt mỏi mà còn rất hiệu quả.
 
