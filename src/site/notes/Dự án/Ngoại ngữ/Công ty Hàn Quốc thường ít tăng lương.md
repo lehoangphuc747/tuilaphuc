@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/du-an/ngoai-ngu/cong-ty-han-quoc-thuong-it-tang-luong/","dgPassFrontmatter":true}
+{"dg-hide":true,"author":"Lê Huy Khoa Kanata","type":"video","genre":"korean","tags":["korean","job","salary"],"dg-publish":true,"title":"Công ty Hàn Quốc thường ít tăng lương","permalink":"/du-an/ngoai-ngu/cong-ty-han-quoc-thuong-it-tang-luong/","hide":true,"dgPassFrontmatter":true}
 ---
 
 #korean #job #salary 
