@@ -11,7 +11,7 @@
 
 > [!Question] Trí nhớ **ngắn hạn** liên quan đến cái gì?
 >> [!Answer]-
->> cái đang nghĩ lúc đó <!--SR:!2023-08-25,1,230-->
+>> cái đang nghĩ lúc đó <!--SR:!2023-08-27,2,230-->
 
 > [!Question] Trí nhớ **ngắn hạn** nằm ở đâu?
 >> [!Answer]-
@@ -19,7 +19,7 @@
 
 > [!Question] **Thùy trán** còn được gọi là gì?
 >> [!Answer]-
->> vỏ não trước trán <!--SR:!2023-08-25,1,230-->
+>> vỏ não trước trán <!--SR:!2023-08-27,2,230-->
 
 > [!Question] **Vỏ não trước trán** còn được gọi là gì?
 >> [!Answer]-
@@ -45,7 +45,7 @@
 
 > [!Question] Cách để nhớ một **sự kiện** dễ dàng hơn?
 >> [!Answer]-
->> biến nó thành **hình ảnh** <!--SR:!2023-08-25,1,228-->
+>> biến nó thành **hình ảnh** <!--SR:!2023-08-27,2,228-->
 
 > [!Question] Hình ảnh nào dễ nhớ nhất? 
 >> [!Answer]-
@@ -60,7 +60,7 @@
 >> **Tập trung chú ý!**
 >> 
 >> Tự **ra lệnh** cho bản thân phải tập trung.
->> Càng luyện tập **tập trung** càng có khả năng tập trung cao hơn <!--SR:!2023-08-25,1,228-->
+>> Càng luyện tập **tập trung** càng có khả năng tập trung cao hơn <!--SR:!2023-08-26,1,208-->
 
 > [!Question] Mẹo thứ hai trong **5 mẹo ghi nhớ của Nelson**
 >> [!Answer]-
@@ -71,7 +71,7 @@
 >> - Các sự kiện
 >> - Danh sách việc cần làm
 >> - Số điện thoại của bạn bè
->> - … <!--SR:!2023-08-25,1,228-->
+>> - … <!--SR:!2023-08-26,1,208-->
 
 > [!Question] Mẹo thứ ba trong **5 mẹo ghi nhớ của Nelson**
 >> [!Answer]-
@@ -81,7 +81,7 @@
 >> Hãy biến bất kỳ thứ gì đang phải ghi nhớ thành một bức ảnh bạn có thể hình dung ra bằng trí tưởng tượng.
 >> “Bộ não thẩm thấu nó ngay lập tức.” <!--SR:!2023-08-26,2,248-->
 
-> [!Question] Mẹo thứ tư trong **5 mẹo ghi nhớ của Nelson**
+> [!Question] Mẹo **thứ tư** trong **5 mẹo ghi nhớ của Nelson**
 >> [!Answer]-
 >> **Lưu trữ**
 >> 
