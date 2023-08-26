@@ -8,10 +8,10 @@ Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động 
 | Tệp                                                                                                                                                                               | Tác giả                   | Định dạng |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------- |
 | [[When you drive past your old school and remember how easy life was back then\|When you drive past your old school and remember how easy life was back then]]                 | \-                        | video     |
+| [[Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]] | 重医大袁季糖, Thanh Thảo (dịch) | bài viết  |
 | [[Life is riding a bycycle. To keep your balance, you must keep moving\|Life is riding a bycycle. To keep your balance, you must keep moving]]                                 | Albert Einstein           | quote     |
 | [[Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành\|Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành]]                                     | \-                        | video     |
 | [[Time is what we want most and what we use worst. - William Penn\|Time is what we want most and what we use worst. - William Penn]]                                           | \-                        | \-        |
-| [[Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]] | 重医大袁季糖, Thanh Thảo (dịch) | bài viết  |
 | [[Continuous improvement is better than delayed perfection\|Continuous improvement is better than delayed perfection]]                                                         | Mark Twain                | quote     |
 | [[If it doesn’t challenge you, it doesn’t change you\|If it doesn’t challenge you, it doesn’t change you]]                                                                     | Fred DeVito               | quote     |
 | [[Có những các bạn trẻ chỉ cần 1 động lực để bắt đầu\|Có những các bạn trẻ chỉ cần 1 động lực để bắt đầu]]                                                                     | Hiêu Dinh Le              | post      |
@@ -26,6 +26,7 @@ Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động 
 | [[Cô đơn - Carl Jung\|Cô đơn - Carl Jung]]                                                                                                                                     | Carl Jung                 | quote     |
 | [[For my 20s\|For my 20s]]                                                                                                                                                     | \-                        | video     |
 | [[Xác xuất\|Xác xuất]]                                                                                                                                                         | \-                        | quote     |
+| [[Mckeyyy\|Mckeyyy]]                                                                                                                                                           | mck                       | video     |
 
 { .block-language-dataview}
 
