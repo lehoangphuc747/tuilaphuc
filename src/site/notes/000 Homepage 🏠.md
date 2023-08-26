@@ -67,3 +67,7 @@ Ta chia xa nhau không phải bỗng dưng mà xa. **Ta chia xa vì một nguy�
 Mong rằng hiểu đúng về duyên như vậy, cũng để ta hiểu mình cần gì để có cây thơm trái ngọt trong đời này.
 
 </center>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixSvu66-Ijg?si=9Xvn0xLaMgxb1r85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
