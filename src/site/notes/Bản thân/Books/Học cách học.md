@@ -3,8 +3,6 @@
 ---
 
 
-# Chapter 7
-
 > [!Question] 2 hệ thống trí nhớ?
 >> [!Answer]-
 >> trí nhớ làm việc (ngắn hạn) & trí nhớ dài hạn <!--SR:!2023-08-27,3,250-->
@@ -40,8 +38,6 @@
 > [!Question] Trí nhớ dài hạn nằm ở đâu trong não bộ?
 >> [!Answer]-
 >> rải rác khắp não bộ <!--SR:!2023-08-27,3,250-->
-
-# Chương 8
 
 > [!Question] Cách để nhớ một **sự kiện** dễ dàng hơn?
 >> [!Answer]-
@@ -95,3 +91,9 @@
 >> **Hồi tưởng. Hồi tưởng. Hồi tưởng**
 >> 
 >> Spaced Repetition → Anki, Obsidian Spaced Repetition <!--SR:!2023-08-26,2,248-->
+
+> [!Question] Cách thực hành Active Recall hiệu quả nhất là gì?
+>> [!Answer]-
+>> giải thích lại cho người khác
+
+[[Mẹo học tập - Phương pháp con vịt cao su\|Mẹo học tập - Phương pháp con vịt cao su]]
