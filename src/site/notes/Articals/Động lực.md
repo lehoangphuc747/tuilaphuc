@@ -8,14 +8,7 @@ Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động 
 | File                                                                                                                                                                              | Tác giả                   | Định dạng |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------- |
 | [[Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]] | 重医大袁季糖, Thanh Thảo (dịch) | bài viết  |
-| [[Life is riding a bycycle. To keep your balance, you must keep moving\|Life is riding a bycycle. To keep your balance, you must keep moving]]                                 | Albert Einstein           | quote     |
-| [[Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành\|Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành]]                                     | \-                        | video     |
-| [[Time is what we want most and what we use worst. - William Penn\|Time is what we want most and what we use worst. - William Penn]]                                           | \-                        | \-        |
 | [[Continuous improvement is better than delayed perfection\|Continuous improvement is better than delayed perfection]]                                                         | Mark Twain                | quote     |
-| [[If it doesn’t challenge you, it doesn’t change you\|If it doesn’t challenge you, it doesn’t change you]]                                                                     | Fred DeVito               | quote     |
-| [[Có những các bạn trẻ chỉ cần 1 động lực để bắt đầu\|Có những các bạn trẻ chỉ cần 1 động lực để bắt đầu]]                                                                     | Hiêu Dinh Le              | post      |
-| [[Time is what we want most and what we use worst\|Time is what we want most and what we use worst]]                                                                           | William Penn              | quote     |
-| [[Hãy cố gắng về thăm nhà nhiều nhất có thể\|Hãy cố gắng về thăm nhà nhiều nhất có thể]]                                                                                       | \-                        | video     |
 | [[Thật ra tự giác và kỷ luật rất đơn giản\|Thật ra tự giác và kỷ luật rất đơn giản]]                                                                                           | \-                        | video     |
 | [[Nạn đói 1945 - Thảm cảnh đầy nước mắt\|Nạn đói 1945 - Thảm cảnh đầy nước mắt]]                                                                                               | VTC16                     | video     |
 | [[Xây dựng tiêu chuẩn cho bản thân\|Xây dựng tiêu chuẩn cho bản thân]]                                                                                                         | \-                        | video     |
@@ -27,6 +20,13 @@ Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động 
 | [[Xác xuất\|Xác xuất]]                                                                                                                                                         | \-                        | quote     |
 | [[Mckeyyy\|Mckeyyy]]                                                                                                                                                           | mck                       | video     |
 | [[When you drive past your old school and remember how easy life was back then\|When you drive past your old school and remember how easy life was back then]]                 | \-                        | video     |
+| [[Life is riding a bycycle. To keep your balance, you must keep moving\|Life is riding a bycycle. To keep your balance, you must keep moving]]                                 | Albert Einstein           | quote     |
+| [[Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành\|Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành]]                                     | \-                        | video     |
+| [[Time is what we want most and what we use worst. - William Penn\|Time is what we want most and what we use worst. - William Penn]]                                           | \-                        | \-        |
+| [[If it doesn’t challenge you, it doesn’t change you\|If it doesn’t challenge you, it doesn’t change you]]                                                                     | Fred DeVito               | quote     |
+| [[Có những các bạn trẻ chỉ cần 1 động lực để bắt đầu\|Có những các bạn trẻ chỉ cần 1 động lực để bắt đầu]]                                                                     | Hiêu Dinh Le              | post      |
+| [[Time is what we want most and what we use worst\|Time is what we want most and what we use worst]]                                                                           | William Penn              | quote     |
+| [[Hãy cố gắng về thăm nhà nhiều nhất có thể\|Hãy cố gắng về thăm nhà nhiều nhất có thể]]                                                                                       | \-                        | video     |
 
 { .block-language-dataview}
 
