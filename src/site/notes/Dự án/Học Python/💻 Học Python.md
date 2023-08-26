@@ -2,7 +2,17 @@
 {"dg-publish":true,"permalink":"/du-an/hoc-python/hoc-python/","dgPassFrontmatter":true}
 ---
 
-01. [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]
+
+| Bài họ                                                                                       |
+| -------------------------------------------------------------------------------------------- |
+| [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]    |
+| [[Dự án/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]] |
+| [[Dự án/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]          |
+| [[Dự án/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                          |
+
+{ .block-language-dataview}
+
+[[Phím tắt Sublime Text\|Phím tắt Sublime Text]]
 
 [[Dự án/Học Python/Types and Comparisons\|Types and Comparisons]]
 
