@@ -3,7 +3,7 @@
 ---
 
 ==![Pasted image 20230813151716.png](/img/user/Z_Attachment/Pasted%20image%2020230813151716.png)==
-<!--SR:!2023-08-26,9,250-->
+<!--SR:!2023-09-20,25,250-->
 
 ==![Pasted image 20230813151733.png](/img/user/Z_Attachment/Pasted%20image%2020230813151733.png)==
 <!--SR:!2023-09-04,13,230-->
@@ -73,7 +73,7 @@
 <!--SR:!2023-09-03,12,245-->
 
 ==![Pasted image 20230813153024.png](/img/user/Z_Attachment/Pasted%20image%2020230813153024.png)==
-<!--SR:!2023-08-26,9,246-->
+<!--SR:!2023-09-18,23,246-->
 
 Mỗi ô vuông được viết tối đa mấy chữ số?
 //
