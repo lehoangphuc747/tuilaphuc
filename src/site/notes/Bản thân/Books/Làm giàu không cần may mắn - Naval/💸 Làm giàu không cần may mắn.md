@@ -28,5 +28,6 @@ Gồm 51 bài viết:
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/16. Đọc những gì bạn thích cho đến khi bạn thích việc đọc\|16. Đọc những gì bạn thích cho đến khi bạn thích việc đọc]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/17. Nền tảng quan trọng nhất là toán học và logic\|17. Nền tảng quan trọng nhất là toán học và logic]]
 - [[Bản thân/Books/Làm giàu không cần may mắn - Naval/18. Không có kỹ năng thực tiễn nào được gọi là “kỹ năng kinh doanh” cả\|18. Không có kỹ năng thực tiễn nào được gọi là “kỹ năng kinh doanh” cả]]
+- [[Bản thân/Books/Làm giàu không cần may mắn - Naval/19. Chấp nhận trách nhiệm để đổi lấy đòn bẩy\|19. Chấp nhận trách nhiệm để đổi lấy đòn bẩy]]
 
 { .block-language-dataview}
