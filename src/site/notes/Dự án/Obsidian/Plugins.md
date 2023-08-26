@@ -6,10 +6,6 @@
 [[Dự án/Obsidian/Dành cho Writers\|Dành cho Writers]]
 
 - [[Dự án/Obsidian/Writing - Viết tiểu thuyết\|Writing - Viết tiểu thuyết]]
-- [[Dự án/Obsidian/Telegraph Publish - Publish ẩn danh (là COCC)\|Telegraph Publish - Publish ẩn danh (là COCC)]]
-- [[Dự án/Obsidian/Daily Stats - Review Heatmap của Obsidian\|Daily Stats - Review Heatmap của Obsidian]]
-- [[Dự án/Obsidian/Readability Score - đánh giá độ dễ đọc\|Readability Score - đánh giá độ dễ đọc]]
-- [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 - [[Dự án/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
 - [[Dự án/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
 - [[Dự án/Obsidian/Typewriter Scroll\|Typewriter Scroll]]
@@ -18,6 +14,10 @@
 - [[Dự án/Obsidian/Longform\|Longform]]
 - [[Dự án/Obsidian/Plugins\|Plugins]]
 - [[Dự án/Obsidian/Hider\|Hider]]
+- [[Dự án/Obsidian/Telegraph Publish - Publish ẩn danh (là COCC)\|Telegraph Publish - Publish ẩn danh (là COCC)]]
+- [[Dự án/Obsidian/Daily Stats - Review Heatmap của Obsidian\|Daily Stats - Review Heatmap của Obsidian]]
+- [[Dự án/Obsidian/Readability Score - đánh giá độ dễ đọc\|Readability Score - đánh giá độ dễ đọc]]
+- [[Dự án/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 
 { .block-language-dataview}
 
