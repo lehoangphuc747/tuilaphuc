@@ -3,12 +3,12 @@
 ---
 
 
-| Bài họ                                                                                       |
-| -------------------------------------------------------------------------------------------- |
-| [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]    |
-| [[Dự án/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]] |
-| [[Dự án/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]          |
-| [[Dự án/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                          |
+| Bài                                                                                          | Tác giả      |
+| -------------------------------------------------------------------------------------------- | ------------ |
+| [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]    | howkteam.com |
+| [[Dự án/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]] | howkteam.com |
+| [[Dự án/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]          | howkteam.com |
+| [[Dự án/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                          | howkteam.com |
 
 { .block-language-dataview}
 
