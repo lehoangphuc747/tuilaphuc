@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":null,"type":null,"genre":null,"word-count":null,"tags":["python","kteam"],"title":"05. Biến trong Python","permalink":"/du-an/hoc-python/05-bien-trong-python/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":"howkteam.com","type":null,"genre":null,"word-count":null,"tags":["python","kteam"],"title":"05. Biến trong Python","permalink":"/du-an/hoc-python/05-bien-trong-python/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -140,7 +140,7 @@
 
 
 > [!Question] Biến **“if”** có phải từ khóa Python không?
->> [!Answer]-
+>> [!Answer]-howkteam.com
 >> có
 >>
 >> ![](https://i.imgur.com/QXmbODO.png) <!--SR:!2023-08-30,3,250-->
