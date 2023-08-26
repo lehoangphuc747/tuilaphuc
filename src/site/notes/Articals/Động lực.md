@@ -5,9 +5,8 @@
 
 Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động lực tiếp bước trong cuộc sống. (이 험한 세상 같이 노 저어 가야 될 거 아니야?)
 
-| Tệp                                                                                                                                                                               | Tác giả                   | Định dạng |
+| File                                                                                                                                                                              | Tác giả                   | Định dạng |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------- |
-| [[When you drive past your old school and remember how easy life was back then\|When you drive past your old school and remember how easy life was back then]]                 | \-                        | video     |
 | [[Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]] | 重医大袁季糖, Thanh Thảo (dịch) | bài viết  |
 | [[Life is riding a bycycle. To keep your balance, you must keep moving\|Life is riding a bycycle. To keep your balance, you must keep moving]]                                 | Albert Einstein           | quote     |
 | [[Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành\|Một thước phim dưới góc nhìn một đứa trẻ và một người trưởng thành]]                                     | \-                        | video     |
@@ -27,6 +26,7 @@ Tổng hợp các [[Articals/Articles\|Articles]] giúp mình có thêm động 
 | [[For my 20s\|For my 20s]]                                                                                                                                                     | \-                        | video     |
 | [[Xác xuất\|Xác xuất]]                                                                                                                                                         | \-                        | quote     |
 | [[Mckeyyy\|Mckeyyy]]                                                                                                                                                           | mck                       | video     |
+| [[When you drive past your old school and remember how easy life was back then\|When you drive past your old school and remember how easy life was back then]]                 | \-                        | video     |
 
 { .block-language-dataview}
 
