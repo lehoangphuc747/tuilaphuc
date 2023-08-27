@@ -10,4 +10,4 @@ Bắp nổ vị gốc
 
 
 
-[[Xếp hạng TẤT CẢ các loại Bim Bim (khongnoithat)\|Xếp hạng TẤT CẢ các loại Bim Bim (khongnoithat)]]
+[[Bản thân/Trải nghiệm/Xếp hạng TẤT CẢ các loại Bim Bim (khongnoithat)\|Xếp hạng TẤT CẢ các loại Bim Bim (khongnoithat)]]
