@@ -3,29 +3,20 @@
 ---
 
 
-## Books
-[[Bản thân/Books/Books\|Xem sách]]
+## [[Bản thân/Books/📖 Books\|📖 Books]]
 
-## Articals
-[[Articals/Articles\|Articles]]
+## [[Articals/Articles\|Articles]]
 
-## Hiệu suất
-[[Bản thân/PTBT/Hiệu suất\|Truy cập]]
+## [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]]
 
-## Ngoại ngữ
-[[Bản thân/PTBT/Ngoại ngữ\|Học ngoại ngữ]]
+## [[Bản thân/PTBT/Ngoại ngữ\|Ngoại ngữ]]
 
-## Sự thay đổi
-[[Bản thân/PTBT/Sự thay đổi\|Sự thay đổi]]
+## [[Bản thân/PTBT/Sự thay đổi\|Sự thay đổi]]
 
-## Động lực
-[[Articals/Động lực\|Lấy động lực]]
+## [[Articals/Động lực\|Động lực]]
 
-## Kinh nghiệm & cuộc sống (sưu tầm)
-[[Bản thân/Kinh nghiệm\|Kinh nghiệm]]
+## [[Bản thân/Kinh nghiệm\|Kinh nghiệm]]
 
-## Trải nghiệm của bản thân
-[[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
+## [[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
 
-## Funny
-[[Funny\|Funny]]
+## [[Bản thân/Funny\|Funny]]
