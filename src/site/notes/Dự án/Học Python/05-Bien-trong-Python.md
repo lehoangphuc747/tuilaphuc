@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":"howkteam.com","type":null,"genre":null,"word-count":null,"tags":["python","kteam"],"title":"05. Biến trong Python","permalink":"/du-an/hoc-python/05-bien-trong-python/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":"howkteam.com","type":null,"genre":null,"word-count":null,"tags":["python","kteam","basic"],"title":"05. Biến trong Python","permalink":"/du-an/hoc-python/05-bien-trong-python/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
