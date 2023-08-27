@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","telegraph_page_url":"https://telegra.ph/000-Homepage-08-27","telegraph_page_path":"000-Homepage-08-27","permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
@@ -23,7 +23,7 @@
 [🌟 Hướng dẫn Anski](https://hocanki.com/)
 [[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
 [[Dự án/Học Python/💻 Học Python\|💻 Học Python]]
-[[Bản thân/Nhật ký/📒 Nhật ký\|📒 Nhật ký]]
+[[Nhật ký/📒 Nhật ký\|📒 Nhật ký]]
 
 ---
 
