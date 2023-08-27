@@ -96,4 +96,4 @@
 >> [!Answer]-
 >> giải thích lại cho người khác
 
-[[Mẹo học tập - Phương pháp con vịt cao su\|Mẹo học tập - Phương pháp con vịt cao su]]
+[[Bản thân/PTBT/Hiệu suất/Mẹo học tập - Phương pháp con vịt cao su\|Mẹo học tập - Phương pháp con vịt cao su]]
