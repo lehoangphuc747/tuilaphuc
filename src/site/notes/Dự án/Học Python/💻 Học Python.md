@@ -3,6 +3,8 @@
 ---
 
 
+# Khóa học Python cơ bản
+
 | Bài                                                                                          | Tác giả      |
 | -------------------------------------------------------------------------------------------- | ------------ |
 | [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]    | howkteam.com |
@@ -12,7 +14,7 @@
 
 { .block-language-dataview}
 
-[[Phím tắt Sublime Text\|Phím tắt Sublime Text]]
+[[Bản thân/PTBT/Hiệu suất/Phím tắt Sublime Text\|Phím tắt Sublime Text]]
 
 [[Dự án/Học Python/Types and Comparisons\|Types and Comparisons]]
 
