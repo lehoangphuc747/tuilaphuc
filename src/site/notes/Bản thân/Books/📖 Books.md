@@ -2,6 +2,7 @@
 {"dg-hide":true,"author":null,"type":null,"genre":null,"word-count":null,"tags":null,"tag":"books","dg-publish":true,"title":"📖 Books","permalink":"/ban-than/books/books/","hide":true,"dgPassFrontmatter":true}
 ---
 
+
 Những quyển sách mà mình đọc, ghi chú trong hành trình [[💎 PTBT\|phát triển bản thân]].
 
 [[Bản thân/Books/Nghệ thuật tinh tế của việc đếch quan tâm - mm/Nghệ thuật tinh tế của việc đếch quan tâm - Mark Manson\|Nghệ thuật tinh tế của việc đếch quan tâm - Mark Manson]]
