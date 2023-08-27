@@ -12,4 +12,4 @@ Những quyển sách mà mình đọc, ghi chú trong hành trình [[💎 PTBT\
 [[Bản thân/Books/50 cách giải Stress mà không cần ăn uống\|50 cách giải Stress mà không cần ăn uống]] 
 [[The Soft Addiction Solution - take note\|The Soft Addiction Solution - take note]]
 
-[[Mật khu của Gấu\|Mật khu của Gấu]]
+[[Bản thân/Books/Mật khu của Gấu\|Mật khu của Gấu]]
