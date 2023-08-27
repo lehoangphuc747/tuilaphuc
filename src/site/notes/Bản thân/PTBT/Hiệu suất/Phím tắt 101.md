@@ -6,7 +6,7 @@
 { #cbd927}
 
 
-Nâng cao [[Bản thân/PTBT/Hiệu suất\|Hiệu suất]] khi quản lý files, folders trên Windows. 
+Nâng cao [[Bản thân/PTBT/⚙️ Hiệu suất\|⚙️ Hiệu suất]] khi quản lý files, folders trên Windows. 
 
 # Obsidian
 
