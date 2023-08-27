@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":"howkteam.com","type":null,"genre":null,"word-count":null,"tags":["python","kteam"],"title":"04. Cách ghi chú trong Python","permalink":"/du-an/hoc-python/04-cach-ghi-chu-trong-python/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":"howkteam.com","type":null,"genre":null,"word-count":null,"tags":["python","kteam","basic"],"title":"04. Cách ghi chú trong Python","permalink":"/du-an/hoc-python/04-cach-ghi-chu-trong-python/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
