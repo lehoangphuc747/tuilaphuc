@@ -4,7 +4,7 @@
 
 #Trần-Đức-Nhân
 
-Các [[Articals/Articles\|Articles]] mà mình lượm nhặt được của [anh Nhân](https://www.facebook.com/ducnhan89).
+Các [[Articals/📰 Articles\|📰 Articles]] mà mình lượm nhặt được của [anh Nhân](https://www.facebook.com/ducnhan89).
 
 [[Articals/Trần Đức Nhân/Reading and Writing Hacks/👑 Reading and Writing Hacks\|👑 Reading and Writing Hacks]]
 
