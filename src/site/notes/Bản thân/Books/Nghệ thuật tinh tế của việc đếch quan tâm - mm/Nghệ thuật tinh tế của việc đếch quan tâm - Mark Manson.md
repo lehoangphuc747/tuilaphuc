@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ban-than/books/nghe-thuat-tinh-te-cua-viec-dech-quan-tam-mm/nghe-thuat-tinh-te-cua-viec-dech-quan-tam-mark-manson/","dgPassFrontmatter":true}
 ---
 
-[[Chương 1. Đừng Cố\|Chương 1. Đừng Cố]]
+[[Bản thân/Books/Nghệ thuật tinh tế của việc đếch quan tâm - mm/Chương 1. Đừng Cố\|Chương 1. Đừng Cố]]
 
 # Vòng Lặp Địa Ngục 
 
