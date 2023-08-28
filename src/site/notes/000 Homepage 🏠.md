@@ -4,12 +4,16 @@
 
 # <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
 
+<center>
+
 ### WHO AM I?
 
 | Birthyear | MBTI | Hobbies | Language         | University          | Using    |
 | --------- | ---- | ------- | ---------------- | ------------------- | -------- |
 | 2001      | ISFJ | Reading | Vietnamese       | Dalat University    | Anki     |
 |           |      | Journal | Korean (TOPIK 4) | Wonkwang University | Obsidian |
+
+</center>
 
 ---
 
