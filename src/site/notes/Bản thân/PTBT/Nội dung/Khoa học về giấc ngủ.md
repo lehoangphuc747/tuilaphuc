@@ -8,7 +8,7 @@
 https://www.youtube.com/watch?v=R2ciPGVQHio
 
 ### Kiến trúc của giấc ngủ
-![Pasted image 20230716211020.png](/img/user/Z_Attachment/Pasted%20image%2020230716211020.png)
+![Pasted image 20230716211020.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230716211020.png)
 Rem xuất hiện nhiều và kéo dài hơn ở các chu kỳ cuối của giấc ngủ.
 ## Rem giúp:
 1. giải quyết vấn đề (sáng tạo hơn)
@@ -23,9 +23,9 @@ Rem xuất hiện nhiều và kéo dài hơn ở các chu kỳ cuối của gi�
 ### Thể chất
 ### Tinh thần
 
-![Pasted image 20230716212421.png](/img/user/Z_Attachment/Pasted%20image%2020230716212421.png)
-![Pasted image 20230716212623.png](/img/user/Z_Attachment/Pasted%20image%2020230716212623.png)
-![Pasted image 20230716212720.png](/img/user/Z_Attachment/Pasted%20image%2020230716212720.png)
+![Pasted image 20230716212421.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230716212421.png)
+![Pasted image 20230716212623.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230716212623.png)
+![Pasted image 20230716212720.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230716212720.png)
 ## 9 cách ngủ đủ và ngon hơn
 1. Ngủ và dậy đúng giờ cố định
 2. Tập thể dục trước khi ngủ 2~3 tiếng
