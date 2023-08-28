@@ -10,7 +10,7 @@ Nâng cao [[Bản thân/PTBT/⚙️ Hiệu suất\|⚙️ Hiệu suất]] khi qu
 
 # Obsidian
 
-Phím tắt giúp việc sử dụng [[Dự án/Obsidian/🟣 Obsidian\|🟣 Obsidian]] dễ dàng hơn.
+Phím tắt giúp việc sử dụng [[1. PROJECT/Obsidian/🟣 Obsidian\|🟣 Obsidian]] dễ dàng hơn.
 { #4c06bf}
 
 
