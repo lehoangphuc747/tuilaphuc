@@ -52,4 +52,4 @@ Từ lúc đó trở đi, tôi cảm thấy học tập thật sự quan trọng
 > Mà học tập, chính là đôi mắt để chúng ta ngắm nhìn thế giới.
 
 ---
-[[2. READING/Articals-Mad-Bear/😎 Động lực\|😎 Động lực]]
+[[2. READING/Articals/😎 Động lực\|😎 Động lực]]
