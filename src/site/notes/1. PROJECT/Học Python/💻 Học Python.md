@@ -5,15 +5,12 @@
 
 # Khóa học Python cơ bản
 
-| Bài                                                                                                        | Tác giả      |
-| ---------------------------------------------------------------------------------------------------------- | ------------ |
-| [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]                  | howkteam.com |
-| [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]]          | howkteam.com |
-| [[1. PROJECT-Mad-Bear/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]] | howkteam.com |
-| [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]                   | howkteam.com |
-| [[1. PROJECT-Mad-Bear/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]          | howkteam.com |
-| [[1. PROJECT-Mad-Bear/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                          | howkteam.com |
-| [[1. PROJECT/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                                   | howkteam.com |
+| Bài                                                                                               | Tác giả      |
+| ------------------------------------------------------------------------------------------------- | ------------ |
+| [[01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]         | howkteam.com |
+| [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]] | howkteam.com |
+| [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]          | howkteam.com |
+| [[1. PROJECT/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                          | howkteam.com |
 
 { .block-language-dataview}
 
