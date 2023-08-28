@@ -3,7 +3,7 @@
 ---
 
 
-## [[2. READING/Books-Mad-Bear/📖 Books\|📖 Books]]
+## [[📖 Books\|📖 Books]]
 
 ## [[2. READING/Articals/📰 Articles\|📰 Articles]]
 
