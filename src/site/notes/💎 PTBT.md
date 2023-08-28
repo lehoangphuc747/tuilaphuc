@@ -3,7 +3,7 @@
 ---
 
 
-## [[📖 Books\|📖 Books]]
+## [[2. READING/Books/📖 Books\|📖 Books]]
 
 ## [[2. READING/Articals/📰 Articles\|📰 Articles]]
 
@@ -13,7 +13,7 @@
 
 ## [[Bản thân/PTBT/Sự thay đổi\|Sự thay đổi]]
 
-## [[2. READING/Articals-Mad-Bear/😎 Động lực\|😎 Động lực]]
+## [[2. READING/Articals/😎 Động lực\|😎 Động lực]]
 
 ## [[Bản thân/Kinh nghiệm\|Kinh nghiệm]]
 
