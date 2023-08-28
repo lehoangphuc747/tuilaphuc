@@ -53,17 +53,6 @@ Tổng hợp các [[1. PROJECT/Obsidian/Plugins\|Plugins]] nâng cao trải nghi
 - [[1. PROJECT/Obsidian/Telegraph Publish - Publish ẩn danh (là COCC)\|Telegraph Publish - Publish ẩn danh (là COCC)]]
 - [[1. PROJECT/Obsidian/Typewriter Scroll\|Typewriter Scroll]]
 - [[1. PROJECT/Obsidian/Writing - Viết tiểu thuyết\|Writing - Viết tiểu thuyết]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Daily Stats - Review Heatmap của Obsidian\|Daily Stats - Review Heatmap của Obsidian]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Longform\|Longform]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Readability Score - đánh giá độ dễ đọc\|Readability Score - đánh giá độ dễ đọc]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Style Settings\|Style Settings]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Telegraph Publish - Publish ẩn danh (là COCC)\|Telegraph Publish - Publish ẩn danh (là COCC)]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Typewriter Scroll\|Typewriter Scroll]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Writing - Viết tiểu thuyết\|Writing - Viết tiểu thuyết]]
 
 { .block-language-dataview}
 
