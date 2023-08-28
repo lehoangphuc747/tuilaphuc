@@ -5,6 +5,11 @@
 # <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
 
 ### In 10 seconds:
+
+| 2001 | ISFJ | Bookaholic | Korean Learner | University          |  Ankier  |
+| ---- | ---- | ---------- | -------------- | ------------------- | --- |
+|      |      |            |                | Dalat University    |     |
+|      |      |            |                | Wonkwang University |     |
 - 2001
 - ISFJ
 - Bookaholic
