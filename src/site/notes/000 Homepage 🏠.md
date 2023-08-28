@@ -6,12 +6,14 @@
 
 ### <center> WHO AM I? </center>
 
-| Birthyear | MBTI | Hobbies | Language         | University          | Using    |
-| --------- | ---- | ------- | ---------------- | ------------------- | -------- |
-| 2001      | ISFJ | Reading | Vietnamese       | Dalat University    | Anki     |
-|           |      | Journal | Korean (TOPIK 4) | Wonkwang University | Obsidian |
+- 2001
+- ISFJ
+- Reading, Journal
+- Korean (TOPIK 4)
+- Dalat University, Wonkwang University
+- Using Anki, Obsidian
 
----
+|---
 
 ## **Muốn đọc gì đó?**
 
