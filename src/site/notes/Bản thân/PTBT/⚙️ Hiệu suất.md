@@ -12,12 +12,9 @@
 
 - [[1. PROJECT/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
 - [[1. PROJECT/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]]
-- [[2. READING/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
 - [[Bản thân/PTBT/Nội dung/Khoa học về giấc ngủ\|Khoa học về giấc ngủ]]
 - [[Bản thân/PTBT/⚙️ Hiệu suất\|⚙️ Hiệu suất]]
-- [[1. PROJECT-Mad-Bear/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
-- [[1. PROJECT-Mad-Bear/Viết lách/Loại bỏ các nhân tố xao nhãng\|Loại bỏ các nhân tố xao nhãng]]
-- [[2. READING/Books-Mad-Bear/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
+- [[2. READING/Books/Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)\|Lối sống tối giản thời công nghệ số - Cal Newport & Khánh Trang (dịch)]]
 
 { .block-language-dataview}
 
