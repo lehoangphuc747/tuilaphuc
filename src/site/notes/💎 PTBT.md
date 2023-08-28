@@ -3,9 +3,9 @@
 ---
 
 
-## [[Bản thân/Books/📖 Books\|📖 Books]]
+## [[2. READING/Books-Mad-Bear/📖 Books\|📖 Books]]
 
-## [[Articals/📰 Articles\|📰 Articles]]
+## [[2. READING/Articals/📰 Articles\|📰 Articles]]
 
 ## [[Bản thân/PTBT/⚙️ Hiệu suất\|⚙️ Hiệu suất]]
 
@@ -13,10 +13,12 @@
 
 ## [[Bản thân/PTBT/Sự thay đổi\|Sự thay đổi]]
 
-## [[Articals/😎 Động lực\|😎 Động lực]]
+## [[2. READING/Articals-Mad-Bear/😎 Động lực\|😎 Động lực]]
 
 ## [[Bản thân/Kinh nghiệm\|Kinh nghiệm]]
 
 ## [[Bản thân/Trải nghiệm/Trải nghiệm\|Trải nghiệm]]
 
 ## [[Bản thân/🤣 Funny\|🤣 Funny]]
+
+## [[1. PROJECT/HLMT - vozer/HLMT\|HLMT]]
