@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"permalink":"/1-project/obsidian/obsidian/","pinned":true,"dgPassFrontmatter":true}
+{"dg-hide":false,"author":null,"type":null,"genre":null,"word-count":null,"tags":["obsidian"],"dg-publish":true,"dg-pinned":true,"title":"🟣 Obsidian","permalink":"/1-project/obsidian/obsidian/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
 #obsidian
 
-[[000 Homepage 🏠\|000 Homepage 🏠]]
-___
 
 [Hướng dẫn của Obsidian](https://publish.obsidian.md/help-vi/)
 [[1. PROJECT/Obsidian/Một số câu lệnh Obsidian\|Một số câu lệnh Obsidian]]
