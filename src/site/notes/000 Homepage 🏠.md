@@ -10,7 +10,6 @@
 | --------- | ---- | ------- | ---------------- | ------------------- | -------- |
 | 2001      | ISFJ | Reading | Vietnamese       | Dalat University    | Anki     |
 |           |      | Journal | Korean (TOPIK 4) | Wonkwang University | Obsidian |
-|           |      | Walking |                  |                     |          |
 
 ---
 
