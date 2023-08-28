@@ -19,11 +19,11 @@
 ## **Muốn đọc gì đó?**
 
 [[💎 PTBT\|💎 PTBT]]
-[[Dự án/Obsidian/🟣 Obsidian\|🟣 Obsidian]]
+[[1. PROJECT/Obsidian/🟣 Obsidian\|🟣 Obsidian]]
 [🌟 Hướng dẫn Anski](https://hocanki.com/)
-[[Dự án/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
-[[Dự án/Học Python/💻 Học Python\|💻 Học Python]]
-[[Nhật ký/📒 Nhật ký\|📒 Nhật ký]]
+[[1. PROJECT/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
+[[1. PROJECT/Học Python/💻 Học Python\|💻 Học Python]]
+[[0. JOURNAL/📒 Nhật ký\|📒 Nhật ký]]
 
 ---
 
