@@ -6,18 +6,11 @@
 
 ### In 10 seconds:
 
-| 2001 | ISFJ | Bookaholic | Korean Learner | University          |  Ankier  |
-| ---- | ---- | ---------- | -------------- | ------------------- | --- |
-|      |      |            |                | Dalat University    |     |
-|      |      |            |                | Wonkwang University |     |
-- 2001
-- ISFJ
-- Bookaholic
-- Korean Learner
-- Da Lat University
-- Wonkwang University
-- Ankier
-- ...
+| Birthyear | MBTI | Hobbies | Language         | University          | Using    |
+| --------- | ---- | ------- | ---------------- | ------------------- | -------- |
+| 2001      | ISFJ | Reading | Vietnamese       | Dalat University    | Anki     |
+|           |      | Journal | Korean (TOPIK 4) | Wonkwang University | Obsidian |
+|           |      | Walking |                  |                     |          |
 
 ---
 
