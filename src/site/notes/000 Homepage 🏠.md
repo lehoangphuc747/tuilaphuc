@@ -4,7 +4,7 @@
 
 # <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
 
-### In4:
+### WHO AM I?
 
 | Birthyear | MBTI | Hobbies | Language         | University          | Using    |
 | --------- | ---- | ------- | ---------------- | ------------------- | -------- |
