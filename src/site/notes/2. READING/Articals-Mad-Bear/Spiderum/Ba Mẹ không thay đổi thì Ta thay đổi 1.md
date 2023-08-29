@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-reading/articals-mad-bear/spiderum/ba-me-khong-thay-doi-thi-ta-thay-doi-1/","dgPassFrontmatter":true}
 ---
 
-[[2. READING/Articals-Mad-Bear/Spiderum/Limitless\|Limitless]]
+[[2. READING/Articals/Spiderum/Limitless\|Limitless]]
 
 ---
 
