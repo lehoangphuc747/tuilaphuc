@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/2-reading/articals-mad-bear/spiderum/cham-soc-ban-than-vi-minh-va-vi-nguoi-1/","dgPassFrontmatter":true}
 ---
 
-[[2. READING/Articals-Mad-Bear/Spiderum/Spiderum\|Spiderum]]
+[[2. READING/Articals/Spiderum/Spiderum\|Spiderum]]
 
-[[2. READING/Articals-Mad-Bear/Spiderum/Limitless\|Limitless]]
+[[2. READING/Articals/Spiderum/Limitless\|Limitless]]
 
 ---
 
