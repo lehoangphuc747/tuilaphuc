@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":["Barbara Oakley","Terrence Sejnowski"],"tags":["books","learning",null],"permalink":"/2-reading/books/hoc-cach-hoc/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":["Barbara Oakley","Terrence Sejnowski"],"tags":["books","learning"],"FILE TAGS":"Học-cách-học","permalink":"/2-reading/books/hoc-cach-hoc/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -97,3 +97,8 @@
 >> giải thích lại cho người khác
 
 [[Bản thân/PTBT/Hiệu suất/Mẹo học tập - Phương pháp con vịt cao su\|Mẹo học tập - Phương pháp con vịt cao su]]
+
+Q: Tập luyện thúc đẩy não bộ sản sinh ra chất hóa học nào?
+A: Serotonin và Dopamin.
+<!--ID: 1693393803107-->
+
