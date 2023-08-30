@@ -6,6 +6,8 @@
 
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
+[[2. READING/Books/Làm giàu không cần may mắn - Naval/❌ Chưa xử lý\|❌ Chưa xử lý]]
+
 Gồm 51 bài viết:
 
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/01. Hãy tìm tài sản, đừng tìm tiền hay địa vị\|01. Hãy tìm tài sản, đừng tìm tiền hay địa vị]]
