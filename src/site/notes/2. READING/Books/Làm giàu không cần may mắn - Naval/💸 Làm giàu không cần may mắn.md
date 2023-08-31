@@ -30,5 +30,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/18. Không có kỹ năng thực tiễn nào được gọi là “kỹ năng kinh doanh” cả\|18. Không có kỹ năng thực tiễn nào được gọi là “kỹ năng kinh doanh” cả]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/19. Chấp nhận trách nhiệm để đổi lấy đòn bẩy\|19. Chấp nhận trách nhiệm để đổi lấy đòn bẩy]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/20. Chịu trách nhiệm để nhận lại cổ phần\|20. Chịu trách nhiệm để nhận lại cổ phần]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/21. Nhân công và vốn là những đòn bẩy đã lỗi thời\|21. Nhân công và vốn là những đòn bẩy đã lỗi thời]]
 
 { .block-language-dataview}
