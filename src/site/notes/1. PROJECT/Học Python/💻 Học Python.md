@@ -11,6 +11,7 @@
 | [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]]               | howkteam.com |
 | [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]                        | howkteam.com |
 | [[1. PROJECT/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                                        | howkteam.com |
+| [[1. PROJECT/Học Python/06-Kieu-du-lieu-so-trong-Python\|06. Kiểu dữ liệu số trong Python]]                  | howkteam.com |
 
 { .block-language-dataview}
 
