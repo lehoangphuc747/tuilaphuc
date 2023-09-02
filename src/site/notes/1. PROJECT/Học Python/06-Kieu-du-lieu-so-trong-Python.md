@@ -52,8 +52,8 @@ A: **getcontext().prec = 30**
 <!--ID: 1693449222839-->
 
 
-Q: ![Pasted image 20230831112553.png](/img/user/Pasted%20image%2020230831112553.png)
-A: ![Pasted image 20230831112607.png](/img/user/Pasted%20image%2020230831112607.png)
+Q: ![Pasted image 20230831112553.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230831112553.png)
+A: ![Pasted image 20230831112607.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230831112607.png)
 <!--ID: 1693449222845-->
 
 
