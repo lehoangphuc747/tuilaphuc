@@ -52,11 +52,10 @@ Phím tắt giúp việc sử dụng [[1. PROJECT/Obsidian/🟣 Obsidian\|🟣 O
 
 
 
-> [!Question] Phím tắt chạy code trong Sublime Text?
->> [!Answer]-
->> Ctrl + B
->> 
->> ![](https://i.imgur.com/3q2j3ei.png)
+
+Q: Phím tắt chạy code trong Sublime Text?
+A: Ctrl + B
+![Pasted image 20230902130725.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230902130725.png)
 
 </div></div>
 
