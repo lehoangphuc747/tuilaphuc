@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"author":["Barbara Oakley","Terrence Sejnowski"],"tags":["books","learning"],"FILE TAGS":"Học-cách-học","permalink":"/2-reading/books/books-chua-xu-ly/hoc-cach-hoc/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"author":["Barbara Oakley","Terrence Sejnowski"],"tags":["books","learning","publish"],"FILE TAGS":"Học-cách-học","permalink":"/2-reading/books/books-chua-xu-ly/hoc-cach-hoc/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
