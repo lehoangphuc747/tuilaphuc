@@ -24,6 +24,7 @@
 [[1. PROJECT/Học Python/💻 Học Python\|💻 Học Python]]
 [[0. JOURNAL/📒 Nhật ký\|📒 Nhật ký]]
 
+
 ---
 
 **Quan tâm?**
