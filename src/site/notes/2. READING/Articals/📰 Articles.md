@@ -19,14 +19,12 @@ Khác
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/ĐỌC 4 - ĐỌC CÓ CHỦ ĐÍCH HƠN LÀ ĐỌC ĐỂ THƯ GIÃN\|ĐỌC 4 - ĐỌC CÓ CHỦ ĐÍCH HƠN LÀ ĐỌC ĐỂ THƯ GIÃN]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/ĐỌC 3 - ĐỌC MỘT CÁCH CHỦ ĐỘNG ĐỂ TÌM KIẾM VÀ ĐÀO XỚI THÔNG TIN\|ĐỌC 3 - ĐỌC MỘT CÁCH CHỦ ĐỘNG ĐỂ TÌM KIẾM VÀ ĐÀO XỚI THÔNG TIN]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/ĐỌC 2 - LỰA CHỌN SÁCH PHÙ HỢP VỚI THỜI ĐIỂM\|ĐỌC 2 - LỰA CHỌN SÁCH PHÙ HỢP VỚI THỜI ĐIỂM]]
-- [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC\|ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 7 - 5 HƯỚNG DẪN CHI TIẾT DÀNH CHO NGƯỜI BẮT ĐẦU VIẾT\|VIẾT 7 - 5 HƯỚNG DẪN CHI TIẾT DÀNH CHO NGƯỜI BẮT ĐẦU VIẾT]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 6 - 7 MẪU CHỐT KHI BẮT ĐẦU VIẾT MỘT BÀI VIẾT\|VIẾT 6 - 7 MẪU CHỐT KHI BẮT ĐẦU VIẾT MỘT BÀI VIẾT]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 5\|VIẾT 5]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 4  - BẮT ĐẦU VIẾT DỰA TRÊN CẢM XÚC VÀ SỰ TỰ NHIÊN CỦA BẢN THÂN\|VIẾT 4  - BẮT ĐẦU VIẾT DỰA TRÊN CẢM XÚC VÀ SỰ TỰ NHIÊN CỦA BẢN THÂN]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 3 - ĐỪNG GIỚI HẠN CHỦ ĐỀ BẠN VIẾT\|VIẾT 3 - ĐỪNG GIỚI HẠN CHỦ ĐỀ BẠN VIẾT]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 2 - ĐỌC LÀ ĐI BỘ CÒN VIẾT CHÍNH LÀ CHẠY\|VIẾT 2 - ĐỌC LÀ ĐI BỘ CÒN VIẾT CHÍNH LÀ CHẠY]]
-- [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/THÓI QUEN VÀ TIỂU TIẾT 5\|THÓI QUEN VÀ TIỂU TIẾT 5]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/THÓI QUEN VÀ TIỂU TIẾT 4\|THÓI QUEN VÀ TIỂU TIẾT 4]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/THÓI QUEN VÀ TIỂU TIẾT 3\|THÓI QUEN VÀ TIỂU TIẾT 3]]
@@ -44,6 +42,8 @@ Khác
 - [[2. READING/Articals/Spiderum/Ba Mẹ không thay đổi thì Ta thay đổi\|Ba Mẹ không thay đổi thì Ta thay đổi]]
 - [[2. READING/Articals/Lê Huy Khoa - Kanata/NHỮNG KIỂU NGƯỜI SAU, BẠN NÊN TỪ CHỐI DỊCH, KẺO LẠI BỊ TỔN THƯƠNG - Lê Huy Khoa\|NHỮNG KIỂU NGƯỜI SAU, BẠN NÊN TỪ CHỐI DỊCH, KẺO LẠI BỊ TỔN THƯƠNG - Lê Huy Khoa]]
 - [[2. READING/Articals/Chưa phân loại/Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích\|Khoảnh khắc nào khiến bạn đột nhiên cảm thấy việc học tập thật sự có ích]]
+- [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH\|VIẾT 1 - TẠI SAO BẠN HỌC VĂN NHƯNG LẠI KHÔNG THỂ VIẾT LÁCH]]
+- [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC\|ĐỌC 1 - NHỮNG CUỐN SÁCH VÀ DỤNG CỤ CẦN CHUẨN BỊ TRƯỚC KHI ĐỌC]]
 - [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-03\|2023-09-03]]
 
 { .block-language-dataview}
