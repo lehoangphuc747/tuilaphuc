@@ -9,6 +9,7 @@
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/21. Nhân công và vốn là những đòn bẩy đã lỗi thời\|21. Nhân công và vốn là những đòn bẩy đã lỗi thời]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/22. Sản phẩm và truyền thông là những dạng đòn bẩy tân tiến\|22. Sản phẩm và truyền thông là những dạng đòn bẩy tân tiến]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/20. Chịu trách nhiệm để nhận lại cổ phần\|20. Chịu trách nhiệm để nhận lại cổ phần]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/24. Chọn một mô hình kinh doanh có khả năng áp dụng đòn bẩy Pick\|24. Chọn một mô hình kinh doanh có khả năng áp dụng đòn bẩy Pick]]
 - [[1. PROJECT/Ngoại ngữ/Công ty Hàn Quốc thường ít tăng lương\|Công ty Hàn Quốc thường ít tăng lương]]
 
 { .block-language-dataview}
