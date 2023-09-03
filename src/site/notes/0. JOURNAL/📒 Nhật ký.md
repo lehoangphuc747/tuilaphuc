@@ -5,6 +5,7 @@
 
 | File                                                      | Tiêu đề                                                                     | Số từ |
 | --------------------------------------------------------- | --------------------------------------------------------------------------- | ----- |
+| [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-03\|2023-09-03]] | AI có thể thúc đẩy (không phải hủy hoại) ngành giáo dục như thế nào?        | 816   |
 | [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-02\|2023-09-02]] | Không học, không tập trung làm việc được thì làm gì?                        | 463   |
 | [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-01\|2023-09-01]] | Overthinking                                                                | 516   |
 | [[0. JOURNAL/Năm 2023/Tháng 8/2023-08-26\|2023-08-26]] | Mặt trời vẫn cháy, trái đất vẫn xoay, cuộc đời vẫn dập không chừa miếng nào | 239   |
