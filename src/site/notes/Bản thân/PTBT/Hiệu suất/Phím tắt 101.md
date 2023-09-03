@@ -56,6 +56,8 @@ Phím tắt giúp việc sử dụng [[1. PROJECT/Obsidian/🟣 Obsidian\|🟣 O
 Q: Phím tắt chạy code trong Sublime Text?
 A: Ctrl + B
 ![Pasted image 20230902130725.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230902130725.png)
+<!--ID: 1693740034716-->
+
 
 </div></div>
 
