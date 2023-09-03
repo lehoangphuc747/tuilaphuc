@@ -566,6 +566,8 @@ dùng như một trò "đánh bạc": Liệu bạn có nhận được nhiều l
 không (hay được thả tim, chia sẻ lại), hay nội dung đó sẽ bị ngó lơ và
 không hề nhận được bất kỳ phản hồi nào? Khả năng đầu tiên sẽ tạo ra cái
 mà một kỹ sư
+<!--ID: 1693744517224-->
+
 
 của Facebook ví như "những tiếng chuông thánh thót của niềm hoan hỉ giả
 mạo," trong khi khả năng thứ hai lại tạo ra một cảm giác không mấy vui
@@ -751,6 +753,8 @@ Parker, Leah Pearlman, và Adam Alter, trong [nhi]{.underline}ều trường
 hợp, các công nghệ này được thiết kế *nhằm mục đích* kích thích hành vi
 nghiện. Xét trong bối cảnh này, thì ám ảnh sử dụng công nghệ không phải
 do khiếm khuyết nào đó trong đặc điểm tính cách của con người,
+<!--ID: 1693744517234-->
+
 
 mà chính là kết quả của việc triển khai một kế hoạch kinh doanh mang lại
 nguồn lợi nhuận khổng lồ.
@@ -784,6 +788,8 @@ sức, trong đó các công nghệ xâm nhập vào quyền tự chủ của co
 tấn công chính xác vào những điểm yếu chết người trong não bộ chúng ta,
 trong khi chúng ta vẫn còn ngây thơ cho rằng mình đang chơi đùa với
 những món quà thú vị và hay ho do những vị thần công nghệ ban tặng.
+<!--ID: 1693744517242-->
+
 
 Khi Bill Maher nói đùa rằng Cửa hàng ứng dụng thèm muốn linh hồn của
 chúng ta, thực lòng ông đang muốn ám chỉ đến điều khác. Như Socrates đã
@@ -1202,6 +1208,8 @@ với mức độ cụ thể tới từng xu, chẳng hạn bảng sau:
 
   Tổng cộng                                         [\$61,99%]{.underline}
   --------------------------------------------------------------------------
+<!--ID: 1693744517252-->
+
 
 Mục đích của Thoreau khi lập ra các bảng tính này là để ghi lại chính
 xác (chứ không bàn đến các khía cạnh thi ca hay triết học) các khoản chi
@@ -2370,6 +2378,8 @@ bạn dựa vào đó mà quyết định xem có nên tiếp tục sử dụng 
 cụ thể nào đó hay không. Việc nó mang lại *một vài* giá trị nào đó không
 phải là lý do xác đáng - người theo chủ nghĩa tối giản trong cuộc sống
 số
+<!--ID: 1693744517263-->
+
 
 khai thác công nghệ để phục vụ cho những điều mà họ cho là quan trọng
 nhất trong cuộc sống của mình, và họ sẵn sàng bỏ qua tất cả những lợi
@@ -2564,6 +2574,8 @@ gì to tát cả, nhưng đối với một thanh niên 19 tuổi như Rebecca, 
 lại là một hành động có chủ ý. "Tôi ước tính khoảng 75% thời gian làm
 việc không hiệu quả của mình đều xuất phát từ việc liên tục sử dụng điện
 thoại."
+<!--ID: 1693744517271-->
+
 
 i 1 i
 
@@ -2591,6 +2603,8 @@ Tôi xin tóm tắt lại các điểm chính của bước này:
 
 ![](./image284.png){width="3.573611111111111in"
 height="3.7131944444444445in"}
+<!--ID: 1693744517281-->
+
 
 4
 
@@ -2862,6 +2876,8 @@ Erwin giải thích, sự tĩnh lặng là những gì diễn ra bên trong đ�
 chứ không phải ở môi trường xung quanh bạn. Theo đó, họ định nghĩa sự
 tĩnh lặng là một trạng thái chủ quan trong đó đầu óc bạn không tiếp nhận
 thông tin từ những người khác.
+<!--ID: 1693744517293-->
+
 
 Bạn có thể tận hưởng sự tĩnh lặng ngay trong một cửa hàng cà phê đông
 đúc, trên một chuyến tàu điện ngầm, hoặc, như phát hiện của Tổng thống
@@ -2880,6 +2896,8 @@ t[ĩnh]{.underline} lặng đòi hỏi bạn phải khắc phục được việ
 phản ứng trước thông tin do người khác tạo ra để tập trung vào những suy
 nghĩ và trải nghiệm riêng của chính bạn - tại bất kỳ nơi nào bạn đang có
 mặt.
+<!--ID: 1693744517302-->
+
 
 Vì sao sự tĩnh lặng lại có giá trị đến vậy? Kethledge và Erwin đã liệt
 kê chi tiết rất nhiều lợi ích, phần lớn trong đó có liên quan đến những
@@ -2977,6 +2995,8 @@ dưỡng bầu không khí này. Nói cách khác, đối với Woolf, sự tĩn
 không phải là một giai đoạn nghỉ dưỡng thú vị, mà là một
 [hìn]{.underline}h thái tự do thoát khỏi sự kiểm soát và đè nén về mặt
 nhận thức do thiếu vắng sự tĩnh lặng.
+<!--ID: 1693744517311-->
+
 
 Vào thời đại của Woolf, phụ nữ bị khước từ sự tự do này vì một xã hội
 gia trưởng. Trong thời đại của chúng ta ngày nay, sự đè nén này phần lớn
@@ -2984,6 +3004,8 @@ là hoàn cảnh do chúng ta tự tạo ra vì chúng ta thích sự phân tâm
 [hình]{.underline} của các thiết bị số mang lại. Đây cũng là đề tài được
 nhà phê bình xã hội người Canada Michael Harris bàn đến trong cuốn sách
 của ông xuất bản năm 2017, cũng được
+<!--ID: 1693744517321-->
+
 
 đặt tựa đề là *Solitude* (tạm dịch: Sự tĩnh lặng). Harris lo ngại rằng
 sự xuất hiện của các công nghệ mới tiếp tay cho việc định hình nên một
@@ -3150,6 +3172,8 @@ không bận tâm đến việc phải giám sát thói quen sử dụng điện
 mình," Alter kết luận. "Hoàn toàn có cơ sở để nghĩ rằng có
 [khi]{.underline} họ dành ra hơn 3 giờ đồng hồ mỗi ngày cho chiếc điện
 thoại của mình."
+<!--ID: 1693744517331-->
+
 
 Các số liệu về thói quen sử dụng điện thoại thông minh như đề cập ở trên
 chỉ tính đến thời gian nhìn vào
@@ -3251,6 +3275,8 @@ thông minh và mạng xã hội. Bà để ý thấy rằng các lứa sinh vi�
 liên tục trao đổi tin nhắn với nhau. Dường như hoạt động giao tiếp liên
 tục này theo cách nào đó đã và dạng gây xáo trộn trong cơ chế hoạt động
 trong não bộ của s[inh]{.underline} viên.
+<!--ID: 1693744517341-->
+
 
 Vài năm sau, linh cảm của vị lãnh đạo trên đã được Jean Twenge xác thực,
 bà là giảng viên tâm lý học trường
@@ -3515,6 +3541,8 @@ viễn c[ảnh]{.underline} nếu không có điện thoại, công ty sẽ khô
 liên hệ được với họ khi cần thiết. Và trên thực tế thì tất cả mọi người
 đều có chung một nỗi sợ hãi thầm kín là nếu không có diện ngoại dì động,
 họ sẽ không thoát khỏi những giây phút nhàm chán.
+<!--ID: 1693744517353-->
+
 
 Điều đáng lưu ý về những mối lo ngại kể trên là mãi tới tận gần đây
 chúng ta mới bắt đầu bận tâm đến chúng. Những người sinh ra trước giai
@@ -3942,6 +3970,8 @@ Không có gì đáng ngạc nhiên khi tôi không phải
 ^\^i iuy M \# w ra
 pta\\£ pháp tìm kiếm sự [tĩnh]{.underline} lặng rất hiệu quả này. Như
 Kethledge và Envin đã
+<!--ID: 1693744517363-->
+
 
 viết trong cuốn sách của mình, Dwight Eisenhower vận dụng "phương pháp
 tư duy bằng cách viết" trong suốt sự nghiệp của mình để ra những quyết
@@ -4029,11 +4059,15 @@ Shamballah với những người chơi kéo búa bao bình thường khác khô
 là khả năng nhớ từng lần ra dấu của đối phương, cũng không phải là thiên
 tài thống kê, mà là sự hiểu biết tinh tế hơn về một [lĩnh]{.underline}
 vực rộng hơn nhiều: tâm lý học con người.
+<!--ID: 1693744517372-->
+
 
 Một người chơi trò kéo bao búa giỏi là người có khả năng kết hợp khéo
 léo và nhuần nhuyễn luồng thông tin dồi dào về ngôn ngữ cơ thể của đối
 phương với [nhữn]{.underline}g lần ra dấu gần nhất để từ đó đoán ra
 trạng thái tinh
+<!--ID: 1693744517384-->
+
 
 thần của đối thủ rồi lấy đó là cơ sở để đoán lần ra dấu tiếp theo của
 họ. Những người chơi này cũng sẽ sử dụng các động tác di chuyển kín đáo
@@ -4075,6 +4109,8 @@ sử dụng rất nhiều các chiến thuật và chiến lược đoán đọc
 khác trong [nh]{.underline}ững giao tiếp hằng ngày thông thường của
 mình. Nhìn từ nhiều góc độ, có thể cho rằng não bộ của chúng ta là những
 cỗ máy tính xã hội tinh vi.
+<!--ID: 1693744517395-->
+
 
 Từ thực tế này, một cách tự nhiên, có thể đưa ra kết luận rằng chúng ta
 nên đặc biệt cẩn thận với bất kỳ công nghệ mới nào có khả năng can thiệp
@@ -4082,6 +4118,8 @@ vào cách thức chúng ta vẫn sử dụng để kết nối và giao tiếp 
 khác. Nếu táy máy nghịch ngợm với một yếu tố đóng vai trò trung tâm như
 vậy đối với sự phát triển của c[hính]{.underline} giống loài mình, chúng
 ta sẽ rất dễ tạo ra những rắc rối.
+<!--ID: 1693744517405-->
+
 
 Trong các trang sách tiếp theo đây, tôi sẽ trình bày chi tiết về cung
 đường tiến hóa của não bộ con người dẫn đến việc chúng ta thèm khát
@@ -4480,6 +4518,8 @@ luận ở các phần trước trong chương này, các hoạt động tương
 của chúng ta phải xử lý những khối lượng thông tin lớn về
 [nhi]{.underline}ều dấu hiệu rất vi tế như ngôn ngữ cơ thể, biểu hiện
 trên nét mặt, và âm điệu của giọng nói. Hình thức giao tiếp
+<!--ID: 1693744517416-->
+
 
 trên dải thông thấp với sự hỗ trợ của nhiều công cụ giao tiếp số có thể
 mô phỏng được sự kết nối đời thực này, song nó vẫn không tận dụng được
@@ -4952,6 +4992,8 @@ thông qua tính năng nhắn tin nh[anh]{.underline} SMS, iMessage, Facebook
 Messenger, hay WhatsApp. Sherry Turkle, người đã và đang nghiên cứu thói
 quen sử dụng điện thoại ngay từ thời điểm bắt đầu của kỷ nguyên điện
 thoại di động, mô tả thực tế này [nh]{.underline}ư sau:
+<!--ID: 1693744517429-->
+
 
 > Điện thoại di động đã tác động và trở th[ành]{.underline} một phần
 > trong cảm thức sai lầm của chúng ta về nghĩa vụ trong tình bạn\... Một
@@ -4960,6 +5002,8 @@ thoại di động, mô tả thực tế này [nh]{.underline}ư sau:
 >
 > luôn luôn sẵn sàng tâm thế nghe bạn tâm sự, luôn luôn xuất hiện trong
 > không gian trực tuyến.
+<!--ID: 1693744517438-->
+
 
 Ở cách làm trước, tôi đề xuất bạn ngừng tương tác với bạn bè thông qua
 những nút "Thích" và tính năng bình luận trên mạng xã hội. Gợi ý này có
@@ -5497,6 +5541,8 @@ tương tự để giải thích cho quyết
 quê. Cô đặt một cái tên khác cho những hoạt động này - "những thú vui
 lành mạnh" - và nhấn mạnh rằng những hoạt động trông có vẻ như công việc
 thực ra lại mang đến rất nhiều lợi ích lớn nhỏ khác nhau.
+<!--ID: 1693744517446-->
+
 
 Chẳng hạn, chúng ta thử nhìn vào những nỗ lực mà họ phải bỏ ra để dọn
 đường đi trên nông trại nhiều cây cối của họ. Liz chia sẻ vôi tôi: "Ở
@@ -5513,6 +5559,8 @@ khi bạn được đi trên con đường mà tự tay bạn đã dọn dẹp q
 cho hay, một [nhi]{.underline}ệm vụ tưởng chừng hết sức tẻ nhạt là dọn
 đường bỗng chốc mang lại phần thưởng tốt đẹp hơn nhiều so với hành động
 lướt mạng xã hội vốn dĩ rất thụ động.
+<!--ID: 1693744517455-->
+
 
 Dĩ nhiên, cộng đồng FI không phải những người đầu tiên phát hiện ra giá
 trị nội tại trong sự thư giãn năng động. Vào mùa xuân năm 1899, Theodore
@@ -5802,6 +5850,8 @@ ra sức chiến đấu chống lại những quái nhân giống [nh]{.underlin
 trong một trò chơi video dành cho nhiều người như *World of Warcraft?*
 Nhưng họ không làm thế. Ngày nay, người ta đang hào hứng hơn bao giờ hết
 mỗi khi
+<!--ID: 1693744517463-->
+
 
 được chơi trò Scrabble với hàng xóm, hay ngồi xúm lại bình luận khi các
 đồng nghiệp ngồi chơi bài xì dách, hay xếp hàng trong cái lạnh giá của
@@ -5968,6 +6018,8 @@ hì[nh]{.underline} rèn luyện của CrossFit được xây dựng xung quanh 
 chế độ tập luyện trong ngày (workout of the day, hay viết tắt là W0D) -
 đây thường là sự kết hợp ở cường độ cao giữa các bài tập vận động trong
 đó bạn phải đặt mục
+<!--ID: 1693744517471-->
+
 
 tiêu hoàn thành càng nhanh càng tốt. Dưới đây là một WOD mẫu được
 CrossFit áp dụng trong khoảng thời gian tôi đang viết chương này:
@@ -6122,6 +6174,8 @@ Woods, nếu muốn gom củi để nhóm lò, bạn có thể lên YouTube đ�
 rất nhiều video hướng dẫn các thao tác cơ bản. Theo tôi, đây chính là
 thời điểm thuận lợi nhất để bạn xây dựng một đời sống giải trí chất
 lượng cao.
+<!--ID: 1693744517481-->
+
 
 Có lẽ tới lúc này, bạn vừa chợt nhận ra rằng chúng ta đang lập luận theo
 lối vòng tròn. Chương này chỉ ra rằng để thoát khỏi những thói quen mang
@@ -6132,6 +6186,8 @@ giúp bạn không nghĩ đến sự tồn tại của những lỗ hổng ấy.
 vừa mới lập luận rằng bạn nên sử dụng các công cụ số để xây dựng các
 hoạt động giải trí này. Như vậy, dường [nh]{.underline}ư tôi đang khuyên
 bạn nên tiếp nhận công nghệ mới để tr[ánh]{.underline} công nghệ mới.
+<!--ID: 1693744517489-->
+
 
 Thật may mắn, vòng tròn này có thể dễ dàng bị phá vỡ. Tôi đang giúp bạn
 thoát ra khỏi tình trạng mà trong đổ sự tương tác thụ động với màn hình
@@ -7729,6 +7785,8 @@ tức nghiêm túc cũng thường có thói quen sử dụng các tiện ích �
 t[rình]{.underline} duyệt hoặc các công cụ có thể giúp mang đến cho họ
 những Bài viết sạch sẽ, không có quảng cáo và không chứa những mồi nhử
 khiến bạn xao nhãng việc đọc.
+<!--ID: 1693744517501-->
+
 
 Nếu áp dụng cách tiêu thụ tin tức trên (hoặc bất kỳ cách nào khác cũng
 tập trung vào việc tiêu thụ chậm và chất lượng), bạn vẫn sẽ luôn được
@@ -7823,6 +7881,8 @@ Light Phone với thiết kế là một tấm nhựa trắng đẹp mắt, có 
 2-3 chiếc thẻ tín dụng xếp chồng lên nhau. Light Phone có bàn
 p[h]{.underline}ím và phần hiển thị số nhỏ. Tất cả chỉ có thế. Tất cả
 những
+<!--ID: 1693744517509-->
+
 
 gì nó có thể thực hiện là nhận và thực hiện cuộc gọi - dĩ nhiên, chức
 năng này còn lâu mới so sánh được với những gì mà một chiếc điện thoại
@@ -8112,6 +8172,8 @@ trở thành một người tốt đẹp hơn trước đây."
 
 ![](./image93.png){width="4.726388888888889in"
 height="7.426388888888889in"}
+<!--ID: 1693744517518-->
+
 
 *Newport, Cal*
 
