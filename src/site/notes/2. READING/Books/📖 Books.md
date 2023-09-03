@@ -5,7 +5,7 @@
 
 Những quyển sách mà mình đọc, ghi chú trong hành trình [[💎 PTBT\|phát triển bản thân]].
 
-## [[2. READING/Books/Nghệ thuật tinh tế của việc đếch quan tâm - mm/Nghệ thuật tinh tế của việc đếch quan tâm - Mark Manson\|Nghệ thuật tinh tế của việc đếch quan tâm - Mark Manson]]
+## [[2. READING/Books/Nghệ thuật tinh tế của việc đếch quan tâm - mm/Nghệ thuật tinh tế của việc đếch quan tâm\|Nghệ thuật tinh tế của việc đếch quan tâm]]
 
 ## [[2. READING/Books/Làm giàu không cần may mắn - Naval/💸 Làm giàu không cần may mắn\|💸 Làm giàu không cần may mắn]] 
 
