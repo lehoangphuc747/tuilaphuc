@@ -33,5 +33,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/21. Nhân công và vốn là những đòn bẩy đã lỗi thời\|21. Nhân công và vốn là những đòn bẩy đã lỗi thời]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/22. Sản phẩm và truyền thông là những dạng đòn bẩy tân tiến\|22. Sản phẩm và truyền thông là những dạng đòn bẩy tân tiến]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/23. Đòn bẩy sản phẩm rất công bằng\|23. Đòn bẩy sản phẩm rất công bằng]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/24. Chọn một mô hình kinh doanh có khả năng áp dụng đòn bẩy Pick\|24. Chọn một mô hình kinh doanh có khả năng áp dụng đòn bẩy Pick]]
 
 { .block-language-dataview}
