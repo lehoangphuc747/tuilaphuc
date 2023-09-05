@@ -22,7 +22,7 @@ Thực tế, cũng không quá khó để quan sát và chiêm nghiệm điều 
 
 Và thực ra với con người cũng vậy. Nếu nói đến cuộc sống đầy khó khăn, hiểm họa thời săn bắn có vẻ là quá xa xôi, nhưng ngay cả đến thế kể 14 15 cuối thời Trung Cổ, một cú search Google đơn giản cũng có thể chỉ ra rằng cuộc sống khi ấy cũng vẫn cực kỳ khắc nghiệt, với nguồn thức ăn eo hẹp và rất hiếm tiện nghi.
 
-![Pasted image 20230813180705.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230813180705.png)
+![Pasted image 20230813180705.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230813180705.png)
 
 Tuy nhiên, có thế mới thấy con người đặc biệt đến cỡ nào. Không, nói đúng hơn là tâm trí con người mạnh đến mức nào, khi nó có thể *dễ dàng* chiến thắng cả cái bản năng sống mãnh liệt như thế của tự nhiên, dù là do suy nghĩ kỹ càng hay nhất thời nông nổi. Thực tế, con người được cho là giống loài duy nhất có khả năng tự sát. Và số liệu thống kê của Liên hợp quốc ghi nhận có đến **800,000** người chết vì tự sát mỗi năm (BMJ, 2021). Một con số thực sự đáng sốc!
 
@@ -49,7 +49,7 @@ Và chính Viktor Frank là minh chứng rõ ràng nhất cho những dòng ch�
 
 Hay, như ông Ove trong "A man called Ove", vì những người hàng xóm lộn xộn, phiền phức, mà tiếp tục sống những ngày tháng còn lại cho đến hết tuổi trời.
 
-![Pasted image 20230813181455.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230813181455.png)
+![Pasted image 20230813181455.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230813181455.png)
 
 Vậy nên, tôi tin rằng: Khi nào sự kết nối còn tồn tại, sự sống còn tiếp tục.
 
