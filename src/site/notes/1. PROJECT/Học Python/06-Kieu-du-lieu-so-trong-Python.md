@@ -7,6 +7,18 @@ Tags: #python #kteam #basic
 [Youtube](https://youtu.be/IAVvgqDBiv0)
 [howkteam](https://howkteam.vn/course/lap-trinh-python-co-ban/kieu-du-lieu-so-trong-python-1540)
 
+Trong Python có các kiểu dữ liệu:
+ - số nguyên (integers)
+ - số thực (float)
+ - chuỗi (string)
+ - phân số (fraction)
+ - số phức (complex)
+
+Q: **1, 1.4, -123, 69.96,…** là kiểu dữ liệu nào?
+A: float 
+<!--ID: 1693884926445-->
+
+
 Q: fraction là gì?
 A: phân số
 <!--ID: 1693449222758-->
@@ -52,8 +64,8 @@ A: **getcontext().prec = 30**
 <!--ID: 1693449222839-->
 
 
-Q: ![Pasted image 20230831112553.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230831112553.png)
-A: ![Pasted image 20230831112607.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230831112607.png)
+Q: ![Pasted image 20230831112553.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230831112553.png)
+A: ![Pasted image 20230831112607.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230831112607.png)
 <!--ID: 1693449222845-->
 
 
