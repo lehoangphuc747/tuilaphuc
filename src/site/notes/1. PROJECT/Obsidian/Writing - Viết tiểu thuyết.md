@@ -10,7 +10,7 @@ Dành cho những ai đang viết, muốn viết tiểu thuyết.
 
 Settings:
 
-![Pasted image 20230819013116.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230819013116.png)
+![Pasted image 20230819013116.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230819013116.png)
 
 —
 [[1. PROJECT/Obsidian/Plugins#^c6d400\|Plugins]]
