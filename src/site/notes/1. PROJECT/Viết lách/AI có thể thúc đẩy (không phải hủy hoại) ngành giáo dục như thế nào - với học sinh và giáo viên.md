@@ -24,15 +24,15 @@ Phạm vi gia sư AI có thể giúp cho người học rất nhiều môn. Như
 
 Toán, Văn, Sử, Địa,… thậm chí cả lập trình.
 
-![Pasted image 20230903113335.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903113335.png)
+![Pasted image 20230903113335.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903113335.png)
 
 ## Hỗ trợ giáo viên
 
 Lên giáo án, tiết kiệm thời gian hơn cho giáo viển để có thể tập trung vào phát triển khả năng tư duy và tăng cường tương tác giữa các học sinh trong lớp học. Vì trong video bên dưới, mình thấy Khanmigo có đề xuất giải pháp để phát triển khả năng tranh luận của học sinh bằng cách chia nhóm thành 2 nhóm nhập vai thành nhà ngoại giao hai phe đối dịch là Tây Ban Nha và Mỹ trong chiến tranh.
 
-![Pasted image 20230903114336.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903114336.png)
+![Pasted image 20230903114336.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903114336.png)
 
-![Pasted image 20230903113608.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903113608.png)
+![Pasted image 20230903113608.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903113608.png)
 
 Qua video này, mình đã thay đổi quan điểm về AI sẽ thay thế giáo viên.
 
@@ -53,11 +53,11 @@ Kẻ tung người hứng.
 
 Viết văn có thể trở nên vô cùng thú vị và không đoán trước được. Bởi ta không biết AI sẽ viết câu gì tiếp theo. Mà trong qua trình đó, ta cũng có thể học tập được cách dùng từ cao cấp và hoa mỹ hơn.
 
-![Pasted image 20230903114427.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903114427.png)
+![Pasted image 20230903114427.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903114427.png)
 
 ## Học lập trình
 
-![Pasted image 20230903114650.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903114650.png)
+![Pasted image 20230903114650.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903114650.png)
 
 
 ## Tối ưu chi phí
@@ -89,11 +89,11 @@ Trong khi đó, với Khanmigo:
 
 $9/tháng ~ 216k/tháng
 
-![Pasted image 20230903111652.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903111652.png)
+![Pasted image 20230903111652.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903111652.png)
 
 hoặc $99/năm ~ 2tr 384k/năm
 
-![Pasted image 20230903111716.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230903111716.png)
+![Pasted image 20230903111716.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230903111716.png)
 
 Một trong những lợi thế lớn nhất mà mình nghĩ gia sư AI có thể đánh bại gia sư truyền thống, ngoài chi phí và kiến thức đa lĩnh vực ra:
 
