@@ -16,6 +16,6 @@ Những quyển sách mà mình đọc, ghi chú trong hành trình [[💎 PTBT\
 
 Đã đọc
 
-[[13.67\|13.67]]
+[[2. READING/Books/13.67\|13.67]]
 [[2. READING/Books/Books chưa xử lý/Học cách học\|Học cách học]]
-[[Ultralearning - Học siêu tốc\|Ultralearning - Học siêu tốc]]
+[[2. READING/Books/Ultralearning - Học siêu tốc\|Ultralearning - Học siêu tốc]]
