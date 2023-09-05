@@ -7,4 +7,4 @@
 
 Cấu hình của mình
 
-![Pasted image 20230808122620.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230808122620.png)
+![Pasted image 20230808122620.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230808122620.png)
