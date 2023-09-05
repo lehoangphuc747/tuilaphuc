@@ -6,4 +6,4 @@
 
 “Review Heatmap” của Obsidian
 
-![Pasted image 20230819012601.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230819012601.png)
+![Pasted image 20230819012601.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230819012601.png)
