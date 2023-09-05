@@ -16,7 +16,7 @@ Khi nữ hoàng Catherine Đại Đế của Nga nghe nói về khó khăn tài 
 
 Không lâu sau vụ mua bán may mắn này, Diderot đã mua một chiếc áo choàng mới màu đỏ tươi. Và rồi mọi chuyện không ổn bắt đầu từ đây.
 
-![Pasted image 20230814221528.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230814221528.png)
+![Pasted image 20230814221528.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230814221528.png)
 
 ## Hiệu ứng Diderot ra đời
 
@@ -28,7 +28,7 @@ Hành vi mua sắm theo cảm hứng này được biết đến với tên gọ
 
 Theo hiệu ứng Diderot, việc sở hữu một món đồ mới sẽ dẫn đến việc tạo ra vòng xoáy mua sắm khiến bạn muốn mua nhiều thứ hơn nữa. Kết quả là chúng ta sẽ mua rất nhiều thứ mà bản thân trước đây không hề cần để cảm thấy hạnh phúc và thỏa mãn.
 
-![Pasted image 20230814221701.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230814221701.png)
+![Pasted image 20230814221701.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230814221701.png)
 
 ## Hiệu ứng Diderot trong cuộc sống
 
