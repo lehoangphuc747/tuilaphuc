@@ -21,7 +21,7 @@
 
 [[1. PROJECT/Obsidian/Dành cho Writers\|Dành cho Writers]]
 
-[[Omnivore\|Omnivore]]
+[[2. READING/Omnivore/Omnivore\|Omnivore]]
 
 ![](https://i.imgur.com/02Hv6KP.png)
 
