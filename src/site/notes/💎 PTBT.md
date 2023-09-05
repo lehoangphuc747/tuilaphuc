@@ -25,4 +25,4 @@
 
 ## [[1. PROJECT/HLMT - vozer/HLMT\|HLMT]]
 
-## [[5. School/Wonkwang University/한국어 - 베트남 번역\|한국어 - 베트남 번역]]
+## [[1. PROJECT/School/Wonkwang University/한국어 - 베트남 번역\|한국어 - 베트남 번역]]
