@@ -3,7 +3,7 @@
 ---
 
 # 빠삐코 소다맛
-![Pasted image 20230812210334.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230812210334.png)
+![Pasted image 20230812210334.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230812210334.png)
 
 # 돼지바
-![Pasted image 20230812210403.png](/img/user/3.%20RESOURCE/attachments/Pasted%20image%2020230812210403.png)
+![Pasted image 20230812210403.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230812210403.png)
