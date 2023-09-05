@@ -5,7 +5,7 @@
 
 LỐI SỐNG TỐI GIẢN THỜI CÔNG NGHỆ SỐ
 
-![image283.jpg](/img/user/3.%20RESOURCE/attachments/image283.jpg)
+![image283.jpg](/img/user/4.%20RESOURCE/attachments/image283.jpg)
 
 Bạn đã bao giờ lướt bản tin quên ăn quên ngủ, giật mình thức giấc vì tiếng chuông thông báo của một ứng dụng, hay đứng ngồi không yên vì không được dùng điện thoại? Công nghệ số có ở khắp mọi nơi và nhiều khi khiến chúng ta bỏ lỡ những khoảnh khắc quý giá trong đời. Công nghệ không xấu nhưng bạn cần sử dụng chúng đúng cách để sống thật ý nghĩa.
 ***Lối sống tối giản thời công nghệ số*** là cuốn cẩm nang mà mỗi người cần có trong kỷ nguyên số 
@@ -116,72 +116,26 @@ Tôi vẫn nhớ lần đầu tiên tôi biết đến Facebook. Khi đó là m�
 
 Từ khóa trong trí nhớ của cô ấy về Facebook là *mới mẻ.* Facebook không xuất hiện trong thế giới của chúng ta với lời hứa hẹn sẽ làm biến đổi một cách triệt để những nhịp điệu quen thuộc trong đời sống xã hội và đời sống dân sự của chúng ta; nó chỉ là một trò gây phân tâm giữa vô vàn trò gây phân tâm khác. Vào mùa thu năm 2004, những người tôi quen biết có đăng ký sử dụng thefacebook.com chắc chắn phần lớn đều dành thời gian chơi Snood (một trò giải đố rất thịnh hành) hơn là ngồi chỉnh sửa gọt giũa cho hồ sơ cá nhân trên Facebook hay chọc bạn bè trong thế giới ảo.
 
-"Facebook khi ấy rất thú vị," Julie tóm tắt lại, "nhưng chắc chắn nó
-không phải là thứ mà chúng ta sẵn sàng dành lượng thời gian đáng kể vào đó."
+==*"Facebook khi ấy rất thú vị"*, Julie tóm tắt lại, *"nhưng chắc chắn nó
+không phải là thứ mà chúng ta sẵn sàng dành lượng thời gian đáng kể vào đó."==*
 
-Thế rồi ba năm sau, Apple ra mắt iPhone, mở ra cuộc cách mạng về điện thoại di động. Tuy nhiên, nhiều người quên rằng cuộc "cách mạng" nguyên thủy mà thiết bị này hứa hẹn ban đầu cũng ở quy mô khiêm tốn hơn nhiều so với tác động mà nó tạo ra. Trong thời điểm hiện tại, điện thoại thông minh đã tái định hình trải nghiệm của con người về thế giới bằng cách tạo sự kết nối liên tục với một ma trận luôn ồn ào với những cuộc trao đổi và những yếu tố gây phân tâm. Tháng Một năm 2007, khi Steve Jobs tiết lộ về chiếc iPhone trong buổi giới thiệu sản phẩm đã trở thành huyền thoại, tầm nhìn mà ông đưa ra ít đồ sộ hơn nhiều.
+Thế rồi ba năm sau, Apple ra mắt iPhone, mở ra cuộc cách mạng về điện thoại di động. Tuy nhiên, nhiều người quên rằng cuộc *"cách mạng"* nguyên thủy mà thiết bị này hứa hẹn ban đầu cũng ở quy mô khiêm tốn hơn nhiều so với tác động mà nó tạo ra. Trong thời điểm hiện tại, điện thoại thông minh đã tái định hình trải nghiệm của con người về thế giới bằng cách tạo sự kết nối liên tục với một ma trận luôn ồn ào với những cuộc trao đổi và những yếu tố gây phân tâm. Tháng Một năm 2007, khi Steve Jobs tiết lộ về chiếc iPhone trong buổi giới thiệu sản phẩm đã trở thành huyền thoại, tầm nhìn mà ông đưa ra ít đồ sộ hơn nhiều.
 
-Một trong những đặc điểm hấp dẫn chủ đạo của chiếc iPhone ban đầu là nó tích hợp thiết bị nghe nhạc iPod cũng của Apple với điện thoại di động, giúp bạn không phải mang trong túi một lúc hai thiết bị riêng biệt. (Dĩ nhiên, đây là những ấn tượng tôi còn giữ lại được về thời điểm đó, khi tôi hình dung đến những lợi ích của chiếc iPhone lúc nó mới được ra mắt.) Do vậy, khi Jobs đứng trên sân khấu để giới thiệu về chiếc iPhone, ông đã dành 8 phút đầu tiên để mô tả về những đặc điểm của nó ở góc độ một thiết bị truyền thông, và ông kết luận: "Đây là chiếc iPod tuyệt vời nhất mà chúng tôi từng làm ra!"
+Một trong những đặc điểm hấp dẫn chủ đạo của chiếc iPhone ban đầu là nó tích hợp thiết bị nghe nhạc iPod cũng của Apple với điện thoại di động, giúp bạn không phải mang trong túi một lúc hai thiết bị riêng biệt. (Dĩ nhiên, đây là những ấn tượng tôi còn giữ lại được về thời điểm đó, khi tôi hình dung đến những lợi ích của chiếc iPhone lúc nó mới được ra mắt.) Do vậy, khi Jobs đứng trên sân khấu để giới thiệu về chiếc iPhone, ông đã dành 8 phút đầu tiên để mô tả về những đặc điểm của nó ở góc độ một thiết bị truyền thông, và ông kết luận: *"Đây là chiếc iPod tuyệt vời nhất mà chúng tôi từng làm ra!"*
 
 Một đặc điểm hấp dẫn chủ đạo khác của thiết bị này vào thời điểm nó mới ra mắt là cải thiện trải nghiệm gọi điện theo nhiều cách khác nhau. Một tin tức gây xôn xao khi ấy là Apple buộc hãng viễn thông AT&T mở hệ thống thư thoại để chiếc iPhone có giao diện đẹp hơn. Trên sân khấu, Jobs thể hiện rõ niềm thích thú trước sự đơn giản trong thiết kế, để bạn có thể dùng tay lướt dọc danh bạ trong máy, và trước ý tưởng thiên tài thay thế nút bấm nhựa cố định bằng bàn phím cảm ứng trên màn hình.
 
-"ứng dụng tuyệt vời nhất là ứng dụng thực hiện cuộc gọi," Jobs hào hứng
-nói trong tiếng vỗ tay rào rào của khán giả. Phải từ phút thứ 33 trở đi
-trong màn ra mắt chiếc iPhone nổi tiếng đó, ông mới bắt đầu nói đến
-những đặc điểm cải tiến như nhắn tin và khả năng kết
+"Ứng dụng tuyệt vời nhất là ứng dụng thực hiện cuộc gọi," Jobs hào hứng nói trong tiếng vỗ tay rào rào của khán giả. Phải từ phút thứ 33 trở đi trong màn ra mắt chiếc iPhone nổi tiếng đó, ông mới bắt đầu nói đến những đặc điểm cải tiến như nhắn tin và khả năng kết nối internet, hai đặc điểm được sử dụng phổ biến nhất hiện nay cho các thiết bị này.
 
-nối internet, hai đặc điểm được sử dụng phổ biến nhất hiện nay cho các
-thiết bị này.
+Để xác nhận rằng tầm nhìn hạn chế này không phải lỗi soạn thảo nội dung thuyết trình cho Jobs, tôi liên hệ với Andy Grignon, một trong những thành viên trong đội thiết kế chiếc iPhone đầu tiên. *"Sản phẩm này được coi là chiếc máy nghe nhạc iPod nhưng có khả năng thực hiện cuộc gọi"*, ông khẳng định. *"Sứ mệnh cốt lõi mà chúng tôi theo đuổi là thiết kế một chiếc máy vừa biết chơi nhạc vừa có thể thực hiện cuộc gọi"*. Grignon cũng chia sẻ với chúng tôi rằng thoạt đầu, Steve Jobs phủ quyết ý tưởng đưa chiếc iPhone trở thành một chiếc máy vi tính di động đa năng, có thể chạy nhiều ứng dụng bên thứ ba khác nhau. *"Ngay khi chúng ta cho phép gã lập trình viên ngu ngốc nào đó viết vài dòng mã lệnh để tạo ứng dụng rồi làm hỏng máy, khi đó họ sẽ muốn gọi điện cho tổng đài 911"*, Jobs từng nói với Grignon như vậy.
 
-Để xác nhận rằng tầm nhìn hạn chế này không phải lỗi soạn thảo nội dung
-thuyết trình cho Jobs, tôi liên hệ với Andy Grignon, một trong những
-thành viên trong đội thiết kế chiếc iPhone đầu tiên. "Sản phẩm này được
-coi là chiếc máy nghe nhạc iPod nhưng có khả năng thực hiện cuộc gọi,"
-ông khẳng định. "Sứ mệnh cốt lõi mà chúng tôi theo đuổi là thiết kế một
-chiếc máy vừa biết chơi nhạc vừa có thể thực hiện cuộc gọi." Grignon
-cũng chia sẻ với chúng tôi rằng thoạt đầu, Steve Jobs phủ quyết ý tưởng
-đưa chiếc iPhone trở thành một chiếc máy vi tính di động đa năng, có thể
-chạy nhiều ứng dụng bên thứ ba khác nhau. "Ngay khi chúng ta cho phép gã
-lập trình viên ngu ngốc nào đó viết vài dòng mã lệnh để tạo ứng dụng rồi
-làm hỏng máy, khi đó họ sẽ muốn gọi điện cho tổng đài 911," Jobs từng
-nói với Grignon như vậy.
+Khi chiếc iPhone lần đầu được tung ra thị trường vào năm 2007, khi đó chưa hề xuất hiện **App Store** nào cả, chưa có ứng dụng thông báo trên mạng xã hội, cũng chưa ai có thói quen chụp nhanh một bức ảnh rồi lập tức đăng tải lên Instagram, và không có lý do gì để vừa ăn tiệc tối vừa thi thoảng lại lén liếc nhìn xuống dưới mặt bàn - và chuyện này là hoàn toàn ổn đối với Steve Jobs cũng như vối hàng triệu người đã hào hứng mua chiếc điện thoại thông minh đầu tiên của mình trong giai đoạn đó. Cũng giống như trường hợp của những người đầu tiên chào đón Facebook, không mấy ai dự đoán được rằng mối quan hệ của chúng ta với thứ công cụ mới bóng bẩy này lại biến đổi nhanh chóng đến vậy trong những năm tiếp theo.
 
-Khi chiếc iPhone lần đầu được tung ra thị trường vào năm 2007, khi đó
-chưa hề xuất hiện Cửa hàng ứng dụng nào cả, chưa có ứng dụng thông báo
-trên mạng xã hội, cũng chưa ai có thói quen chụp nhanh một bức ảnh rồi
-lập tức đăng tải lên Instagram, và không có lý do gì để vừa ăn tiệc tối
-vừa thi thoảng lại lén liếc nhìn xuống dưới mặt bàn - và chuyện này là
-hoàn toàn ổn đối với Steve Jobs cũng như vối hàng triệu người đã hào
-hứng mua chiếc điện thoại thông minh đầu tiên của
+Bây giờ thì người ta đã thừa nhận rộng rãi rằng các công nghệ mới như mạng xã hội và điện thoại thông minh đã ảnh hưởng sâu sắc đến lối sống của con người trong thế kỷ 21. Có muôn vàn cách khác nhau để mô tả sự thay đổi này. Tôi nghĩ nhà phê bình xã hội Laurence Scott đã có cách diễn giải khá hay khi ông mô tả rằng sự tồn tại siêu kết nối này là sự tồn tại mà trong đó =="một khoảnh khắc có thể trở nên tẻ nhạt một cách kỳ lạ nếu nó chỉ tồn tại độc lập"==.
+<!--ID: 1693795596423-->
 
-mình trong giai đoạn đó. Cũng giống như trường hợp của những người đầu
-tiên chào đón Facebook, không mấy ai dự đoán được rằng mối quan hệ của
-chúng ta với thứ công cụ mới bóng bẩy này lại biến đổi nhanh chóng đến
-vậy trong những năm tiếp theo.
 
-Bây giờ thì người ta đã thừa nhận rộng rãi rằng các công nghệ mới như
-mạng xã hội và điện thoại thông minh đã ảnh hưởng sâu sắc đến lối sống
-của con người trong thế kỷ 21. Có muôn vàn cách khác nhau để mô tả sự
-thay đổi này. Tôi nghĩ nhà phê bình xã hội Laurence Scott đã có cách
-diễn giải khá hay khi ông mô tả rằng sự tồn tại siêu kết nối này là sự
-tồn tại mà trong đó "một khoảnh khắc có thể trở nên tẻ nhạt một cách kỳ
-lạ nếu nó chỉ tồn tại độc lập."
-
-Tuy nhiên, điểm trọng yếu trong những quan sát trên là nó nhấn mạnh điều
-mà nhiều người đã lãng quên: Những thay đổi sâu sắc và quy mô này diễn
-ra hoàn toàn bất ngờ và chúng ta không có sự chuẩn bị nào để đối phó với
-chúng. Một sinh viên năm thứ ba đại học khi lập tài khoản trên
-thefacebook.com vào năm 2004 ngày ấy để tìm kiếm và giữ mối liên lạc với
-các bạn học cùng lớp có lẽ đã không dự đoán được rằng trong tương lai,
-một người dùng internet trung bình sẽ dành khoảng 2 giờ *mỗi ngày* trên
-mạng xã hội và các dịch vụ nhắn tin liên quan, riêng gần một nửa số thời
-gian đó là dành cho những sản phẩm của Facebook. Tương tự, những người
-đầu tiên mua iPhone năm 2007 vì những ứng dụng âm
-
-nhạc của nó hẳn sẽ bớt hào hứng hơn nếu có người nói với họ rằng trong
-vòng một thập niên sau đó, họ sẽ bắt buộc phải mở máy tới 85 lần mỗi
-ngày - đây là "đặc điểm" mà chúng ta biết rằng Steve Jobs chưa từng nghĩ
-đến khi ông chuẩn bị nội dung cho màn ra mắt iPhone nổi tiếng của mình.
+Tuy nhiên, điểm trọng yếu trong những quan sát trên là nó nhấn mạnh điều mà nhiều người đã lãng quên: Những thay đổi sâu sắc và quy mô này diễn ra hoàn toàn bất ngờ và chúng ta không có sự chuẩn bị nào để đối phó với chúng. Một sinh viên năm thứ ba đại học khi lập tài khoản trên **thefacebook.com** vào năm 2004 ngày ấy để tìm kiếm và giữ mối liên lạc với các bạn học cùng lớp có lẽ đã không dự đoán được rằng trong tương lai, một người dùng internet trung bình sẽ dành khoảng *2 giờ mỗi ngày* trên mạng xã hội và các dịch vụ nhắn tin liên quan, riêng gần một nửa số thời gian đó là dành cho những sản phẩm của Facebook. Tương tự, những người đầu tiên mua iPhone năm 2007 vì những ứng dụng âm nhạc của nó hẳn sẽ bớt hào hứng hơn nếu có người nói với họ rằng trong vòng một thập niên sau đó, họ sẽ bắt buộc phải mở máy tới 85 lần mỗi ngày - đây là "đặc điểm" mà chúng ta biết rằng Steve Jobs chưa từng nghĩ đến khi ông chuẩn bị nội dung cho màn ra mắt iPhone nổi tiếng của mình.
 
 Những thay đổi này tìm đến một cách lặng lẽ nhưng nhanh chóng, không để
 chúng ta kịp có cơ hội nhảy lùi lại và hỏi *chúng ta thực sự mong muốn
