@@ -7,7 +7,7 @@
 ## Giao tiếp
 
 [[1. PROJECT/HLMT - vozer/00. Quán tính tư duy và lối nói chuyện nhàm chán\|00. Quán tính tư duy và lối nói chuyện nhàm chán]]
-
+[[1. PROJECT/HLMT - vozer/01. 4 cách mở chủ đề\|01. 4 cách mở chủ đề]]
 
 [[1. PROJECT/HLMT - vozer/Sửa lỗi bắt chuyện 2019\|Sửa lỗi bắt chuyện 2019]]
 
