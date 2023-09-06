@@ -35,5 +35,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/23. Đòn bẩy sản phẩm rất công bằng\|23. Đòn bẩy sản phẩm rất công bằng]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/24. Chọn một mô hình kinh doanh có khả năng áp dụng đòn bẩy Pick\|24. Chọn một mô hình kinh doanh có khả năng áp dụng đòn bẩy Pick]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/25. Từ người làm công đến nhà sáng lập\|25. Từ người làm công đến nhà sáng lập]]
+- [[26. Thành bại tại khả năng đánh giá\|26. Thành bại tại khả năng đánh giá]]
 
 { .block-language-dataview}
