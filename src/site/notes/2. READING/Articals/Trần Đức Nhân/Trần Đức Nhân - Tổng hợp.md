@@ -29,8 +29,8 @@ Các [[2. READING/Articals/📰 Articles\|📰 Articles]] mà mình lượm nh�
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/GHI CHÉP 5\|GHI CHÉP 5]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/GHI CHÉP 4\|GHI CHÉP 4]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/GHI CHÉP 3 - NHỮNG CÁCH THỨC GHI CHÉP DÀNH CHO BẠN\|GHI CHÉP 3 - NHỮNG CÁCH THỨC GHI CHÉP DÀNH CHO BẠN]]
-- [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP]]
 - [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/GHI CHÉP 2 - GHI CHÉP CHÍNH LÀ MỘT SỰ GHI NHỚ\|GHI CHÉP 2 - GHI CHÉP CHÍNH LÀ MỘT SỰ GHI NHỚ]]
+- [[2. READING/Articals/Trần Đức Nhân/Reading and Writing Hacks/GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP\|GHI CHÉP 1 - LÝ DO TẠI SAO BẠN PHẢI GHI CHÉP]]
 - [[2. READING/Articals/Trần Đức Nhân/Khác/Trưởng thành là nhận biết những gì không thể\|Trưởng thành là nhận biết những gì không thể]]
 - [[2. READING/Articals/Trần Đức Nhân/Khác/Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn\|Tiểu tiết nhỏ đem tới hào quang cho số phận của bạn]]
 
