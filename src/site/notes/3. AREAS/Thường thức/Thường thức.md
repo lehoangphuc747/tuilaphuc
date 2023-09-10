@@ -17,4 +17,7 @@ Q: Dãy núi Hoàng Liên Sơn nằm ở vùng nào?
 A: Tây Bắc
 <!--ID: 1693997024172-->
 
+Q: Giỗ ông ngoại ngày?
+A: 20/8 âm
+<!--ID: 1694360450542-->
 
