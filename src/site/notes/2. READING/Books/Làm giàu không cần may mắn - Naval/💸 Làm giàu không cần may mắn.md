@@ -39,5 +39,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/27. Tự đặt cho mình một mức lương lý tưởng\|27. Tự đặt cho mình một mức lương lý tưởng]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/28. Hãy dốc lòng dốc sức hết khả năng của mình\|28. Hãy dốc lòng dốc sức hết khả năng của mình]]
 - [[29. Hãy để bạn thân bận đến nỗi không có thời gian uống cafe\|29. Hãy để bạn thân bận đến nỗi không có thời gian uống cafe]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/30. Luôn tự làm mới lại việc bạn đang làm\|30. Luôn tự làm mới lại việc bạn đang làm]]
 
 { .block-language-dataview}
