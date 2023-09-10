@@ -1,5 +1,5 @@
 ---
-{"title":"AI có thể thúc đẩy (không phải hủy hoại) ngành giáo dục như thế nào? - với học sinh và giáo viên","author":["The Mad Bear"],"type":"post","category":null,"word-count":null,"dg-publish":true,"dg-hide":true,"tags":["journal","AI","publish","education","articles","chatgpt"],"permalink":"/1-project/viet-lach/ai-co-the-thuc-day-khong-phai-huy-hoai-nganh-giao-duc-nhu-the-nao-voi-hoc-sinh-va-giao-vien/","hide":true,"dgPassFrontmatter":true}
+{"title":"AI có thể thúc đẩy (không phải hủy hoại) ngành giáo dục như thế nào? - với học sinh và giáo viên","author":["The Mad Bear"],"type":"post","category":null,"word-count":null,"dg-publish":true,"dg-hide":true,"tags":["AI","publish","education","articles","chatgpt"],"permalink":"/1-project/viet-lach/ai-co-the-thuc-day-khong-phai-huy-hoai-nganh-giao-duc-nhu-the-nao-voi-hoc-sinh-va-giao-vien/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
