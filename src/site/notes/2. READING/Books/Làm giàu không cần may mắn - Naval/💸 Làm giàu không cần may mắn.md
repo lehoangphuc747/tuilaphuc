@@ -1,8 +1,6 @@
 ---
-{"dg-hide":true,"author":"Naval Ravikant","type":"book","dg-publish":true,"tags":["rich","PTBT","Naval-Ravikant"],"title":"💸 Làm giàu không cần may mắn","permalink":"/2-reading/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","hide":true,"dgPassFrontmatter":true}
+{"category":"finance","related":[],"word-count":null,"TARGET DECK":null,"FILE TAGS":null,"dg-hide":true,"author":["Naval Ravikant"],"type":"book","dg-publish":true,"tags":["rich","PTBT","Naval-Ravikant","finance"],"title":"💸 Làm giàu không cần may mắn","permalink":"/2-reading/books/lam-giau-khong-can-may-man-naval/lam-giau-khong-can-may-man/","hide":true,"dgPassFrontmatter":true}
 ---
-
-
 
 **Background:** Tác giả của chúng ta là Naval Ravikant, một tỷ phú, CEO của AngelList, một sàn dành cho Startup và nhà đầu tư kết nối với nhau.
 
@@ -40,5 +38,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/28. Hãy dốc lòng dốc sức hết khả năng của mình\|28. Hãy dốc lòng dốc sức hết khả năng của mình]]
 - [[29. Hãy để bạn thân bận đến nỗi không có thời gian uống cafe\|29. Hãy để bạn thân bận đến nỗi không có thời gian uống cafe]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/30. Luôn tự làm mới lại việc bạn đang làm\|30. Luôn tự làm mới lại việc bạn đang làm]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/31. Trở nên độc đáo để thoát khỏi việc cạnh tranh\|31. Trở nên độc đáo để thoát khỏi việc cạnh tranh]]
 
 { .block-language-dataview}
