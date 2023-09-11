@@ -49,7 +49,7 @@ A: **```from decimal import*```**
 <!--ID: 1693449222797-->
 
 
-Q: **from decimal import*** có tác dụng?
+Q: **`from decimal import*`** có tác dụng?
 A: lấy toàn bộ nội dung của thư viện Decimal
 <!--ID: 1693449222806-->
 
@@ -67,5 +67,3 @@ A: **getcontext().prec = 30**
 Q: ![Pasted image 20230831112553.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230831112553.png)
 A: ![Pasted image 20230831112607.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230831112607.png)
 <!--ID: 1693449222845-->
-
-
