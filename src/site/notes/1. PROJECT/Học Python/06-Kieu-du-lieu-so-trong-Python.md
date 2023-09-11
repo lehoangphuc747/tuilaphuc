@@ -24,7 +24,7 @@ A: phân số
 <!--ID: 1693449222758-->
 
 
-Q: complex là gì
+Q: complex là gì?
 A: số phức
 <!--ID: 1693449222768-->
 
