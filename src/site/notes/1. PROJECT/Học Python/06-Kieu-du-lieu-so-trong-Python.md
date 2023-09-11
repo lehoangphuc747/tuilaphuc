@@ -45,7 +45,7 @@ A: 15
 
 
 Q: câu lệnh lấy toàn bộ nội dung của thư viện Decimal?
-A: **from decimal import***
+A: **```from decimal import*```**
 <!--ID: 1693449222797-->
 
 
