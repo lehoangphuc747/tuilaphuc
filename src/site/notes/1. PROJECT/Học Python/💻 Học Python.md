@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-project/hoc-python/hoc-python/","dgPassFrontmatter":true}
 ---
 
-
 # Khóa học Python cơ bản
 
 | Bài                                                                                                             | Tác giả      |
