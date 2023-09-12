@@ -39,5 +39,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/29. Hãy để bạn thân bận đến nỗi không có thời gian uống cafe\|29. Hãy để bạn thân bận đến nỗi không có thời gian uống cafe]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/30. Luôn tự làm mới lại việc bạn đang làm\|30. Luôn tự làm mới lại việc bạn đang làm]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/31. Trở nên độc đáo để thoát khỏi việc cạnh tranh\|31. Trở nên độc đáo để thoát khỏi việc cạnh tranh]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/32. Chơi ngu thì nhận lại những thứ ngớ ngẩn\|32. Chơi ngu thì nhận lại những thứ ngớ ngẩn]]
 
 { .block-language-dataview}
