@@ -1,5 +1,5 @@
 ---
-{"author":[],"type":null,"category":null,"related":[],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":["people","friend"],"title":"Vy xe ôm","FILE TAGS":"friend","TARGET DECK":"Everything::Knowledge","permalink":"/4-resource/people/vy-xe-om/","hide":true,"dgPassFrontmatter":true}
+{"author":[],"type":null,"category":null,"related":[],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":["people","friend"],"title":"Vy xe ôm","anki tags":"friend","deck":"Everything::Knowledge","permalink":"/4-resource/people/vy-xe-om/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
