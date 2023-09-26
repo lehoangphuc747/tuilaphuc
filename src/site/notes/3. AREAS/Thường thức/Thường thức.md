@@ -1,5 +1,5 @@
 ---
-{"title":"Thường thức","author":[],"type":null,"category":null,"related":[],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":[],"TARGET DECK":"Everything::Knowledge","FILE TAGS":"knowledge","permalink":"/3-areas/thuong-thuc/thuong-thuc/","hide":true,"dgPassFrontmatter":true}
+{"title":"Thường thức","author":[],"type":null,"category":null,"related":[],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":null,"deck":"Everything::Knowledge","anki tags":"knowledge","permalink":"/3-areas/thuong-thuc/thuong-thuc/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
