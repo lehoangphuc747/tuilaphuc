@@ -23,4 +23,4 @@
 
 ## [[Bản thân/🤣 Funny\|🤣 Funny]]
 
-## [[1. PROJECT/School/Wonkwang University/한국어 - 베트남 번역\|한국어 - 베트남 번역]]
+[[3. AREAS/School/Wonkwang University/한국어-베트남어 번역\|한국어-베트남어 번역]]
