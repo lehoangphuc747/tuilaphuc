@@ -1,5 +1,5 @@
 ---
-{"title":"Nguyễn Thị Như Linh","TARGET DECK":"Everything::Knowledge","FILE TAGS":"people","author":[],"type":null,"category":null,"related":["[[Thông tin về người khác]]"],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":["people"],"aliases":[],"permalink":"/4-resource/people/nguyen-thi-nhu-linh/","hide":true,"dgPassFrontmatter":true}
+{"title":"Nguyễn Thị Như Linh","deck":"Everything::Knowledge","anki tags":"people","author":[],"type":null,"category":null,"related":["[[Thông tin về người khác]]"],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":["people"],"aliases":null,"permalink":"/4-resource/people/nguyen-thi-nhu-linh/","hide":true,"dgPassFrontmatter":true}
 ---
 
 Created:  2023-09-07  09:09
