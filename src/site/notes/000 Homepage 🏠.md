@@ -8,10 +8,10 @@
 
 - 2001
 - ISFJ
-- Reading, Journal
+- Reading, Journal, Walking
 - Korean (TOPIK 4)
-- Dalat University, Wonkwang University
-- Using Anki, Obsidian
+- Dalat University-Wonkwang University
+- Anki-Obsidian user
 
 ---
 
@@ -23,7 +23,6 @@
 [[1. PROJECT/Ngoại ngữ/🇰🇷 Học tiếng Hàn\|🇰🇷 Học tiếng Hàn]]
 [[1. PROJECT/Học Python/💻 Học Python\|💻 Học Python]]
 [[0. JOURNAL/📒 Nhật ký\|📒 Nhật ký]]
-
 
 ---
 
