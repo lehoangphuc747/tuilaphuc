@@ -4,20 +4,20 @@
 
 # Khóa học Python cơ bản
 
-| Bài                                                                                                             | Tác giả      |
-| --------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[1. PROJECT/Học Python/01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]] | howkteam.com |
-| [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]]               | howkteam.com |
-| [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]                        | howkteam.com |
-| [[1. PROJECT/Học Python/05-Bien-trong-Python\|05. Biến trong Python]]                                        | howkteam.com |
-| [[1. PROJECT/Học Python/06-Kieu-du-lieu-so-trong-Python\|06. Kiểu dữ liệu số trong Python]]                  | howkteam.com |
+| Bài                                                                                                             | Tác giả                        |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [[1. PROJECT/Học Python/01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]] | howkteam.com                   |
+| [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]]               | howkteam.com                   |
+| [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]                        | howkteam.com                   |
+| [[1. PROJECT/Học Python/05-Bien-trong-Python\|05-. eB-iến t-rong Python]]                                    | <ul><li>howkteam.com</li></ul> |
+| [[1. PROJECT/Học Python/06-Kieu-du-lieu-so-trong-Python\|06. Kiểu dữ liệu số trong Python]]                  | howkteam.com                   |
 
 { .block-language-dataview}
 
+
+
 [[Bản thân/PTBT/Hiệu suất/Phím tắt Sublime Text\|Phím tắt Sublime Text]]
-
 [[1. PROJECT/Học Python/Types and Comparisons\|Types and Comparisons]]
-
 [[1. PROJECT/Học Python/Conditional Statements\|Conditional Statements]]
 
 ![Pasted image 20230812172020.png](/img/user/4.%20RESOURCE/attachments/Pasted%20image%2020230812172020.png)
