@@ -7,6 +7,7 @@
 
 | File                                                      | Tiêu đề                                                                                           | Số từ |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----- |
+| [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-26\|2023-09-26]] | Văn phòng giao lưu quốc tế thông báo cung cấp bữa ăn vào Trung Thu                                | \-    |
 | [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-09\|2023-09-09]] | lần lữa, vậy rốt cuộc mình là ai?                                                                 | 482   |
 | [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-03\|2023-09-03]] | AI có thể thúc đẩy (không phải hủy hoại) ngành giáo dục như thế nào?  - với học sinh và giáo viên | 816   |
 | [[0. JOURNAL/Năm 2023/Tháng 9/2023-09-02\|2023-09-02]] | Không học, không tập trung làm việc được thì làm gì?                                              | 463   |
