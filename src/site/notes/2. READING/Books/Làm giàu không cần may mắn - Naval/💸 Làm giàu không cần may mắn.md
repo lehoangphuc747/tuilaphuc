@@ -43,6 +43,7 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/33. Rồi cuối cùng bạn cũng sẽ đạt được thứ mà bạn xứng đáng\|33. Rồi cuối cùng bạn cũng sẽ đạt được thứ mà bạn xứng đáng]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/34. Bỏ ngoài tai hầu hết lời khuyên\|34. Bỏ ngoài tai hầu hết lời khuyên]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/35. Trí bình thản, Thể sung mãn, Một gia đình tràn đầy tình yêu thương\|35. Trí bình thản, Thể sung mãn, Một gia đình tràn đầy tình yêu thương]]
-- [[36. Chẳng có mô hình làm giàu nhanh chóng nào cả\|36. Chẳng có mô hình làm giàu nhanh chóng nào cả]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/36. Chẳng có mô hình làm giàu nhanh chóng nào cả\|36. Chẳng có mô hình làm giàu nhanh chóng nào cả]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/37. Biến bản thân bạn thành sản phẩm\|37. Biến bản thân bạn thành sản phẩm]]
 
 { .block-language-dataview}
