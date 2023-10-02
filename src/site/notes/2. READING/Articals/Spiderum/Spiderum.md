@@ -15,9 +15,9 @@ Tổng hợp [[2. READING/Articals/📰 Articles\|bài đọc]] từ các cây v
 | File                                                                                                                 | Tác giả    |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[2. READING/Articals/Spiderum/Tại sao ta sống\|Tại sao ta sống]]                                                 | Andy Luong |
+| [[2. READING/Articals/Spiderum/Ba Mẹ không thay đổi thì Ta thay đổi\|Ba Mẹ không thay đổi thì Ta thay đổi]]       | Limitless  |
 | [[2. READING/Articals/Spiderum/Chăm Sóc Bản Thân - Vì Mình và Vì Người\|Chăm Sóc Bản Thân - Vì Mình và Vì Người]] | Limitless  |
 | [[2. READING/Articals/Spiderum/Chúng Ta Còn Thấy Bố Mẹ Được Bao Lâu\|Chúng Ta Còn Thấy Bố Mẹ Được Bao Lâu]]       | Limitless  |
-| [[2. READING/Articals/Spiderum/Ba Mẹ không thay đổi thì Ta thay đổi\|Ba Mẹ không thay đổi thì Ta thay đổi]]       | Limitless  |
 | [[2. READING/ReadItLater Inbox/Một vài câu hỏi trên Quora\|Một vài câu hỏi trên Quora]]                           | Mai An     |
 
 { .block-language-dataview}
