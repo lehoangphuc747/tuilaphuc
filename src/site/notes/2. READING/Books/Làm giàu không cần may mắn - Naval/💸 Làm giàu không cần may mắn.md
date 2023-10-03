@@ -45,5 +45,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/35. Trí bình thản, Thể sung mãn, Một gia đình tràn đầy tình yêu thương\|35. Trí bình thản, Thể sung mãn, Một gia đình tràn đầy tình yêu thương]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/36. Chẳng có mô hình làm giàu nhanh chóng nào cả\|36. Chẳng có mô hình làm giàu nhanh chóng nào cả]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/37. Biến bản thân bạn thành sản phẩm\|37. Biến bản thân bạn thành sản phẩm]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/38. Chịu trách nhiệm nghĩa là cho phép người khác chỉ trích bản thân\|38. Chịu trách nhiệm nghĩa là cho phép người khác chỉ trích bản thân]]
 
 { .block-language-dataview}
