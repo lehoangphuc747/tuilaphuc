@@ -2,7 +2,7 @@
 {"author":["Naval Ravikant"],"type":"chapter","category":"finance","related":["[[💸 Làm giàu không cần may mắn]]"],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":null,"deck":null,"anki tags":null,"title":"❌ Chưa xử lý","permalink":"/2-reading/books/lam-giau-khong-can-may-man-naval/chua-xu-ly/","hide":true,"dgPassFrontmatter":true}
 ---
 
-[[45. Chuyển những Game ngắn hạn thành dài hạn\|45. Chuyển những Game ngắn hạn thành dài hạn]]
+[[2. READING/Books/Làm giàu không cần may mắn - Naval/45. Chuyển những Game ngắn hạn thành dài hạn\|45. Chuyển những Game ngắn hạn thành dài hạn]]
 
 
 46. Compounding Relationships Make Life Easier
