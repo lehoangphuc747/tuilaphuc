@@ -47,6 +47,9 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/37. Biến bản thân bạn thành sản phẩm\|37. Biến bản thân bạn thành sản phẩm]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/38. Chịu trách nhiệm nghĩa là cho phép người khác chỉ trích bản thân\|38. Chịu trách nhiệm nghĩa là cho phép người khác chỉ trích bản thân]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/39. Hãy tận dụng những đòn bẩy có sẵn từ công nghệ\|39. Hãy tận dụng những đòn bẩy có sẵn từ công nghệ]]
-- [[40. Sống đẹp thật ra là bạn đang tham lam những thứ lâu dài\|40. Sống đẹp thật ra là bạn đang tham lam những thứ lâu dài]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/40. Sống đẹp thật ra là bạn đang tham lam những thứ lâu dài\|40. Sống đẹp thật ra là bạn đang tham lam những thứ lâu dài]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/41. Lòng đố kỵ có thể đốt lên động lực trong bạn, nhưng cũng có khi bạn sẽ bị thiêu theo nó luôn\|41. Lòng đố kỵ có thể đốt lên động lực trong bạn, nhưng cũng có khi bạn sẽ bị thiêu theo nó luôn]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/42. Người đặt ra nguyên tắc - Người đại diện. Hãy hành động như một người làm chủ\|42. Người đặt ra nguyên tắc - Người đại diện. Hãy hành động như một người làm chủ]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo\|43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo]]
 
 { .block-language-dataview}
