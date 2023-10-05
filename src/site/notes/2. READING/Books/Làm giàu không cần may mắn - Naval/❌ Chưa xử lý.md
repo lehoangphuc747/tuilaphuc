@@ -2,80 +2,10 @@
 {"author":["Naval Ravikant"],"type":"chapter","category":"finance","related":["[[💸 Làm giàu không cần may mắn]]"],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":null,"deck":null,"anki tags":null,"title":"❌ Chưa xử lý","permalink":"/2-reading/books/lam-giau-khong-can-may-man-naval/chua-xu-ly/","hide":true,"dgPassFrontmatter":true}
 ---
 
-[[2. READING/Books/Làm giàu không cần may mắn - Naval/43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo\|43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo]]
+[[45. Chuyển những Game ngắn hạn thành dài hạn\|45. Chuyển những Game ngắn hạn thành dài hạn]]
 
-44\. Schelling Point: Cooperating Without Communicating  
-Điểm trung bình: Hợp tác mà không cần thương thảo 
-------------------------------------------------------------------------------------------------------------
 
-In game theory, a focal point (or Schelling point) is a solution that people tend to choose by default in the absence of communication. Trong lý thuyết trò chơi, Schelling point là một giải pháp mà mọi người sẽ mặc định chọn nếu không có cơ hội thương thảo với nhau.
-
-Rất nhiều người có thể không giao tiếp với nhau mà vẫn hợp tác cùng nhau nhờ dự đoán trước hành động của đối tác.
-
-### Use social norms to cooperate when you can’t communicate  
-Sử dụng những chuẩn mực xã hội để hợp tác khi mà bạn không thể thương thảo với nhau 
-
-Người phỏng vấn: Anh có thể nói thêm về “Schelling Point” được không?
-
-Naval: Schelling Point – hay còn gọi là Focal point, là một thuật ngữ được phổ biến từ cuốn “The Strategy of Conflict”.
-
-Hãy tưởng tượng 1 trò chơi nhiều người mà ở đó không ai giao tiếp gì được với nhau nhưng có thể tương tác với nhau. Schelling đã đưa ra một công thức toán học để trả lời cho câu hỏi rằng: Nếu không thể giao tiếp với nhau thì hợp tác bằng cách nào?
-
-Giả thử tôi với anh có sắp xếp cuộc hẹn, nhưng vì một lý do nào đó ta không thể xác định thời gian và địa điểm họp mặt. Nghe bất khả đúng không? Nhưng hãy nhớ rằng tôi với anh đều là sinh vật có lý trí, có tư duy, và có hành vi xã hội được định hướng.
-
-Về thời gian? Tôi sẽ cho rằng nếu phải chọn một ngày bất kỳ, ta sẽ chọn ngày đầu năm vì đấy là một mốc dễ nhớ, ai cũng có. Và sẽ là dịp năm mới, không giờ một phút. Tôi với anh nếu cùng là người Mỹ, và chọn năm mới, thì địa điểm hợp lý sẽ là New York, nơi quả cầu ở quảng trường thời đại được hạ xuống.
-
-### You can find Schelling points in business, art and politics  
-Schelling Point có thể được áp dụng trong cả kinh doanh, nghệ thuật và chính trị
-
-Có rất nhiều game mà lý thuyết này có thể áp dụng được, dù đó là kinh doanh, nghệ thuật hay chính trị, và bạn luôn sẽ tìm thấy được focal point trong đó. Và từ đó mở ra cơ hội hợp tác khi không thể giao tiếp.
-
-Ví dụ như trường hợp giữa Pepsi và Coca-cola. Giả sử hai hãng bán hai mức giá khác nhau, rồi sau một khoảng thời gian thì giá của 2 lon coca và pepsi bằng nhau mà không cần họ phải tự ngã giá thương lượng gì với nhau cả.
-
-45\. Turn Short-Term Games Into Long-Term Games  
-Chuyển những Game ngắn hạn thành dài hạn 
--------------------------------------------------------------------------------------------
-
-Cải thiện đòn bẩy của bạn bằng cách biến những mối quan hệ ngắn hạn thành dài hạn.
-
-### Pareto optimal solutions require a trade-off to improve any criterion  
-Phương pháp tối ưu hóa Pareto đòi hỏi bạn phải đánh đổi thứ gì đó mới có thể cải thiện 1 tiêu chuẩn của bạn
-
-Hiệu quả Pareto hay còn gọi là tối ưu Pareto là một trong những lý thuyết trung tâm của kinh tế học với nhiều ứng dụng rộng rãi trong lý thuyết trò chơi, các ngành kỹ thuật, cũng như khoa học xã hội. Với 1 nhóm các cá nhân và nhiều cách phân bổ nguồn lực khác nhau cho mỗi cá nhân trong nhóm đó, việc chuyển từ một phân bổ này sang một phân bổ khác mà làm ít nhất một cá nhân có điều kiện tốt hơn nhưng không làm cho bất cứ một cá nhân nào khác có điều kiện xấu đi được gọi là một sự cải thiện Pareto hay một sự tối ưu hóa Pareto. Khi đạt được một phân bổ mà không còn cách nào khác để đạt thêm sự cải thiện Pareto, cách phân bổ đó được gọi là hiệu quả Pareto hoặc tối ưu Pareto.
-
-“Hiệu quả Pareto” là một khái niệm từ “Game theory”, ngoài khái niệm này ta còn có một khái niệm khác là “Pareto Superior – Siêu việt Pareto” nữa.
-
-Siêu việt Pareto tức là nếu xét 2 thứ, nhưng sẽ có một thứ có một/nhiều mặt trội hơn hẳn thứ còn lại, những mặt còn lại thì không tệ hơn. Đây là điểm cần lưu ý khi đàm phán. Hãy luôn đưa mình vào tâm thế rằng luôn tìm những giải pháp có siêu việt Pareto so với giải pháp hiện tại.
-
-Tối ưu Pareto nghĩa là khi giải pháp đó là tốt nhất có thể rồi, và bạn không có cách nào thay đổi nó mà không làm nó tệ hơn. Đấy là một khái niệm quan trọng khác bạn cần nhớ khi thương thuyết và đàm phán. Do đó sẽ luôn có đánh đổi khi những điều khoản đã đạt đến “Tối ưu Pareto”.
-
-### Negotiations are won by whoever cares less  
-Càng ít quan tâm thì bạn càng dành phần lợi trong việc thương thuyết
-
-Bạn càng ít quan tâm thì bạn càng dễ thắng khi thương thuyết. Nếu bạn thể hiện mình muốn cái gì đấy thì hoàn toàn đối phương có thể lợi dụng điều này để trên cơ bạn. Phải có đủ sự bất cần, giống như cảnh Sony muốn bán ma túy khi thương thuyết với địch trong phim Bố Già vậy.
-
-Nếu bạn thấy mình đang bị ép pha trong khi thương thuyết, hãy cố gắng chuyển những kỳ vọng của họ từ ngắn hạn sang dài hạn. Hãy cố gắng để game bạn chơi với họ là game có sự lặp lại. Hãy mang danh tiếng của mình vào thương thuyết. Hãy rủ thêm những người muốn chơi game mà bạn đang chơi với phía bên kia vào cuộc trong tương lai.
-
-Sửa nhà là một ví dụ tiêu biểu cho việc bạn vì không hiểu mà phải trả nhiều tiền hơn mức bình thường.
-
-Đám nhà thầu thì đã có tiếng với việc kê giá và chối bỏ trách nhiệm rồi. Họ đẻ ra đủ thứ lý do để biện minh như: “Chủ nhà đưa ra mấy đề nghị vô lý quá”; “Đang thi công thì gặp thêm nhiều vấn đề”; “Chủ nhà có chịu chi trả cho việc đấy đâu”; “Chủ nhà không hiểu mấy thứ chuyên môn này”.
-
-Bản thân bạn khi quyết định chọn một nhà thầu như vậy thì bạn đã ký tên vào một giao dịch mà bạn là người thiệt rồi. Bạn không có kiến thức kinh nghiệm cùng kĩ năng để phát hiện khi nào bên thi công báo láo. Bạn bị mù thông tin và hoàn toàn bị động. Nhưng bạn cần sửa nhà. Đấy là điểm bất lợi của bạn.
-
-### Convert single-move games to multi-move games  
-Chuyển game 1 nước đi thành nhiều nước đi 
-
-Hãy ngẫm lại những mối quan hệ bạn bè của mình để tìm đối tác. Hãy tìm những người được nhiều người tín nhiệm. Bạn phải có xu hướng chuyển những cuộc làm ăn “1 nước đi” mà cả 2 bên đều phải cố gắng ăn gian thành một cuộc làm ăn lâu dài “nhiều nước đi”.
-
-Bạn có thể chuyển hướng game bằng cách chia dự án thành 2 dự án nhỏ hơn. Bạn giao dự án đó cho 1 bên thầu và bảo rằng kết quả của dự án này sẽ quyết định xem bên bạn có được tiếp tục thầu dự án còn lại hay không. Từ game 1 nước đi bạn đã chuyển nó thành 2 nước đi.
-
-Một cách khác là khi triển khai dự án, bạn hãy chia sẻ với họ rằng: “Tôi sẽ cùng làm dự án này với bên bạn, và tôi còn có khoảng 3 – 4 đối tác nữa sẽ quan sát kết quả của dự án này để có những quyết định khác cho những dự án khác”.
-
-Một cách khác nữa là viết review ở Yelp hay Thumbtack – điều này đặc biệt hữu dụng nếu nhà thầu bạn làm việc cùng hoạt động ở trong 1 vùng và họ muốn bảo vệ danh tiếng của họ trong vùng đấy để tiếp tục làm ăn lâu dài.
-
-Đấy là những cách giúp bạn chuyển game 1 nước đi thành một game dài hạn và giải thoát cho bạn khỏi vị trí kèo dưới với ít đòn bẩy và thông tin hơn.
-
-46\. Compounding Relationships Make Life Easier  
+46. Compounding Relationships Make Life Easier
 Những mối quan hệ lâu dài giúp đời dễ thở hơn 
 ------------------------------------------------------------------------------------------------
 
