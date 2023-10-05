@@ -51,5 +51,7 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/41. Lòng đố kỵ có thể đốt lên động lực trong bạn, nhưng cũng có khi bạn sẽ bị thiêu theo nó luôn\|41. Lòng đố kỵ có thể đốt lên động lực trong bạn, nhưng cũng có khi bạn sẽ bị thiêu theo nó luôn]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/42. Người đặt ra nguyên tắc - Người đại diện. Hãy hành động như một người làm chủ\|42. Người đặt ra nguyên tắc - Người đại diện. Hãy hành động như một người làm chủ]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo\|43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/44. Điểm trung bình. Hợp tác mà không cần thương thảo\|44. Điểm trung bình. Hợp tác mà không cần thương thảo]]
+- [[45. Chuyển những Game ngắn hạn thành dài hạn\|45. Chuyển những Game ngắn hạn thành dài hạn]]
 
 { .block-language-dataview}
