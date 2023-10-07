@@ -53,5 +53,6 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo\|43. Tiêu chuẩn Kelly. Tránh việc mất hết và về mo]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/44. Điểm trung bình. Hợp tác mà không cần thương thảo\|44. Điểm trung bình. Hợp tác mà không cần thương thảo]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/45. Chuyển những Game ngắn hạn thành dài hạn\|45. Chuyển những Game ngắn hạn thành dài hạn]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/46. Những mối quan hệ lâu dài giúp đời dễ thở hơn\|46. Những mối quan hệ lâu dài giúp đời dễ thở hơn]]
 
 { .block-language-dataview}
