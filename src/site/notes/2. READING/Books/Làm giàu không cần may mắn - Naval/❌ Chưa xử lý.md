@@ -2,42 +2,9 @@
 {"author":["Naval Ravikant"],"type":"chapter","category":"finance","related":["[[💸 Làm giàu không cần may mắn]]"],"word-count":null,"dg-publish":true,"dg-hide":true,"tags":null,"deck":null,"anki tags":null,"title":"❌ Chưa xử lý","permalink":"/2-reading/books/lam-giau-khong-can-may-man-naval/chua-xu-ly/","hide":true,"dgPassFrontmatter":true}
 ---
 
-[[2. READING/Books/Làm giàu không cần may mắn - Naval/45. Chuyển những Game ngắn hạn thành dài hạn\|45. Chuyển những Game ngắn hạn thành dài hạn]]
-
-
-46. Compounding Relationships Make Life Easier
-Những mối quan hệ lâu dài giúp đời dễ thở hơn 
-------------------------------------------------------------------------------------------------
-
-Có hậu phương chắc giúp ta an lòng tập trung vào tiền tuyến.
-
-### Mutual trust makes it easy to do business  
-Mối quan hệ tin cậy hợp tác giúp làm ăn dễ dàng hơn 
-
-Mối quan hệ là một ví dụ tốt của lãi kép. Khi bạn có một mối quan hệ tốt với ai đó được một khoảng thời gian, dù đó là kinh doanh hay tình cảm – Đời bạn sẽ trở nên đơn giản hơn nhiều. Bạn biết bạn có ai đó quan sát và lo liệu những vấn đề sau lưng bạn, để não bạn được thảnh thơi.
-
-Nếu bạn có đối tác làm việc cùng 20 năm, bạn sẽ có thể ký mà không cần nhìn điều khoản pháp lý. Thậm chí cả hai chỉ cần thỏa thuận miệng với nhau là đủ. Rất dễ dàng để hợp tác kinh doanh.
-
-Như tôi và bạn đồng nghiệp lâu năm cùng lập công ty mới và nó có vấn đề gì đó, cả hai sẽ cùng biết cách thoái vốn và đóng cửa công ty sao cho hợp tình hợp lý. Hay nếu muốn tăng vốn và mở rộng thì sẽ cần thuê người như thế nào. Mọi thứ đều có thể giải quyết êm đẹp cho cả 2 bên.
-
-Lý do lớn khiến nhiều startup thất bại là những người sáng lập không chơi chung được với nhau nữa.
-
-Do đó, để tăng khả năng thành công của startup, hãy giảm thiểu sự bất đồng giữa những nhà sáng lập.
-
-### It’s better to have a few compounding relationships than many shallow ones  
-Chất quan trọng hơn lượng trong những mối quan hệ
-
-Lãi kép là một thứ khó thấy và lợi ích ban đầu rất nhỏ. Bạn phải nhẫn mới nhận được giá trị thực của lãi kép. Do đó bạn phải kiên nhẫn với những mối quan hệ, biết cách chọn mối quan hệ để đầu tư và phải bám lấy chúng. Thà ít mà chất.
-
-### It takes just as much effort to create a small business as a large one  
-Kinh doanh nhỏ cũng tốn nhiều công sức như kinh doanh lớn 
-
-Kinh doanh lớn nhỏ gì cũng đều rất cực. Bạn là Elon hay chủ nhà hàng đều sẽ sấp mặt như nhau. Cũng phải dành tâm huyết, cũng bị chiếm rất nhiều thời gian, cũng là chuyện dòng tiền và nhân sự.
-
-Vấn đề là ,một, bạn sẽ tạo được công ty hàng không vũ trụ nắm giữ tương lai loài người. Hai, là bạn có một cái nhà hàng nho nhỏ nơi góc đường. Hãy nghĩ kĩ trước khi quyết định.
-
-### 47\. Price Discrimination: Charge Some People More  
-Phân biệt giá: Ta nên thu phí thêm đối với một nhóm người 
+47. Phân biệt giá: Ta nên thu phí thêm đối với một nhóm người
+# Phân biệt giá: Ta nên thu phí thêm đối với một nhóm người
+## Price Discrimination: Charge Some People More
 
 Phân biệt giá là khả năng bán các sản phẩm của nhà cung cấp theo giá bán khác nhau trên các thị trường khác nhau.
 
