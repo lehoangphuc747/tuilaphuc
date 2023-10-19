@@ -4,13 +4,16 @@
 
 # Khóa học Python cơ bản
 
-| Bài                                                                                                             | Tác giả                        |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| [[1. PROJECT/Học Python/01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]] | howkteam.com                   |
-| [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]]               | howkteam.com                   |
-| [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]                        | howkteam.com                   |
-| [[1. PROJECT/Học Python/05-Bien-trong-Python\|05-. eB-iến t-rong Python]]                                    | <ul><li>howkteam.com</li></ul> |
-| [[1. PROJECT/Học Python/06-Kieu-du-lieu-so-trong-Python\|06. Kiểu dữ liệu số trong Python]]                  | howkteam.com                   |
+[Lập trình Python cơ bản | How Kteam](https://howkteam.vn/course/lap-trinh-python-co-ban-37)
+
+| Bài                                                                                                                    | Tác giả                        |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [[1. PROJECT/Học Python/01. Giới thiệu ngôn ngữ lập trình Python\|01. Giới thiệu ngôn ngữ lập trình Python]]        | howkteam.com                   |
+| [[1. PROJECT/Học Python/03. Cách chạy chương trình Python\|03. Cách chạy chương trình Python]]                      | howkteam.com                   |
+| [[1. PROJECT/Học Python/04-Cach-ghi-chu-trong-Python\|04. Cách ghi chú trong Python]]                               | howkteam.com                   |
+| [[1. PROJECT/Học Python/05-Bien-trong-Python\|05-. eB-iến t-rong Python]]                                           | <ul><li>howkteam.com</li></ul> |
+| [[1. PROJECT/Học Python/06-Kieu-du-lieu-so-trong-Python\|06. Kiểu dữ liệu số trong Python]]                         | howkteam.com                   |
+| [[1. PROJECT/Học Python/07. Kiểu dữ liệu chuỗi trong Python (Phần 1)\|7. Kiểu dữ liệu chuỗi trong Python (Phần 1)]] | \-                             |
 
 { .block-language-dataview}
 
