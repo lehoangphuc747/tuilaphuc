@@ -10,5 +10,9 @@
 { #f19226}
 
 
+Everything
+CopyQ
+BCUninstaller
+
 ---
 [[Bản thân/PTBT/⚙️ Hiệu suất#^9e0a73\|Hiệu suất]]
