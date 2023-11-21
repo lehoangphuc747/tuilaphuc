@@ -49,8 +49,8 @@ Tổng hợp các [[1. PROJECT/Obsidian/Plugins\|Plugins]] nâng cao trải nghi
 - [[1. PROJECT/Obsidian/Readability Score - đánh giá độ dễ đọc\|Readability Score - đánh giá độ dễ đọc]]
 - [[1. PROJECT/Obsidian/Stille - Focus on your writing\|Stille - Focus on your writing]]
 - [[1. PROJECT/Obsidian/Minimal Theme Settings\|Minimal Theme Settings]]
-- [[1. PROJECT/Obsidian/Longform\|Longform]]
 - [[1. PROJECT/Obsidian/Ghost Fade Focus\|Ghost Fade Focus]]
+- [[1. PROJECT/Obsidian/Longform\|Longform]]
 - [[1. PROJECT/Obsidian/Fullscreen Focus Mode\|Fullscreen Focus Mode]]
 - [[1. PROJECT/Obsidian/Daily Stats - Review Heatmap của Obsidian\|Daily Stats - Review Heatmap của Obsidian]]
 
