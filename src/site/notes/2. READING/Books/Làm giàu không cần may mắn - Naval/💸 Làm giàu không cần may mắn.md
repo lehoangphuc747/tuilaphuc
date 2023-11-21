@@ -57,7 +57,7 @@ Gồm 51 bài viết:
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/47. Phân biệt giá. Ta nên thu phí thêm đối với một nhóm người\|47. Phân biệt giá. Ta nên thu phí thêm đối với một nhóm người]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/48. Thặng dư tiêu dùng. Nhận nhiều hơn thứ bạn trả\|48. Thặng dư tiêu dùng. Nhận nhiều hơn thứ bạn trả]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/49. Giá trị hiện tại thuần. Giá trị bạn nhận được trong tương lai sẽ đáng giá như thế nào trong hiện tại\|49. Giá trị hiện tại thuần. Giá trị bạn nhận được trong tương lai sẽ đáng giá như thế nào trong hiện tại]]
-- [[50. Ảnh hưởng ngoại lai. Tính chi phí ẩn của sản phẩm\|50. Ảnh hưởng ngoại lai. Tính chi phí ẩn của sản phẩm]]
+- [[2. READING/Books/Làm giàu không cần may mắn - Naval/50. Ảnh hưởng ngoại lai. Tính chi phí ẩn của sản phẩm\|50. Ảnh hưởng ngoại lai. Tính chi phí ẩn của sản phẩm]]
 - [[2. READING/Books/Làm giàu không cần may mắn - Naval/51. Tranh thủ thời gian để đầu tư vào bản thân\|51. Tranh thủ thời gian để đầu tư vào bản thân]]
 
 { .block-language-dataview}
