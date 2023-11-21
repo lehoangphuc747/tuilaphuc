@@ -4,7 +4,7 @@
 
 # <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
 
-### WHO AM I? 
+### WHO AM I?
 
 - 2001
 - ISFJ
