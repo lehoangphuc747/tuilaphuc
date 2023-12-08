@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":true,"dg-pinned":true,"title":"🏠 Homepage","author":"The Mad Bear","dg-note-icon":null,"permalink":"/000-homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-# <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
+====# <center> <span style="font-size: 150%; text-align: center;">  The Mad Bear </span> </center>
 
 ### WHO AM I?
 
